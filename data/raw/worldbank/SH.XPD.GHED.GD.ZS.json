@@ -1,0 +1,418 @@
+[
+ {
+  "indicator": {
+   "id": "SH.XPD.GHED.GD.ZS",
+   "value": "Domestic general government health expenditure (% of GDP)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2025",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "SH.XPD.GHED.GD.ZS",
+   "value": "Domestic general government health expenditure (% of GDP)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2024",
+  "value": null,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "SH.XPD.GHED.GD.ZS",
+   "value": "Domestic general government health expenditure (% of GDP)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2023",
+  "value": 4.29392195,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "SH.XPD.GHED.GD.ZS",
+   "value": "Domestic general government health expenditure (% of GDP)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2022",
+  "value": 4.25969172,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "SH.XPD.GHED.GD.ZS",
+   "value": "Domestic general government health expenditure (% of GDP)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2021",
+  "value": 4.30673981,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "SH.XPD.GHED.GD.ZS",
+   "value": "Domestic general government health expenditure (% of GDP)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2020",
+  "value": 4.17190552,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "SH.XPD.GHED.GD.ZS",
+   "value": "Domestic general government health expenditure (% of GDP)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2019",
+  "value": 3.91702151,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "SH.XPD.GHED.GD.ZS",
+   "value": "Domestic general government health expenditure (% of GDP)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2018",
+  "value": 3.88924217,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "SH.XPD.GHED.GD.ZS",
+   "value": "Domestic general government health expenditure (% of GDP)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2017",
+  "value": 3.95315194,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "SH.XPD.GHED.GD.ZS",
+   "value": "Domestic general government health expenditure (% of GDP)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2016",
+  "value": 3.94799495,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "SH.XPD.GHED.GD.ZS",
+   "value": "Domestic general government health expenditure (% of GDP)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2015",
+  "value": 3.85396719,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "SH.XPD.GHED.GD.ZS",
+   "value": "Domestic general government health expenditure (% of GDP)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2014",
+  "value": 3.69886327,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "SH.XPD.GHED.GD.ZS",
+   "value": "Domestic general government health expenditure (% of GDP)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2013",
+  "value": 3.55113959,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "SH.XPD.GHED.GD.ZS",
+   "value": "Domestic general government health expenditure (% of GDP)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2012",
+  "value": 3.35463309,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "SH.XPD.GHED.GD.ZS",
+   "value": "Domestic general government health expenditure (% of GDP)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2011",
+  "value": 3.46567941,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "SH.XPD.GHED.GD.ZS",
+   "value": "Domestic general government health expenditure (% of GDP)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2010",
+  "value": 3.57701325,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "SH.XPD.GHED.GD.ZS",
+   "value": "Domestic general government health expenditure (% of GDP)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2009",
+  "value": 3.70742011,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "SH.XPD.GHED.GD.ZS",
+   "value": "Domestic general government health expenditure (% of GDP)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2008",
+  "value": 3.50441861,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "SH.XPD.GHED.GD.ZS",
+   "value": "Domestic general government health expenditure (% of GDP)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2007",
+  "value": 3.48462701,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "SH.XPD.GHED.GD.ZS",
+   "value": "Domestic general government health expenditure (% of GDP)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2006",
+  "value": 3.54130626,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "SH.XPD.GHED.GD.ZS",
+   "value": "Domestic general government health expenditure (% of GDP)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2005",
+  "value": 3.34525418,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "SH.XPD.GHED.GD.ZS",
+   "value": "Domestic general government health expenditure (% of GDP)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2004",
+  "value": 3.46692538,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "SH.XPD.GHED.GD.ZS",
+   "value": "Domestic general government health expenditure (% of GDP)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2003",
+  "value": 3.50954437,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "SH.XPD.GHED.GD.ZS",
+   "value": "Domestic general government health expenditure (% of GDP)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2002",
+  "value": 3.6863513,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "SH.XPD.GHED.GD.ZS",
+   "value": "Domestic general government health expenditure (% of GDP)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2001",
+  "value": 3.51298475,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ },
+ {
+  "indicator": {
+   "id": "SH.XPD.GHED.GD.ZS",
+   "value": "Domestic general government health expenditure (% of GDP)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2000",
+  "value": 3.47014546,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 2
+ }
+]

@@ -1,0 +1,1122 @@
+[
+ {
+  "acao": "21BG",
+  "nome": "Formação e Provisão de Profissionais para a Atenção Primária à Saúde",
+  "sub": "301",
+  "ploa": "2764200000",
+  "dot_ini": "2764200000",
+  "dot_atual": "2924570153",
+  "emp": "2924293516",
+  "pago": "2735886649"
+ },
+ {
+  "acao": "8755",
+  "nome": "Aperfeiçoamento, Avaliação e Desenvolvimento de Ações e Serviços Especializados em Cardiologia-INC",
+  "sub": "302",
+  "ploa": "108600000",
+  "dot_ini": "110448000",
+  "dot_atual": "116943906",
+  "emp": "116937472",
+  "pago": "82018699"
+ },
+ {
+  "acao": "20AL",
+  "nome": "Incentivo Financeiro aos Estados, Distrito Federal e Municípios para a Vigilância em Saúde",
+  "sub": "305",
+  "ploa": "2674000000",
+  "dot_ini": "2674000000",
+  "dot_atual": "2619778129",
+  "emp": "2619778128",
+  "pago": "2544394009"
+ },
+ {
+  "acao": "21CD",
+  "nome": "Implementação de Políticas de Atenção Especializada à Saúde",
+  "sub": "302",
+  "ploa": "47600000",
+  "dot_ini": "47600000",
+  "dot_atual": "24421500",
+  "emp": "23792780",
+  "pago": "10437952"
+ },
+ {
+  "acao": "15W3",
+  "nome": "Estruturação do Centro de Oncologia e Hematologia do Grupo Hospitalar Conceição",
+  "sub": "302",
+  "ploa": "1000000",
+  "dot_ini": "0",
+  "dot_atual": "0",
+  "emp": "0",
+  "pago": "0"
+ },
+ {
+  "acao": "21C0",
+  "nome": "Enfrentamento da Emergência de Saúde Pública de Importância Internacional Decorrente do Coronavirus",
+  "sub": "122",
+  "ploa": "0",
+  "dot_ini": "0",
+  "dot_atual": "22014699205",
+  "emp": "20393792031",
+  "pago": "17111577952"
+ },
+ {
+  "acao": "8715",
+  "nome": "Preservação, Organização, Disseminação e Acesso ao Conhecimento e ao Patrimônio Cultural da Saúde",
+  "sub": "126",
+  "ploa": "10000000",
+  "dot_ini": "10000000",
+  "dot_atual": "7171893",
+  "emp": "7122495",
+  "pago": "4183382"
+ },
+ {
+  "acao": "20K7",
+  "nome": "Apoio ao Desenvolvimento e Modernização de Plataformas Tecnológicas para Fortalecimento do Complexo Industrial da Saúde",
+  "sub": "572",
+  "ploa": "93000000",
+  "dot_ini": "46330000",
+  "dot_atual": "30867830",
+  "emp": "30867828",
+  "pago": "8198916"
+ },
+ {
+  "acao": "21CF",
+  "nome": "Implantação e Funcionamento da Saúde Digital e Telessaúde no SUS",
+  "sub": "573",
+  "ploa": "40000000",
+  "dot_ini": "30000000",
+  "dot_atual": "5930308",
+  "emp": "5727328",
+  "pago": "337651"
+ },
+ {
+  "acao": "21CA",
+  "nome": "Implantação, Ampliação e Melhoria de Sistemas Públicos de Abastecimento de Água em Municípios com até 50.000 Habitantes, Exclusive em Regiões Metropolitanas (RM) ou Regiões Integradas de Desenvolvimento Econômico (RIDE)",
+  "sub": "512",
+  "ploa": "70000000",
+  "dot_ini": "161803087",
+  "dot_atual": "88878040",
+  "emp": "88478040",
+  "pago": "9973447"
+ },
+ {
+  "acao": "216H",
+  "nome": "Ajuda de Custo para Moradia ou Auxílio-Moradia a Agentes Públicos",
+  "sub": "122",
+  "ploa": "3161400",
+  "dot_ini": "3109920",
+  "dot_atual": "3060920",
+  "emp": "2859806",
+  "pago": "2622128"
+ },
+ {
+  "acao": "21CE",
+  "nome": "Implementação de Políticas de Atenção Primária à Saúde",
+  "sub": "301",
+  "ploa": "243750000",
+  "dot_ini": "242761272",
+  "dot_atual": "116452599",
+  "emp": "115974847",
+  "pago": "50033996"
+ },
+ {
+  "acao": "15WP",
+  "nome": "Reforma e Modernização de Nova Unidade do Ministério da Saúde (Bloco “O” da Esplanada dos Ministérios)",
+  "sub": "122",
+  "ploa": "71000000",
+  "dot_ini": "7100000",
+  "dot_atual": "0",
+  "emp": "0",
+  "pago": "0"
+ },
+ {
+  "acao": "20AB",
+  "nome": "Incentivo Financeiro aos Estados, Distrito Federal e Municípios para Execução de Ações de Vigilância Sanitária",
+  "sub": "304",
+  "ploa": "273000000",
+  "dot_ini": "273000000",
+  "dot_atual": "273000000",
+  "emp": "272667124",
+  "pago": "272667124"
+ },
+ {
+  "acao": "8758",
+  "nome": "Aperfeiçoamento, Avaliação e Desenvolvimento de Ações e Serviços Especializados em Oncologia - INCA",
+  "sub": "302",
+  "ploa": "420600000",
+  "dot_ini": "422250041",
+  "dot_atual": "422250041",
+  "emp": "421997316",
+  "pago": "315174677"
+ },
+ {
+  "acao": "217U",
+  "nome": "Apoio à Manutenção dos Polos de Academia da Saúde",
+  "sub": "301",
+  "ploa": "49000000",
+  "dot_ini": "49000000",
+  "dot_atual": "51272000",
+  "emp": "49911000",
+  "pago": "45612000"
+ },
+ {
+  "acao": "2B52",
+  "nome": "Desenvolvimento Institucional da Gestão Orçamentária, Financeira e Contábil do Fundo Nacional de Saúde e dos Fundos Estaduais e Municipais de Saúde",
+  "sub": "121",
+  "ploa": "16000000",
+  "dot_ini": "16000000",
+  "dot_atual": "16000000",
+  "emp": "15934456",
+  "pago": "10629669"
+ },
+ {
+  "acao": "219A",
+  "nome": "Piso de Atenção Primária à Saúde",
+  "sub": "301",
+  "ploa": "20065440000",
+  "dot_ini": "20065440000",
+  "dot_atual": "23119308852",
+  "emp": "23118928958",
+  "pago": "22570341877"
+ },
+ {
+  "acao": "6182",
+  "nome": "Funcionamento e Fortalecimento do Sistema de Ouvidorias do SUS",
+  "sub": "422",
+  "ploa": "35000000",
+  "dot_ini": "35000000",
+  "dot_atual": "14710569",
+  "emp": "14710567",
+  "pago": "9199147"
+ },
+ {
+  "acao": "20AM",
+  "nome": "Implementação de Projetos de Coleta e Reciclagem de Materiais",
+  "sub": "512",
+  "ploa": "10000000",
+  "dot_ini": "8000000",
+  "dot_atual": "5600000",
+  "emp": "5519160",
+  "pago": "0"
+ },
+ {
+  "acao": "20K1",
+  "nome": "Adequação de Plataformas para o Desenvolvimento Tecnológico em Saúde",
+  "sub": "572",
+  "ploa": "16500000",
+  "dot_ini": "14000000",
+  "dot_atual": "14000000",
+  "emp": "14000000",
+  "pago": "13660279"
+ },
+ {
+  "acao": "4295",
+  "nome": "Atenção aos Pacientes Portadores de Doenças Hematológicas",
+  "sub": "303",
+  "ploa": "1539700000",
+  "dot_ini": "1539700000",
+  "dot_atual": "1539700000",
+  "emp": "1539699602",
+  "pago": "1111507616"
+ },
+ {
+  "acao": "21CB",
+  "nome": "Implantação, Ampliação e Melhoria de Sistemas Públicos de Esgotamento Sanitário em Municípios com até 50.000 Habitantes, Exclusive em Regiões Metropolitanas (RM) ou Regiões Integradas de Desenvolvimento Econômico (RIDE)",
+  "sub": "512",
+  "ploa": "87268000",
+  "dot_ini": "100000000",
+  "dot_atual": "55935427",
+  "emp": "55898496",
+  "pago": "8113414"
+ },
+ {
+  "acao": "14UO",
+  "nome": "Implantação de Centros de Desenvolvimento Tecnológico e de Produção de Insumos para o SUS",
+  "sub": "572",
+  "ploa": "3500000",
+  "dot_ini": "3500000",
+  "dot_atual": "3500000",
+  "emp": "3499968",
+  "pago": "1529166"
+ },
+ {
+  "acao": "20T6",
+  "nome": "Fortalecimento da Saúde Ambiental para Redução dos Riscos à Saúde Humana",
+  "sub": "305",
+  "ploa": "14000000",
+  "dot_ini": "12580000",
+  "dot_atual": "5580000",
+  "emp": "5556858",
+  "pago": "1035847"
+ },
+ {
+  "acao": "8648",
+  "nome": "Desenvolvimento e Fortalecimento da Economia da Saúde e Programas de Cooperação Técnica para o Aperfeiçoamento do SUS",
+  "sub": "121",
+  "ploa": "10000000",
+  "dot_ini": "10000000",
+  "dot_atual": "30001089",
+  "emp": "10911592",
+  "pago": "3844012"
+ },
+ {
+  "acao": "20YS",
+  "nome": "Manutenção e Funcionamento do Programa Farmácia Popular do Brasil pelo Sistema de Co-pagamento",
+  "sub": "303",
+  "ploa": "429945983",
+  "dot_ini": "429945983",
+  "dot_atual": "430037703",
+  "emp": "430034863",
+  "pago": "413710759"
+ },
+ {
+  "acao": "21C9",
+  "nome": "Implantação, Ampliação ou Melhoria de Ações e Serviços Sustentáveis de Saneamento Básico em Pequenas Comunidades Rurais (Localidades de Pequeno Porte) ou em Comunidades Tradicionais (Remanescentes de Quilombos)",
+  "sub": "511",
+  "ploa": "80000000",
+  "dot_ini": "80423968",
+  "dot_atual": "273536939",
+  "emp": "263535321",
+  "pago": "28992643"
+ },
+ {
+  "acao": "8719",
+  "nome": "Vigilância Sanitária de Produtos, Serviços e Ambientes",
+  "sub": "304",
+  "ploa": "56900000",
+  "dot_ini": "56900000",
+  "dot_atual": "29358085",
+  "emp": "23621784",
+  "pago": "17057850"
+ },
+ {
+  "acao": "20K5",
+  "nome": "Apoio ao Uso de Plantas Medicinais e Fitoterápicos no SUS",
+  "sub": "303",
+  "ploa": "8500000",
+  "dot_ini": "6800000",
+  "dot_atual": "6800000",
+  "emp": "6800000",
+  "pago": "6800000"
+ },
+ {
+  "acao": "20AI",
+  "nome": "Auxílio-Reabilitação Psicossocial aos Egressos de Longas Internações Psiquiátricas no Sistema Único de Saúde (De Volta Pra Casa)",
+  "sub": "303",
+  "ploa": "28000000",
+  "dot_ini": "28000000",
+  "dot_atual": "22400000",
+  "emp": "22365776",
+  "pago": "22294613"
+ },
+ {
+  "acao": "21CJ",
+  "nome": "Saneamento Básico em Aldeias Indígenas para Prevenção de doenças e Agravos",
+  "sub": "511",
+  "ploa": "31000000",
+  "dot_ini": "31000000",
+  "dot_atual": "35500000",
+  "emp": "35490711",
+  "pago": "20588223"
+ },
+ {
+  "acao": "7690",
+  "nome": "Estruturação dos Serviços de Hematologia e Hemoterapia",
+  "sub": "303",
+  "ploa": "31000000",
+  "dot_ini": "12850000",
+  "dot_atual": "12663528",
+  "emp": "9399784",
+  "pago": "6934881"
+ },
+ {
+  "acao": "8708",
+  "nome": "Fortalecimento da Auditoria do Sistema Único de Saúde",
+  "sub": "125",
+  "ploa": "5000000",
+  "dot_ini": "4700000",
+  "dot_atual": "4700000",
+  "emp": "4680038",
+  "pago": "4020968"
+ },
+ {
+  "acao": "6149",
+  "nome": "Residência de Profissionais de Saúde - SUS",
+  "sub": "128",
+  "ploa": "21000000",
+  "dot_ini": "21000000",
+  "dot_atual": "21000000",
+  "emp": "20909773",
+  "pago": "20726008"
+ },
+ {
+  "acao": "8305",
+  "nome": "Atenção de Referência e Pesquisa Clínica em Patologias de Alta Complexidade da Mulher, da Criança e do Adolescente e em Doenças Infecciosas",
+  "sub": "571",
+  "ploa": "125000000",
+  "dot_ini": "123000000",
+  "dot_atual": "434948571",
+  "emp": "434809794",
+  "pago": "403318120"
+ },
+ {
+  "acao": "20K3",
+  "nome": "Avaliação e Incorporação de Tecnologias de Saúde no Âmbito do SUS",
+  "sub": "303",
+  "ploa": "16200000",
+  "dot_ini": "16000000",
+  "dot_atual": "16000000",
+  "emp": "16000000",
+  "pago": "0"
+ },
+ {
+  "acao": "2E89",
+  "nome": "Incremento Temporário ao Custeio dos Serviços de Atenção Primária à Saúde para Cumprimento de Metas",
+  "sub": "301",
+  "ploa": "0",
+  "dot_ini": "6916210861",
+  "dot_atual": "7842085221",
+  "emp": "7824974249",
+  "pago": "6771496300"
+ },
+ {
+  "acao": "20YL",
+  "nome": "Estruturação de Academias da Saúde",
+  "sub": "301",
+  "ploa": "0",
+  "dot_ini": "8420000",
+  "dot_atual": "7807000",
+  "emp": "7377000",
+  "pago": "0"
+ },
+ {
+  "acao": "20SP",
+  "nome": "Operacionalização do Sistema Nacional de Transplantes",
+  "sub": "302",
+  "ploa": "38000000",
+  "dot_ini": "38100000",
+  "dot_atual": "20896661",
+  "emp": "20896637",
+  "pago": "14648223"
+ },
+ {
+  "acao": "6179",
+  "nome": "Comunicação e Informações para a Educação em Saúde e em Ciência e Tecnologia",
+  "sub": "573",
+  "ploa": "27000000",
+  "dot_ini": "25200000",
+  "dot_atual": "25200000",
+  "emp": "25200000",
+  "pago": "18535666"
+ },
+ {
+  "acao": "21CH",
+  "nome": "Implantação de Melhorias Habitacionais para Controle da Doença de Chagas",
+  "sub": "511",
+  "ploa": "25000000",
+  "dot_ini": "0",
+  "dot_atual": "5000000",
+  "emp": "5000000",
+  "pago": "3699686"
+ },
+ {
+  "acao": "4705",
+  "nome": "Promoção da Assistência Farmacêutica por meio da Disponibilização de Medicamentos do Componente Especializado",
+  "sub": "303",
+  "ploa": "6980000000",
+  "dot_ini": "6980000000",
+  "dot_atual": "6980000000",
+  "emp": "6979986237",
+  "pago": "5165501100"
+ },
+ {
+  "acao": "20YE",
+  "nome": "Aquisição e Distribuição de Imunobiológicos e Insumos para Prevenção e Controle de Doenças",
+  "sub": "305",
+  "ploa": "5378000000",
+  "dot_ini": "5378000000",
+  "dot_atual": "20091283888",
+  "emp": "15626813806",
+  "pago": "11096801236"
+ },
+ {
+  "acao": "4370",
+  "nome": "Atendimento à População com Medicamentos para Tratamento dos Portadores de HIV/AIDS, outras Infecções Sexualmente Transmissíveis e Hepatites Virais",
+  "sub": "303",
+  "ploa": "1830000000",
+  "dot_ini": "1830000000",
+  "dot_atual": "1880000000",
+  "emp": "1879999990",
+  "pago": "1651233046"
+ },
+ {
+  "acao": "0354",
+  "nome": "Concessão de Empréstimos para Liquidação de Operadoras de Planos Privados de Assistência à Saúde (Lei nº 9.961, de 2000)",
+  "sub": "125",
+  "ploa": "4500000",
+  "dot_ini": "4500000",
+  "dot_atual": "4500000",
+  "emp": "2008168",
+  "pago": "1772690"
+ },
+ {
+  "acao": "8759",
+  "nome": "Aperfeiçoamento, Avaliação e Desenvolvimento de Ações e Serviços Especializados em Traumatologia e Ortopedia - INTO",
+  "sub": "302",
+  "ploa": "196600000",
+  "dot_ini": "196600000",
+  "dot_atual": "200018908",
+  "emp": "200018721",
+  "pago": "155933136"
+ },
+ {
+  "acao": "20YP",
+  "nome": "Promoção, Proteção e Recuperação da Saúde Indígena",
+  "sub": "423",
+  "ploa": "1454000000",
+  "dot_ini": "1462045000",
+  "dot_atual": "1541712000",
+  "emp": "1540158032",
+  "pago": "1432804510"
+ },
+ {
+  "acao": "212H",
+  "nome": "Manutenção de Contrato de Gestão com Organizações Sociais (Lei nº 9.637, de 15 de maio de 1998)",
+  "sub": "571",
+  "ploa": "35268000",
+  "dot_ini": "35268000",
+  "dot_atual": "20000000",
+  "emp": "20000000",
+  "pago": "0"
+ },
+ {
+  "acao": "8581",
+  "nome": "Estruturação da Rede de Serviços de Atenção Primária à Saúde",
+  "sub": "301",
+  "ploa": "96000000",
+  "dot_ini": "933079877",
+  "dot_atual": "1143308576",
+  "emp": "1077230242",
+  "pago": "466361224"
+ },
+ {
+  "acao": "15W2",
+  "nome": "Construção do Hospital Público Regional de Palmeira das Missões - RS",
+  "sub": "302",
+  "ploa": "1000000",
+  "dot_ini": "2000000",
+  "dot_atual": "17138865",
+  "emp": "17138865",
+  "pago": "0"
+ },
+ {
+  "acao": "20AH",
+  "nome": "Organização dos Serviços de Assistência Farmacêutica no SUS",
+  "sub": "303",
+  "ploa": "90000000",
+  "dot_ini": "83000000",
+  "dot_atual": "75922000",
+  "emp": "75692608",
+  "pago": "61416000"
+ },
+ {
+  "acao": "8933",
+  "nome": "Estruturação de Serviços de Atenção às Urgências e Emergências na Rede Assistencial",
+  "sub": "302",
+  "ploa": "169400000",
+  "dot_ini": "173679379",
+  "dot_atual": "358066183",
+  "emp": "345759249",
+  "pago": "164265480"
+ },
+ {
+  "acao": "21BF",
+  "nome": "Pesquisa, Desenvolvimento Tecnológico e Inovação em Saúde",
+  "sub": "571",
+  "ploa": "301500000",
+  "dot_ini": "314798581",
+  "dot_atual": "375520365",
+  "emp": "373826775",
+  "pago": "315110074"
+ },
+ {
+  "acao": "20AE",
+  "nome": "Promoção da Assistência Farmacêutica e Insumos Estratégicos na Atenção Básica em Saúde",
+  "sub": "303",
+  "ploa": "1905300000",
+  "dot_ini": "1905300000",
+  "dot_atual": "1905300000",
+  "emp": "1905292561",
+  "pago": "1573001955"
+ },
+ {
+  "acao": "6174",
+  "nome": "Análise da Qualidade de Produtos e Insumos de Saúde",
+  "sub": "304",
+  "ploa": "14300000",
+  "dot_ini": "13300000",
+  "dot_atual": "13300000",
+  "emp": "13294427",
+  "pago": "12555122"
+ },
+ {
+  "acao": "4324",
+  "nome": "Atenção à Saúde de Populações Ribeirinhas e de Áreas Remotas da Região Amazônica mediante Cooperação com a Marinha do Brasil e com o Exército Brasileiro",
+  "sub": "302",
+  "ploa": "17500000",
+  "dot_ini": "20178771",
+  "dot_atual": "18520609",
+  "emp": "18000116",
+  "pago": "0"
+ },
+ {
+  "acao": "4339",
+  "nome": "Qualificação da Regulação e Fiscalização da Saúde Suplementar",
+  "sub": "125",
+  "ploa": "17540000",
+  "dot_ini": "17540000",
+  "dot_atual": "10595326",
+  "emp": "9955622",
+  "pago": "8660799"
+ },
+ {
+  "acao": "15VY",
+  "nome": "Construção da Sede da Fiocruz Rondônia",
+  "sub": "572",
+  "ploa": "1000000",
+  "dot_ini": "0",
+  "dot_atual": "0",
+  "emp": "0",
+  "pago": "0"
+ },
+ {
+  "acao": "2016",
+  "nome": "Funcionamento do Conselho Nacional de Saúde",
+  "sub": "122",
+  "ploa": "13500000",
+  "dot_ini": "13000000",
+  "dot_atual": "12250000",
+  "emp": "12125970",
+  "pago": "8323145"
+ },
+ {
+  "acao": "6908",
+  "nome": "Fomento à Educação em Saúde Ambiental voltada à Promoção da Saúde",
+  "sub": "541",
+  "ploa": "10400000",
+  "dot_ini": "11500000",
+  "dot_atual": "13070000",
+  "emp": "12989572",
+  "pago": "124505"
+ },
+ {
+  "acao": "20K2",
+  "nome": "Fomento à Pesquisa e Desenvolvimento de Tecnologias Alternativas Regionalizadas, com vistas à Sustentabilidade dos Serviços e Ações de Saúde Ambiental",
+  "sub": "541",
+  "ploa": "5150000",
+  "dot_ini": "3905000",
+  "dot_atual": "55000",
+  "emp": "28946",
+  "pago": "0"
+ },
+ {
+  "acao": "4572",
+  "nome": "Capacitação de Servidores Públicos Federais em Processo de Qualificação e Requalificação",
+  "sub": "128",
+  "ploa": "17300000",
+  "dot_ini": "17300000",
+  "dot_atual": "6409835",
+  "emp": "5831512",
+  "pago": "2572350"
+ },
+ {
+  "acao": "6881",
+  "nome": "Modernização e Desenvolvimento de Sistemas de Informação da FUNASA",
+  "sub": "126",
+  "ploa": "32000000",
+  "dot_ini": "22720000",
+  "dot_atual": "9115000",
+  "emp": "9113481",
+  "pago": "7396106"
+ },
+ {
+  "acao": "7674",
+  "nome": "Modernização de Unidades da Fundação Oswaldo Cruz",
+  "sub": "571",
+  "ploa": "100000000",
+  "dot_ini": "101385000",
+  "dot_atual": "157758434",
+  "emp": "157754232",
+  "pago": "69838228"
+ },
+ {
+  "acao": "4368",
+  "nome": "Promoção da Assistência Farmacêutica por meio da Disponibilização de Medicamentos e Insumos em Saúde do Componente Estratégico",
+  "sub": "303",
+  "ploa": "350000000",
+  "dot_ini": "350000000",
+  "dot_atual": "350000000",
+  "emp": "349999400",
+  "pago": "116795901"
+ },
+ {
+  "acao": "2004",
+  "nome": "Assistência Médica e Odontológica aos Servidores Civis, Empregados, Militares e seus Dependentes",
+  "sub": "301",
+  "ploa": "255325011",
+  "dot_ini": "255325011",
+  "dot_atual": "239106861",
+  "emp": "222323391",
+  "pago": "203995668"
+ },
+ {
+  "acao": "20Q8",
+  "nome": "Apoio à Implantação e Manutenção dos Sistemas de Saneamento Básico e Ações de Saúde Ambiental",
+  "sub": "122",
+  "ploa": "14000000",
+  "dot_ini": "14000000",
+  "dot_atual": "9532930",
+  "emp": "9101019",
+  "pago": "2238263"
+ },
+ {
+  "acao": "20QH",
+  "nome": "Implementação da Segurança Alimentar e Nutricional na Saúde",
+  "sub": "306",
+  "ploa": "66000000",
+  "dot_ini": "56000000",
+  "dot_atual": "72887000",
+  "emp": "72825777",
+  "pago": "56636183"
+ },
+ {
+  "acao": "20QG",
+  "nome": "Atuação Internacional do Ministério da Saúde",
+  "sub": "122",
+  "ploa": "8000000",
+  "dot_ini": "8000000",
+  "dot_atual": "7000000",
+  "emp": "6915223",
+  "pago": "187804"
+ },
+ {
+  "acao": "20QI",
+  "nome": "Implantação e Manutenção da Força Nacional de Saúde",
+  "sub": "302",
+  "ploa": "2350000",
+  "dot_ini": "2000000",
+  "dot_atual": "0",
+  "emp": "0",
+  "pago": "0"
+ },
+ {
+  "acao": "8727",
+  "nome": "Aperfeiçoamento do Sistema de Informação para Saúde Suplementar",
+  "sub": "126",
+  "ploa": "43600000",
+  "dot_ini": "43600000",
+  "dot_atual": "42100000",
+  "emp": "42100000",
+  "pago": "38553483"
+ },
+ {
+  "acao": "125H",
+  "nome": "Construção do Complexo Integrado do Instituto Nacional de Câncer - INCA",
+  "sub": "302",
+  "ploa": "50000",
+  "dot_ini": "3914073",
+  "dot_atual": "6113520",
+  "emp": "0",
+  "pago": "0"
+ },
+ {
+  "acao": "21CI",
+  "nome": "Implantação de Melhorias Sanitárias Domiciliares para Prevenção e Controle de Doenças e Agravos em localidades urbanas de municípios com população até 50.000 habitantes",
+  "sub": "512",
+  "ploa": "65000000",
+  "dot_ini": "60250000",
+  "dot_atual": "60000000",
+  "emp": "60000000",
+  "pago": "24108099"
+ },
+ {
+  "acao": "20YD",
+  "nome": "Educação e Formação em Saúde",
+  "sub": "128",
+  "ploa": "1581005000",
+  "dot_ini": "1598423979",
+  "dot_atual": "2063882727",
+  "emp": "2063095286",
+  "pago": "1746668572"
+ },
+ {
+  "acao": "2E90",
+  "nome": "Incremento Temporário ao Custeio dos Serviços de Assistência Hospitalar e Ambulatorial para Cumprimento de Metas",
+  "sub": "302",
+  "ploa": "0",
+  "dot_ini": "5887567970",
+  "dot_atual": "4814712417",
+  "emp": "4769970000",
+  "pago": "4230763874"
+ },
+ {
+  "acao": "15VX",
+  "nome": "Construção do Centro de Desenvolvimento Tecnológico em Saúde - CDTS",
+  "sub": "572",
+  "ploa": "10500000",
+  "dot_ini": "10500000",
+  "dot_atual": "90126566",
+  "emp": "90126566",
+  "pago": "10404981"
+ },
+ {
+  "acao": "218U",
+  "nome": "Apoio ao Custeio de Despesas Institucionais de Entidades Representativas dos Entes Estaduais e Municipais no Âmbito da Saúde - Conass e Conasems",
+  "sub": "122",
+  "ploa": "14420000",
+  "dot_ini": "14420000",
+  "dot_atual": "14420000",
+  "emp": "14420000",
+  "pago": "14420000"
+ },
+ {
+  "acao": "20Q7",
+  "nome": "Preservação do Patrimônio Histórico e Cultural de Ciência e da Saúde na Fiocruz",
+  "sub": "391",
+  "ploa": "10000000",
+  "dot_ini": "9000000",
+  "dot_atual": "9000000",
+  "emp": "9000000",
+  "pago": "8341170"
+ },
+ {
+  "acao": "212B",
+  "nome": "Benefícios Obrigatórios aos Servidores Civis, Empregados, Militares e seus Dependentes",
+  "sub": "301",
+  "ploa": "511341417",
+  "dot_ini": "511341417",
+  "dot_atual": "513891417",
+  "emp": "472426655",
+  "pago": "439502885"
+ },
+ {
+  "acao": "20AF",
+  "nome": "Apoio ao Controle de Qualidade da Água para Consumo Humano para Prevenção e Controle de Doenças e Agravos",
+  "sub": "512",
+  "ploa": "9700000",
+  "dot_ini": "17000000",
+  "dot_atual": "14200000",
+  "emp": "2905280",
+  "pago": "493159"
+ },
+ {
+  "acao": "8721",
+  "nome": "Implementação da Regulação, Controle e Avaliação da atenção à Saúde",
+  "sub": "302",
+  "ploa": "42000000",
+  "dot_ini": "37000000",
+  "dot_atual": "15000",
+  "emp": "15000",
+  "pago": "15000"
+ },
+ {
+  "acao": "20YJ",
+  "nome": "Fortalecimento do Sistema Nacional de Vigilância em Saúde",
+  "sub": "305",
+  "ploa": "220000017",
+  "dot_ini": "213208815",
+  "dot_atual": "154497809",
+  "emp": "150713563",
+  "pago": "101441039"
+ },
+ {
+  "acao": "8535",
+  "nome": "Estruturação de Unidades de Atenção Especializada em Saúde",
+  "sub": "302",
+  "ploa": "520190000",
+  "dot_ini": "1782162377",
+  "dot_atual": "2105264229",
+  "emp": "1944227335",
+  "pago": "427505682"
+ },
+ {
+  "acao": "09HB",
+  "nome": "Contribuição da União, de suas Autarquias e Fundações para o Custeio do Regime de Previdência dos Servidores Públicos Federais",
+  "sub": "846",
+  "ploa": "1234743315",
+  "dot_ini": "1234743315",
+  "dot_atual": "1245901555",
+  "emp": "1119057498",
+  "pago": "1118712880"
+ },
+ {
+  "acao": "20YN",
+  "nome": "Sistemas de Tecnologia de Informação e Comunicação para a Saúde (e-Saude)",
+  "sub": "126",
+  "ploa": "280000000",
+  "dot_ini": "229869750",
+  "dot_atual": "240602399",
+  "emp": "238633743",
+  "pago": "134618822"
+ },
+ {
+  "acao": "20YR",
+  "nome": "Manutenção e Funcionamento do Programa Farmácia Popular do Brasil Pelo Sistema de Gratuidade",
+  "sub": "303",
+  "ploa": "2040000000",
+  "dot_ini": "2040000000",
+  "dot_atual": "2099276450",
+  "emp": "2099276450",
+  "pago": "2079816696"
+ },
+ {
+  "acao": "15VW",
+  "nome": "Construção da Fábrica de Plataformas Vegetais de Produção de Imunobiológicos da Fiocruz Ceará",
+  "sub": "572",
+  "ploa": "1000000",
+  "dot_ini": "0",
+  "dot_atual": "0",
+  "emp": "0",
+  "pago": "0"
+ },
+ {
+  "acao": "2000",
+  "nome": "Administração da Unidade",
+  "sub": "122",
+  "ploa": "876482000",
+  "dot_ini": "842423512",
+  "dot_atual": "742119509",
+  "emp": "725628090",
+  "pago": "598959051"
+ },
+ {
+  "acao": "8753",
+  "nome": "Monitoramento, Avaliação e Gestão da Informação Estratégica em Saúde",
+  "sub": "124",
+  "ploa": "7000000",
+  "dot_ini": "6750000",
+  "dot_atual": "6031300",
+  "emp": "6025367",
+  "pago": "3305957"
+ },
+ {
+  "acao": "8585",
+  "nome": "Atenção à Saúde da População para Procedimentos em Média e Alta Complexidade",
+  "sub": "302",
+  "ploa": "51651867894",
+  "dot_ini": "51651867894",
+  "dot_atual": "65192327129",
+  "emp": "65020562391",
+  "pago": "62969366680"
+ },
+ {
+  "acao": "15VZ",
+  "nome": "Construção da Sede da Fiocruz Amazonas",
+  "sub": "572",
+  "ploa": "1000000",
+  "dot_ini": "0",
+  "dot_atual": "0",
+  "emp": "0",
+  "pago": "0"
+ },
+ {
+  "acao": "21CC",
+  "nome": "Implantação e Melhoria de Sistemas Públicos de Manejo de Resíduos Sólidos em Municípios de até 50.000 Habitantes, Exclusive em Regiões Metropolitanas (RM) ou Regiões Integradas de Desenvolvimento Econômico (RIDE)",
+  "sub": "512",
+  "ploa": "14100000",
+  "dot_ini": "14230000",
+  "dot_atual": "22530000",
+  "emp": "22280000",
+  "pago": "0"
+ },
+ {
+  "acao": "20YQ",
+  "nome": "Apoio Institucional para Aprimoramento do SUS",
+  "sub": "122",
+  "ploa": "80000000",
+  "dot_ini": "80000000",
+  "dot_atual": "51010878",
+  "emp": "50631659",
+  "pago": "31911357"
+ },
+ {
+  "acao": "20Q4",
+  "nome": "Operação do Canal Saúde",
+  "sub": "131",
+  "ploa": "15000000",
+  "dot_ini": "14272000",
+  "dot_atual": "14272000",
+  "emp": "14271130",
+  "pago": "12692947"
+ },
+ {
+  "acao": "8636",
+  "nome": "Fortalecimento da Inovação Tecnológica de Insumos Estratégicos para o SUS",
+  "sub": "303",
+  "ploa": "48000000",
+  "dot_ini": "34450000",
+  "dot_atual": "24450000",
+  "emp": "24449999",
+  "pago": "4877868"
+ },
+ {
+  "acao": "20QF",
+  "nome": "Pesquisas, Ensino e Inovações Tecnológicas Biomédicas e em Medicina Tropical e Meio Ambiente",
+  "sub": "571",
+  "ploa": "73000000",
+  "dot_ini": "72200000",
+  "dot_atual": "72607900",
+  "emp": "71058066",
+  "pago": "51279633"
+ },
+ {
+  "acao": "5516",
+  "nome": "Conferências Nacionais de Saúde",
+  "sub": "573",
+  "ploa": "15000000",
+  "dot_ini": "15000000",
+  "dot_atual": "0",
+  "emp": "0",
+  "pago": "0"
+ },
+ {
+  "acao": "8327",
+  "nome": "Manutenção de Serviço Laboratorial de Referência para o Controle de Doenças",
+  "sub": "305",
+  "ploa": "17000000",
+  "dot_ini": "16200000",
+  "dot_atual": "1152530547",
+  "emp": "1143994246",
+  "pago": "670216828"
+ },
+ {
+  "acao": "21CG",
+  "nome": "Implantação e Melhoria de Serviços de Drenagem e Manejo das Águas Pluviais Urbanas para Prevenção e Controle de Doenças e Agravos em Áreas Endêmicas de Malária",
+  "sub": "512",
+  "ploa": "1000000",
+  "dot_ini": "3139993",
+  "dot_atual": "3139993",
+  "emp": "3139993",
+  "pago": "0"
+ },
+ {
+  "acao": "6516",
+  "nome": "Aperfeiçoamento e Avaliação dos Serviços de Hemoterapia e Hematologia",
+  "sub": "303",
+  "ploa": "91000000",
+  "dot_ini": "91000000",
+  "dot_atual": "91000000",
+  "emp": "91000000",
+  "pago": "66472595"
+ },
+ {
+  "acao": "6148",
+  "nome": "Assistência Médica Qualificada e Gratuita a Todos os Níveis da População e Desenvolvimento de Atividades Educacionais e de Pesquisa no Campo da Saúde – Rede SARAH de Hospitais de Reabilitação",
+  "sub": "302",
+  "ploa": "1095000000",
+  "dot_ini": "1103260251",
+  "dot_atual": "1103160251",
+  "emp": "1103160251",
+  "pago": "1095000000"
+ },
+ {
+  "acao": "15EG",
+  "nome": "Implantação da nova Sede do Instituto Nacional de Cardiologia - INC",
+  "sub": "302",
+  "ploa": "4000000",
+  "dot_ini": "4000000",
+  "dot_atual": "0",
+  "emp": "0",
+  "pago": "0"
+ },
+ {
+  "acao": "4641",
+  "nome": "Publicidade de Utilidade Pública",
+  "sub": "131",
+  "ploa": "227200000",
+  "dot_ini": "227200000",
+  "dot_atual": "259200000",
+  "emp": "259200000",
+  "pago": "175079938"
+ },
+ {
+  "acao": "8287",
+  "nome": "Aprimoramento da Articulação e Cooperação Interfederativa em Saúde",
+  "sub": "122",
+  "ploa": "23580000",
+  "dot_ini": "23500000",
+  "dot_atual": "16444000",
+  "emp": "15595479",
+  "pago": "8771496"
+ },
+ {
+  "acao": "15W0",
+  "nome": "Construção do Hospital Materno Infantil da Serra - ES",
+  "sub": "302",
+  "ploa": "1000000",
+  "dot_ini": "1000000",
+  "dot_atual": "9626485",
+  "emp": "9626485",
+  "pago": "7306058"
+ },
+ {
+  "acao": "15W1",
+  "nome": "Construção do Hospital do Sangue do Amazonas",
+  "sub": "302",
+  "ploa": "1000000",
+  "dot_ini": "1000000",
+  "dot_atual": "8000000",
+  "emp": "8000000",
+  "pago": "4801394"
+ },
+ {
+  "acao": "2F01",
+  "nome": "Reforço de Recursos para Emergência Internacional em Saúde Pública – Coronavírus",
+  "sub": "122",
+  "ploa": "0",
+  "dot_ini": "620844485",
+  "dot_atual": "690852169",
+  "emp": "680152322",
+  "pago": "649178580"
+ },
+ {
+  "acao": "20TP",
+  "nome": "Ativos Civis da União",
+  "sub": "122",
+  "ploa": "7354903332",
+  "dot_ini": "7354903332",
+  "dot_atual": "7055713971",
+  "emp": "7020048345",
+  "pago": "6554188158"
+ },
+ {
+  "acao": "6217",
+  "nome": "Atenção à Saúde nos Serviços Ambulatoriais e Hospitalares do Ministério da Saúde",
+  "sub": "302",
+  "ploa": "1065100000",
+  "dot_ini": "1065100000",
+  "dot_atual": "1091947278",
+  "emp": "1087194327",
+  "pago": "845125128"
+ },
+ {
+  "acao": "13DW",
+  "nome": "Construção do Centro de Processamento Final de Imunobiológicos",
+  "sub": "572",
+  "ploa": "152000000",
+  "dot_ini": "152000000",
+  "dot_atual": "126000000",
+  "emp": "126000000",
+  "pago": "62960491"
+ },
+ {
+  "acao": "20AG",
+  "nome": "Apoio à Gestão dos Sistemas de Saneamento Básico em Municípios de até 50.000 Habitantes",
+  "sub": "512",
+  "ploa": "7300000",
+  "dot_ini": "6300000",
+  "dot_atual": "1500000",
+  "emp": "1399115",
+  "pago": "0"
+ }
+]

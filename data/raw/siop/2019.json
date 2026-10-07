@@ -1,0 +1,8950 @@
+{
+ "funcoes": [
+  {
+   "cod": "09",
+   "dot_ini": "734889523977",
+   "dot_atual": "728746522712",
+   "emp": "726836038594",
+   "liq": "726587482962",
+   "pago": "684483036190"
+  },
+  {
+   "cod": "18",
+   "dot_ini": "4423190388",
+   "dot_atual": "5246012850",
+   "emp": "4770109973",
+   "liq": "3350590114",
+   "pago": "3264928013"
+  },
+  {
+   "cod": "14",
+   "dot_ini": "2066610659",
+   "dot_atual": "2787843318",
+   "emp": "2399590722",
+   "liq": "915380945",
+   "pago": "886822526"
+  },
+  {
+   "cod": "15",
+   "dot_ini": "4422341252",
+   "dot_atual": "7798235536",
+   "emp": "7472849244",
+   "liq": "1442532848",
+   "pago": "1352131179"
+  },
+  {
+   "cod": "21",
+   "dot_ini": "2380490619",
+   "dot_atual": "1996014173",
+   "emp": "1958478850",
+   "liq": "1434349658",
+   "pago": "1375068771"
+  },
+  {
+   "cod": "07",
+   "dot_ini": "3308047717",
+   "dot_atual": "3594255914",
+   "emp": "3339882283",
+   "liq": "3234307431",
+   "pago": "3219169373"
+  },
+  {
+   "cod": "26",
+   "dot_ini": "17287820922",
+   "dot_atual": "16629219530",
+   "emp": "12224515500",
+   "liq": "8790773823",
+   "pago": "8670927846"
+  },
+  {
+   "cod": "99",
+   "dot_ini": "51593314165",
+   "dot_atual": "33530336974",
+   "emp": "0",
+   "liq": "0",
+   "pago": "0"
+  },
+  {
+   "cod": "25",
+   "dot_ini": "2217933539",
+   "dot_atual": "2883502003",
+   "emp": "2702982425",
+   "liq": "2376715426",
+   "pago": "2337960231"
+  },
+  {
+   "cod": "03",
+   "dot_ini": "7619409739",
+   "dot_atual": "7978896971",
+   "emp": "7670015480",
+   "liq": "7450501155",
+   "pago": "7417860122"
+  },
+  {
+   "cod": "22",
+   "dot_ini": "2392849495",
+   "dot_atual": "2062673156",
+   "emp": "1909924550",
+   "liq": "1787184992",
+   "pago": "1703568873"
+  },
+  {
+   "cod": "04",
+   "dot_ini": "30563659403",
+   "dot_atual": "28282939093",
+   "emp": "27136486814",
+   "liq": "25225691361",
+   "pago": "23862162691"
+  },
+  {
+   "cod": "19",
+   "dot_ini": "7706031971",
+   "dot_atual": "7404053857",
+   "emp": "7247723364",
+   "liq": "6572757091",
+   "pago": "6369722668"
+  },
+  {
+   "cod": "08",
+   "dot_ini": "92421295028",
+   "dot_atual": "96143656438",
+   "emp": "95973703167",
+   "liq": "94930468783",
+   "pago": "92845668722"
+  },
+  {
+   "cod": "02",
+   "dot_ini": "37076631113",
+   "dot_atual": "38612104122",
+   "emp": "37262431759",
+   "liq": "36705251707",
+   "pago": "36577874209"
+  },
+  {
+   "cod": "12",
+   "dot_ini": "116758801930",
+   "dot_atual": "118399807709",
+   "emp": "114081564557",
+   "liq": "98450528247",
+   "pago": "94474263880"
+  },
+  {
+   "cod": "16",
+   "dot_ini": "234400000",
+   "dot_atual": "24400000",
+   "emp": "21506500",
+   "liq": "11693914",
+   "pago": "4925414"
+  },
+  {
+   "cod": "27",
+   "dot_ini": "1142331505",
+   "dot_atual": "977829352",
+   "emp": "751142844",
+   "liq": "160700958",
+   "pago": "158476629"
+  },
+  {
+   "cod": "13",
+   "dot_ini": "2069649517",
+   "dot_atual": "1978060238",
+   "emp": "1808382861",
+   "liq": "771499217",
+   "pago": "742439074"
+  },
+  {
+   "cod": "17",
+   "dot_ini": "448472183",
+   "dot_atual": "517886502",
+   "emp": "514804925",
+   "liq": "454228864",
+   "pago": "450742891"
+  },
+  {
+   "cod": "23",
+   "dot_ini": "4885232256",
+   "dot_atual": "3776587470",
+   "emp": "2771332000",
+   "liq": "1789287078",
+   "pago": "1784458413"
+  },
+  {
+   "cod": "10",
+   "dot_ini": "122623766937",
+   "dot_atual": "127072209030",
+   "emp": "125990834983",
+   "liq": "115765610412",
+   "pago": "114182505319"
+  },
+  {
+   "cod": "05",
+   "dot_ini": "75281603271",
+   "dot_atual": "85159023808",
+   "emp": "84345540566",
+   "liq": "78905546322",
+   "pago": "75283377976"
+  },
+  {
+   "cod": "01",
+   "dot_ini": "8287466881",
+   "dot_atual": "8105708386",
+   "emp": "7536785506",
+   "liq": "7362863281",
+   "pago": "7356955986"
+  },
+  {
+   "cod": "20",
+   "dot_ini": "26918744420",
+   "dot_atual": "25086038612",
+   "emp": "21908317266",
+   "liq": "15355104848",
+   "pago": "14732646047"
+  },
+  {
+   "cod": "06",
+   "dot_ini": "11516307896",
+   "dot_atual": "11623345657",
+   "emp": "11335740480",
+   "liq": "9537398090",
+   "pago": "9021846771"
+  },
+  {
+   "cod": "28",
+   "dot_ini": "1809717310058",
+   "dot_atual": "1868340707667",
+   "emp": "1461123241028",
+   "liq": "1445201355373",
+   "pago": "1444685422303"
+  },
+  {
+   "cod": "24",
+   "dot_ini": "1532122075",
+   "dot_atual": "1449464179",
+   "emp": "1396546478",
+   "liq": "1245164122",
+   "pago": "1185519158"
+  },
+  {
+   "cod": "11",
+   "dot_ini": "80413944907",
+   "dot_atual": "77990841525",
+   "emp": "74300957551",
+   "liq": "72491891089",
+   "pago": "72477174718"
+  }
+ ],
+ "subfuncoes": [
+  {
+   "cod": "304",
+   "nome": "Vigilância Sanitária",
+   "emp": "330095442"
+  },
+  {
+   "cod": "573",
+   "nome": "Difusão do Conhecimento Científico e Tecnológico",
+   "emp": "33936679"
+  },
+  {
+   "cod": "511",
+   "nome": "Saneamento Básico Rural",
+   "emp": "204610479"
+  },
+  {
+   "cod": "541",
+   "nome": "Preservação e Conservação Ambiental",
+   "emp": "18941838"
+  },
+  {
+   "cod": "126",
+   "nome": "Tecnologia da Informação",
+   "emp": "315933004"
+  },
+  {
+   "cod": "125",
+   "nome": "Normatização e Fiscalização",
+   "emp": "26503408"
+  },
+  {
+   "cod": "121",
+   "nome": "Planejamento e Orçamento",
+   "emp": "23383772"
+  },
+  {
+   "cod": "571",
+   "nome": "Desenvolvimento Científico",
+   "emp": "589781759"
+  },
+  {
+   "cod": "331",
+   "nome": "Proteção e Benefícios ao Trabalhador",
+   "emp": "547074445"
+  },
+  {
+   "cod": "391",
+   "nome": "Patrimônio Histórico, Artístico e Arqueológico",
+   "emp": "8280000"
+  },
+  {
+   "cod": "124",
+   "nome": "Controle Interno",
+   "emp": "5389675"
+  },
+  {
+   "cod": "422",
+   "nome": "Direitos Individuais, Coletivos e Difusos",
+   "emp": "31191250"
+  },
+  {
+   "cod": "306",
+   "nome": "Alimentação e Nutrição",
+   "emp": "61746798"
+  },
+  {
+   "cod": "305",
+   "nome": "Vigilância Epidemiológica",
+   "emp": "8507180266"
+  },
+  {
+   "cod": "128",
+   "nome": "Formação de Recursos Humanos",
+   "emp": "1191099011"
+  },
+  {
+   "cod": "512",
+   "nome": "Saneamento Básico Urbano",
+   "emp": "689013698"
+  },
+  {
+   "cod": "122",
+   "nome": "Administração Geral",
+   "emp": "8698635890"
+  },
+  {
+   "cod": "303",
+   "nome": "Suporte Profilático e Terapêutico",
+   "emp": "13944249269"
+  },
+  {
+   "cod": "846",
+   "nome": "Outros Encargos Especiais",
+   "emp": "1210899131"
+  },
+  {
+   "cod": "302",
+   "nome": "Assistência Hospitalar e Ambulatorial",
+   "emp": "60096904658"
+  },
+  {
+   "cod": "301",
+   "nome": "Atenção Básica",
+   "emp": "27557584212"
+  },
+  {
+   "cod": "131",
+   "nome": "Comunicação Social",
+   "emp": "203993500"
+  },
+  {
+   "cod": "572",
+   "nome": "Desenvolvimento Tecnológico e Engenharia",
+   "emp": "224074002"
+  },
+  {
+   "cod": "423",
+   "nome": "Assistência aos Povos Indígenas",
+   "emp": "1470332798"
+  }
+ ],
+ "localizadores": [
+  {
+   "cod": "1114",
+   "nome": "No Município de Ocara - CE",
+   "emp": "500000"
+  },
+  {
+   "cod": "0752",
+   "nome": "No Município de Timon - MA",
+   "emp": "1000000"
+  },
+  {
+   "cod": "0214",
+   "nome": "No Município de Maués - AM",
+   "emp": "362914"
+  },
+  {
+   "cod": "0221",
+   "nome": "No Município de Presidente Figueiredo - AM",
+   "emp": "500000"
+  },
+  {
+   "cod": "4719",
+   "nome": "No Município de Antônio Prado - RS",
+   "emp": "288868"
+  },
+  {
+   "cod": "4623",
+   "nome": "No Município de Rio do Campo - SC",
+   "emp": "500000"
+  },
+  {
+   "cod": "1452",
+   "nome": "No Município de Manaíra - PB",
+   "emp": "250469"
+  },
+  {
+   "cod": "7030",
+   "nome": "Atenção à Saúde das Populações Ribeirinhas da Região Amazônica mediante Cooperação com a Marinha do Brasil - Na Região Norte",
+   "emp": "0"
+  },
+  {
+   "cod": "9098",
+   "nome": "Hospital Municipal Prof. Dr. Waldomiro de Paula - São Paulo - SP",
+   "emp": "300000"
+  },
+  {
+   "cod": "4687",
+   "nome": "No Município de Turvo - SC",
+   "emp": "838500"
+  },
+  {
+   "cod": "0723",
+   "nome": "No Município de São Domingos do Maranhão - MA",
+   "emp": "600000"
+  },
+  {
+   "cod": "4085",
+   "nome": "No Município de Chopinzinho - PR",
+   "emp": "130000"
+  },
+  {
+   "cod": "3932",
+   "nome": "No Município de São Sebastião - SP",
+   "emp": "1800675"
+  },
+  {
+   "cod": "1069",
+   "nome": "No Município de Ipaumirim - CE",
+   "emp": "500000"
+  },
+  {
+   "cod": "0759",
+   "nome": "No Município de Urbano Santos - MA",
+   "emp": "2405674"
+  },
+  {
+   "cod": "3260",
+   "nome": "No Município de São Domingos do Norte - ES",
+   "emp": "299998"
+  },
+  {
+   "cod": "4840",
+   "nome": "No Município de Dona Francisca - RS",
+   "emp": "100000"
+  },
+  {
+   "cod": "3968",
+   "nome": "No Município de Tarumã - SP",
+   "emp": "200000"
+  },
+  {
+   "cod": "3756",
+   "nome": "No Município de Ourinhos - SP",
+   "emp": "1600000"
+  },
+  {
+   "cod": "1000",
+   "nome": "No Município de Apuiarés - CE",
+   "emp": "370000"
+  },
+  {
+   "cod": "7028",
+   "nome": "Cooperação com a Marinha do Brasil - Na Região Centro Oeste",
+   "emp": "299966"
+  },
+  {
+   "cod": "1054",
+   "nome": "No Município de Granjeiro - CE",
+   "emp": "500000"
+  },
+  {
+   "cod": "1404",
+   "nome": "No Município de Coremas - PB",
+   "emp": "663000"
+  },
+  {
+   "cod": "3805",
+   "nome": "No Município de Pirassununga - SP",
+   "emp": "3500000"
+  },
+  {
+   "cod": "3316",
+   "nome": "No Município de Mesquita - RJ",
+   "emp": "17841071"
+  },
+  {
+   "cod": "4272",
+   "nome": "No Município de Pérola - PR",
+   "emp": "620000"
+  },
+  {
+   "cod": "0403",
+   "nome": "No Município de Mazagão - AP",
+   "emp": "1425947"
+  },
+  {
+   "cod": "0755",
+   "nome": "No Município de Tuntum - MA",
+   "emp": "1000000"
+  },
+  {
+   "cod": "1151",
+   "nome": "No Município de São Gonçalo do Amarante - CE",
+   "emp": "5367718"
+  },
+  {
+   "cod": "0235",
+   "nome": "No Município de Urucurituba - AM",
+   "emp": "1100340"
+  },
+  {
+   "cod": "5412",
+   "nome": "No Município de Vera - MT",
+   "emp": "943006"
+  },
+  {
+   "cod": "4622",
+   "nome": "No Município de Rio das Antas - SC",
+   "emp": "300000"
+  },
+  {
+   "cod": "4901",
+   "nome": "No Município de Ibirapuitã - RS",
+   "emp": "100000"
+  },
+  {
+   "cod": "0514",
+   "nome": "No Município de Praia Norte - TO",
+   "emp": "350000"
+  },
+  {
+   "cod": "3317",
+   "nome": "No Município de Miguel Pereira - RJ",
+   "emp": "9993848"
+  },
+  {
+   "cod": "5386",
+   "nome": "No Município de São José do Rio Claro - MT",
+   "emp": "2267597"
+  },
+  {
+   "cod": "1786",
+   "nome": "No Município de Jacuípe - AL",
+   "emp": "58559"
+  },
+  {
+   "cod": "5568",
+   "nome": "No Município de Morro Agudo de Goiás - GO",
+   "emp": "185580"
+  },
+  {
+   "cod": "1180",
+   "nome": "No Município de Alto do Rodrigues - RN",
+   "emp": "450000"
+  },
+  {
+   "cod": "3799",
+   "nome": "No Município de Piracicaba - SP",
+   "emp": "2169870"
+  },
+  {
+   "cod": "0389",
+   "nome": "No Município de Uruará - PA",
+   "emp": "4200000"
+  },
+  {
+   "cod": "3232",
+   "nome": "No Município de Itarana - ES",
+   "emp": "410000"
+  },
+  {
+   "cod": "0635",
+   "nome": "No Município de Icatu - MA",
+   "emp": "700000"
+  },
+  {
+   "cod": "0298",
+   "nome": "No Município de Faro - PA",
+   "emp": "200000"
+  },
+  {
+   "cod": "4045",
+   "nome": "No Município de Bituruna - PR",
+   "emp": "300000"
+  },
+  {
+   "cod": "2692",
+   "nome": "No Município de Indianópolis - MG",
+   "emp": "249968"
+  },
+  {
+   "cod": "3794",
+   "nome": "No Município de Pindorama - SP",
+   "emp": "200000"
+  },
+  {
+   "cod": "9220",
+   "nome": "Associação Beneficente de Campo Grande (Santa Casa de Campo Grande) - Campo Grande - MS",
+   "emp": "300000"
+  },
+  {
+   "cod": "1107",
+   "nome": "No Município de Moraújo - CE",
+   "emp": "500000"
+  },
+  {
+   "cod": "3645",
+   "nome": "No Município de Jacupiranga - SP",
+   "emp": "700000"
+  },
+  {
+   "cod": "3440",
+   "nome": "No Município de Biritiba-Mirim - SP",
+   "emp": "200000"
+  },
+  {
+   "cod": "4299",
+   "nome": "No Município de Quatro Barras - PR",
+   "emp": "400000"
+  },
+  {
+   "cod": "9096",
+   "nome": "Santa Casa de Misericórdia - Pitangueiras - SP",
+   "emp": "250000"
+  },
+  {
+   "cod": "0320",
+   "nome": "No Município de Medicilândia - PA",
+   "emp": "499500"
+  },
+  {
+   "cod": "5310",
+   "nome": "No Município de Comodoro - MT",
+   "emp": "400000"
+  },
+  {
+   "cod": "3922",
+   "nome": "No Município de São José do Rio Preto - SP",
+   "emp": "799900"
+  },
+  {
+   "cod": "4575",
+   "nome": "No Município de Monte Castelo - SC",
+   "emp": "500000"
+  },
+  {
+   "cod": "3793",
+   "nome": "No Município de Pindamonhangaba - SP",
+   "emp": "300000"
+  },
+  {
+   "cod": "9268",
+   "nome": "Unidade de Emergência Dr. Daniel Houly - Arapiraca - AL",
+   "emp": "28271346"
+  },
+  {
+   "cod": "0238",
+   "nome": "No Município de Boa Vista - RR",
+   "emp": "7710387"
+  },
+  {
+   "cod": "3348",
+   "nome": "No Município de São João de Meriti - RJ",
+   "emp": "15895574"
+  },
+  {
+   "cod": "9158",
+   "nome": "Instituto do Câncer Arnaldo Vieira de Carvalho - No Estado de São Paulo",
+   "emp": "545000"
+  },
+  {
+   "cod": "0173",
+   "nome": "No Município de Porto Acre - AC",
+   "emp": "950357"
+  },
+  {
+   "cod": "1390",
+   "nome": "No Município de Caldas Brandão - PB",
+   "emp": "300000"
+  },
+  {
+   "cod": "1255",
+   "nome": "No Município de Martins - RN",
+   "emp": "500000"
+  },
+  {
+   "cod": "3327",
+   "nome": "No Município de Paty do Alferes - RJ",
+   "emp": "0"
+  },
+  {
+   "cod": "5562",
+   "nome": "No Município de Moiporá - GO",
+   "emp": "200000"
+  },
+  {
+   "cod": "1742",
+   "nome": "No Município de Venturosa - PE",
+   "emp": "1471774"
+  },
+  {
+   "cod": "2639",
+   "nome": "No Município de Francisco Sá - MG",
+   "emp": "300000"
+  },
+  {
+   "cod": "0105",
+   "nome": "No Município de Colorado do Oeste - RO",
+   "emp": "1250000"
+  },
+  {
+   "cod": "2386",
+   "nome": "No Município de Araxá - MG",
+   "emp": "500000"
+  },
+  {
+   "cod": "3458",
+   "nome": "No Município de Buritama - SP",
+   "emp": "250000"
+  },
+  {
+   "cod": "3471",
+   "nome": "No Município de Cajobi - SP",
+   "emp": "248013"
+  },
+  {
+   "cod": "1194",
+   "nome": "No Município de Caiçara do Norte - RN",
+   "emp": "300000"
+  },
+  {
+   "cod": "5424",
+   "nome": "No Município de Águas Lindas de Goiás - GO",
+   "emp": "8015928"
+  },
+  {
+   "cod": "4446",
+   "nome": "No Município de Blumenau - SC",
+   "emp": "2200000"
+  },
+  {
+   "cod": "3274",
+   "nome": "No Município de Angra dos Reis - RJ",
+   "emp": "1939578"
+  },
+  {
+   "cod": "3697",
+   "nome": "No Município de Mendonça - SP",
+   "emp": "250000"
+  },
+  {
+   "cod": "1556",
+   "nome": "No Município de Teixeira - PB",
+   "emp": "663000"
+  },
+  {
+   "cod": "3759",
+   "nome": "No Município de Pacaembu - SP",
+   "emp": "550000"
+  },
+  {
+   "cod": "9212",
+   "nome": "Hospital Municipal de Cedro - Cedro - PE",
+   "emp": "0"
+  },
+  {
+   "cod": "0714",
+   "nome": "No Município de Santa Quitéria do Maranhão - MA",
+   "emp": "184800"
+  },
+  {
+   "cod": "2316",
+   "nome": "No Município de Teolândia - BA",
+   "emp": "200774"
+  },
+  {
+   "cod": "3478",
+   "nome": "No Município de Cananéia - SP",
+   "emp": "100000"
+  },
+  {
+   "cod": "4161",
+   "nome": "No Município de Iporã - PR",
+   "emp": "1000000"
+  },
+  {
+   "cod": "4631",
+   "nome": "No Município de Rodeio - SC",
+   "emp": "400000"
+  },
+  {
+   "cod": "3356",
+   "nome": "No Município de Silva Jardim - RJ",
+   "emp": "3800000"
+  },
+  {
+   "cod": "3197",
+   "nome": "No Município de Águia Branca - ES",
+   "emp": "219630"
+  },
+  {
+   "cod": "0699",
+   "nome": "No Município de Presidente Juscelino - MA",
+   "emp": "400000"
+  },
+  {
+   "cod": "0390",
+   "nome": "No Município de Vigia - PA",
+   "emp": "399990"
+  },
+  {
+   "cod": "3297",
+   "nome": "No Município de Duas Barras - RJ",
+   "emp": "1845476"
+  },
+  {
+   "cod": "3728",
+   "nome": "No Município de Natividade da Serra - SP",
+   "emp": "120000"
+  },
+  {
+   "cod": "9196",
+   "nome": "Hospital Regional de Divinolândia (CONDERG) - No Estado de São Paulo",
+   "emp": "0"
+  },
+  {
+   "cod": "6510",
+   "nome": "No Município do Rio de Janeiro - RJ (Hospital Geral do Andaraí)",
+   "emp": "118069456"
+  },
+  {
+   "cod": "1814",
+   "nome": "No Município de Palestina - AL",
+   "emp": "300000"
+  },
+  {
+   "cod": "0155",
+   "nome": "No Município de Bujari - AC",
+   "emp": "599870"
+  },
+  {
+   "cod": "2052",
+   "nome": "No Município de Euclides da Cunha - BA",
+   "emp": "4611589"
+  },
+  {
+   "cod": "0462",
+   "nome": "No Município de Formoso do Araguaia - TO",
+   "emp": "250000"
+  },
+  {
+   "cod": "5418",
+   "nome": "No Município de Abadia de Goiás - GO",
+   "emp": "200000"
+  },
+  {
+   "cod": "2545",
+   "nome": "No Município de Conselheiro Pena - MG",
+   "emp": "500000"
+  },
+  {
+   "cod": "3495",
+   "nome": "No Município de Cerqueira César - SP",
+   "emp": "0"
+  },
+  {
+   "cod": "0916",
+   "nome": "No Município de Parnaíba - PI",
+   "emp": "3184800"
+  },
+  {
+   "cod": "9168",
+   "nome": "Sociedade Beneficente Hospitalar de Maravilha - Maravilha - SC",
+   "emp": "300000"
+  },
+  {
+   "cod": "3321",
+   "nome": "No Município de Niterói - RJ",
+   "emp": "9821548"
+  },
+  {
+   "cod": "2275",
+   "nome": "No Município de Santo Antônio de Jesus - BA",
+   "emp": "300000"
+  },
+  {
+   "cod": "7426",
+   "nome": "Região Metropolitana do Vale do Paraíba e Litoral Norte - No Estado de São Paulo",
+   "emp": "649340"
+  },
+  {
+   "cod": "5481",
+   "nome": "No Município de Chapadão do Céu - GO",
+   "emp": "200000"
+  },
+  {
+   "cod": "0739",
+   "nome": "No Município de São Raimundo das Mangabeiras - MA",
+   "emp": "1094800"
+  },
+  {
+   "cod": "0698",
+   "nome": "No Município de Presidente Dutra - MA",
+   "emp": "500000"
+  },
+  {
+   "cod": "4003",
+   "nome": "No Município de Viradouro - SP",
+   "emp": "886409"
+  },
+  {
+   "cod": "5604",
+   "nome": "No Município de Planaltina - GO",
+   "emp": "500774"
+  },
+  {
+   "cod": "5467",
+   "nome": "No Município de Campestre de Goiás - GO",
+   "emp": "200000"
+  },
+  {
+   "cod": "1123",
+   "nome": "No Município de Paraipaba - CE",
+   "emp": "200000"
+  },
+  {
+   "cod": "3623",
+   "nome": "No Município de Itapevi - SP",
+   "emp": "12684800"
+  },
+  {
+   "cod": "2097",
+   "nome": "No Município de Iraquara - BA",
+   "emp": "400000"
+  },
+  {
+   "cod": "4023",
+   "nome": "No Município de Andirá - PR",
+   "emp": "500000"
+  },
+  {
+   "cod": "3798",
+   "nome": "No Município de Piracaia - SP",
+   "emp": "500000"
+  },
+  {
+   "cod": "3017",
+   "nome": "No Município de Santa Luzia - MG",
+   "emp": "300000"
+  },
+  {
+   "cod": "1144",
+   "nome": "No Município de Russas - CE",
+   "emp": "1999920"
+  },
+  {
+   "cod": "5661",
+   "nome": "No Município de Vicentinópolis - GO",
+   "emp": "500000"
+  },
+  {
+   "cod": "1343",
+   "nome": "No Município de Alagoa Grande - PB",
+   "emp": "663000"
+  },
+  {
+   "cod": "9074",
+   "nome": "Hospital Municipal - Belém - PA",
+   "emp": "0"
+  },
+  {
+   "cod": "2322",
+   "nome": "No Município de Ubaitaba - BA",
+   "emp": "1200000"
+  },
+  {
+   "cod": "4010",
+   "nome": "No Município de Estiva Gerbi - SP",
+   "emp": "0"
+  },
+  {
+   "cod": "0478",
+   "nome": "No Município de Lavandeira - TO",
+   "emp": "300000"
+  },
+  {
+   "cod": "9180",
+   "nome": "Instituto Social das Medianeiras da Paz - Araripina - PE",
+   "emp": "250770"
+  },
+  {
+   "cod": "7416",
+   "nome": "Unidade Básica de Saúde Distrito de Cristal do Norte - Pedro Canário - ES",
+   "emp": "750000"
+  },
+  {
+   "cod": "5302",
+   "nome": "No Município de Canarana - MT",
+   "emp": "4009483"
+  },
+  {
+   "cod": "1780",
+   "nome": "No Município de Girau do Ponciano - AL",
+   "emp": "1100000"
+  },
+  {
+   "cod": "5037",
+   "nome": "No Município de Quaraí - RS",
+   "emp": "0"
+  },
+  {
+   "cod": "3461",
+   "nome": "No Município de Cabreúva - SP",
+   "emp": "1000000"
+  },
+  {
+   "cod": "4810",
+   "nome": "No Município de Chuvisca - RS",
+   "emp": "0"
+  },
+  {
+   "cod": "3244",
+   "nome": "No Município de Montanha - ES",
+   "emp": "526250"
+  },
+  {
+   "cod": "4416",
+   "nome": "No Município de Águas Frias - SC",
+   "emp": "300000"
+  },
+  {
+   "cod": "0399",
+   "nome": "No Município de Ferreira Gomes - AP",
+   "emp": "726000"
+  },
+  {
+   "cod": "2796",
+   "nome": "No Município de Manga - MG",
+   "emp": "200000"
+  },
+  {
+   "cod": "0161",
+   "nome": "No Município de Mâncio Lima - AC",
+   "emp": "4010175"
+  },
+  {
+   "cod": "4511",
+   "nome": "No Município de Guaramirim - SC",
+   "emp": "150000"
+  },
+  {
+   "cod": "1551",
+   "nome": "No Município de Sousa - PB",
+   "emp": "250000"
+  },
+  {
+   "cod": "1318",
+   "nome": "No Município de Serra de São Bento - RN",
+   "emp": "500000"
+  },
+  {
+   "cod": "1262",
+   "nome": "No Município de Natal - RN",
+   "emp": "1744000"
+  },
+  {
+   "cod": "0830",
+   "nome": "No Município de Corrente - PI",
+   "emp": "500000"
+  },
+  {
+   "cod": "9122",
+   "nome": "Hospital Adventista Silvestre - No Estado do Rio de Janeiro",
+   "emp": "0"
+  },
+  {
+   "cod": "5246",
+   "nome": "No Município de Laguna Carapã - MS",
+   "emp": "0"
+  },
+  {
+   "cod": "3288",
+   "nome": "No Município de Carapebus - RJ",
+   "emp": "1958748"
+  },
+  {
+   "cod": "5004",
+   "nome": "No Município de Parobé - RS",
+   "emp": "250000"
+  },
+  {
+   "cod": "1945",
+   "nome": "No Município de Antônio Cardoso - BA",
+   "emp": "500000"
+  },
+  {
+   "cod": "0300",
+   "nome": "No Município de Garrafão do Norte - PA",
+   "emp": "0"
+  },
+  {
+   "cod": "3328",
+   "nome": "No Município de Petrópolis - RJ",
+   "emp": "1600000"
+  },
+  {
+   "cod": "1477",
+   "nome": "No Município de Paulista - PB",
+   "emp": "813000"
+  },
+  {
+   "cod": "3543",
+   "nome": "No Município de Fernandópolis - SP",
+   "emp": "1748894"
+  },
+  {
+   "cod": "0191",
+   "nome": "No Município de Careiro - AM",
+   "emp": "1000000"
+  },
+  {
+   "cod": "4980",
+   "nome": "No Município de Nova Hartz - RS",
+   "emp": "81000"
+  },
+  {
+   "cod": "1578",
+   "nome": "No Município de Barra de Guabiraba - PE",
+   "emp": "1000000"
+  },
+  {
+   "cod": "5255",
+   "nome": "No Município de Paranaíba - MS",
+   "emp": "0"
+  },
+  {
+   "cod": "0636",
+   "nome": "No Município de Igarapé do Meio - MA",
+   "emp": "750000"
+  },
+  {
+   "cod": "2338",
+   "nome": "No Município de Vitória da Conquista - BA",
+   "emp": "500000"
+  },
+  {
+   "cod": "3462",
+   "nome": "No Município de Caçapava - SP",
+   "emp": "0"
+  },
+  {
+   "cod": "9160",
+   "nome": "Santa Casa de Misericórdia de São José dos Campos - No Estado de São Paulo",
+   "emp": "300000"
+  },
+  {
+   "cod": "9162",
+   "nome": "Casa de David Tabernáculo Espírita para Excepcionais - No Estado de São Paulo",
+   "emp": "420000"
+  },
+  {
+   "cod": "1040",
+   "nome": "No Município de Crato - CE",
+   "emp": "1500000"
+  },
+  {
+   "cod": "1553",
+   "nome": "No Município de Tacima - PB",
+   "emp": "400000"
+  },
+  {
+   "cod": "1439",
+   "nome": "No Município de Junco do Seridó - PB",
+   "emp": "247700"
+  },
+  {
+   "cod": "0547",
+   "nome": "No Município de Wanderlândia - TO",
+   "emp": "1021410"
+  },
+  {
+   "cod": "8638",
+   "nome": "Hospital Estadual Dório Silva - No Estado do Espírito Santo",
+   "emp": "1000000"
+  },
+  {
+   "cod": "0188",
+   "nome": "No Município de Caapiranga - AM",
+   "emp": "0"
+  },
+  {
+   "cod": "1641",
+   "nome": "No Município de Ingazeira - PE",
+   "emp": "179990"
+  },
+  {
+   "cod": "5080",
+   "nome": "No Município de Santo Augusto - RS",
+   "emp": "0"
+  },
+  {
+   "cod": "3483",
+   "nome": "No Município de Capão Bonito - SP",
+   "emp": "400000"
+  },
+  {
+   "cod": "0666",
+   "nome": "No Município de Mirador - MA",
+   "emp": "0"
+  },
+  {
+   "cod": "1450",
+   "nome": "No Município de Malta - PB",
+   "emp": "663000"
+  },
+  {
+   "cod": "5427",
+   "nome": "No Município de Alto Horizonte - GO",
+   "emp": "499880"
+  },
+  {
+   "cod": "1564",
+   "nome": "No Município de Abreu e Lima - PE",
+   "emp": "270000"
+  },
+  {
+   "cod": "0002",
+   "nome": "No Exterior",
+   "emp": "7175012"
+  },
+  {
+   "cod": "1711",
+   "nome": "No Município de São Benedito do Sul - PE",
+   "emp": "700000"
+  },
+  {
+   "cod": "1660",
+   "nome": "No Município de Lagoa do Carro - PE",
+   "emp": "270000"
+  },
+  {
+   "cod": "0460",
+   "nome": "No Município de Figueirópolis - TO",
+   "emp": "500000"
+  },
+  {
+   "cod": "0429",
+   "nome": "No Município de Babaçulândia - TO",
+   "emp": "400000"
+  },
+  {
+   "cod": "9114",
+   "nome": "Unidades de Saúde (Caritas Diocesana de Caravelas) - No Estado da Bahia",
+   "emp": "300000"
+  },
+  {
+   "cod": "5533",
+   "nome": "No Município de Itaguari - GO",
+   "emp": "200000"
+  },
+  {
+   "cod": "9216",
+   "nome": "Hospital do Câncer do Distrito Federal - No Distrito Federal",
+   "emp": "0"
+  },
+  {
+   "cod": "0605",
+   "nome": "No Município de Chapadinha - MA",
+   "emp": "3331339"
+  },
+  {
+   "cod": "0467",
+   "nome": "No Município de Gurupi - TO",
+   "emp": "5000000"
+  },
+  {
+   "cod": "4021",
+   "nome": "No Município de Ampére - PR",
+   "emp": "300000"
+  },
+  {
+   "cod": "0362",
+   "nome": "No Município de Santana do Araguaia - PA",
+   "emp": "200000"
+  },
+  {
+   "cod": "3310",
+   "nome": "No Município de Macaé - RJ",
+   "emp": "99980"
+  },
+  {
+   "cod": "5512",
+   "nome": "No Município de Goiânia - GO",
+   "emp": "200000"
+  },
+  {
+   "cod": "2178",
+   "nome": "No Município de Mata de São João - BA",
+   "emp": "4750143"
+  },
+  {
+   "cod": "9166",
+   "nome": "Irmandade da Santa Casa de Misericórdia de Limeira - Limeira - SP",
+   "emp": "500000"
+  },
+  {
+   "cod": "4787",
+   "nome": "No Município de Capão do Leão - RS",
+   "emp": "125000"
+  },
+  {
+   "cod": "3323",
+   "nome": "No Município de Nova Iguaçu - RJ",
+   "emp": "13541131"
+  },
+  {
+   "cod": "2227",
+   "nome": "No Município de Pintadas - BA",
+   "emp": "0"
+  },
+  {
+   "cod": "3714",
+   "nome": "No Município de Mongaguá - SP",
+   "emp": "204945"
+  },
+  {
+   "cod": "0053",
+   "nome": "No Distrito Federal",
+   "emp": "7182089413"
+  },
+  {
+   "cod": "3337",
+   "nome": "No Município de Rio Bonito - RJ",
+   "emp": "1655220"
+  },
+  {
+   "cod": "9198",
+   "nome": "Associação de Apoio ao Desenvolvimento Humano Acalento - Caraguatatuba - SP",
+   "emp": "0"
+  },
+  {
+   "cod": "5602",
+   "nome": "No Município de Pirenópolis - GO",
+   "emp": "200000"
+  },
+  {
+   "cod": "3354",
+   "nome": "No Município de Saquarema - RJ",
+   "emp": "7270700"
+  },
+  {
+   "cod": "3554",
+   "nome": "No Município de Gabriel Monteiro - SP",
+   "emp": "100000"
+  },
+  {
+   "cod": "9024",
+   "nome": "Reforma, Equipamentos e Materiais Permanentes - No Estado do Mato Grosso do Sul",
+   "emp": "28235375"
+  },
+  {
+   "cod": "0158",
+   "nome": "No Município de Epitaciolândia - AC",
+   "emp": "949980"
+  },
+  {
+   "cod": "4135",
+   "nome": "No Município de Goioerê - PR",
+   "emp": "500000"
+  },
+  {
+   "cod": "9154",
+   "nome": "Hospital Tiradentes - São Paulo - SP",
+   "emp": "1764904"
+  },
+  {
+   "cod": "4421",
+   "nome": "No Município de Angelina - SC",
+   "emp": "200000"
+  },
+  {
+   "cod": "1313",
+   "nome": "No Município de São Rafael - RN",
+   "emp": "500000"
+  },
+  {
+   "cod": "2553",
+   "nome": "No Município de Coroaci - MG",
+   "emp": "999880"
+  },
+  {
+   "cod": "2002",
+   "nome": "No Município de Canavieiras - BA",
+   "emp": "300000"
+  },
+  {
+   "cod": "0709",
+   "nome": "No Município de Santa Filomena do Maranhão - MA",
+   "emp": "300000"
+  },
+  {
+   "cod": "3709",
+   "nome": "No Município de Mogi das Cruzes - SP",
+   "emp": "2325082"
+  },
+  {
+   "cod": "2520",
+   "nome": "No Município de Chapada Gaúcha - MG",
+   "emp": "0"
+  },
+  {
+   "cod": "4806",
+   "nome": "No Município de Charqueadas - RS",
+   "emp": "500000"
+  },
+  {
+   "cod": "0639",
+   "nome": "No Município de Itaipava do Grajaú - MA",
+   "emp": "600000"
+  },
+  {
+   "cod": "0541",
+   "nome": "No Município de Talismã - TO",
+   "emp": "400000"
+  },
+  {
+   "cod": "2009",
+   "nome": "No Município de Capela do Alto Alegre - BA",
+   "emp": "500000"
+  },
+  {
+   "cod": "4413",
+   "nome": "No Município de Agronômica - SC",
+   "emp": "250000"
+  },
+  {
+   "cod": "4518",
+   "nome": "No Município de Içara - SC",
+   "emp": "3231161"
+  },
+  {
+   "cod": "1987",
+   "nome": "No Município de Cachoeira - BA",
+   "emp": "0"
+  },
+  {
+   "cod": "5217",
+   "nome": "No Município de Camapuã - MS",
+   "emp": "0"
+  },
+  {
+   "cod": "2748",
+   "nome": "No Município de Jequitibá - MG",
+   "emp": "200000"
+  },
+  {
+   "cod": "0016",
+   "nome": "No Estado do Amapá",
+   "emp": "249341180"
+  },
+  {
+   "cod": "5293",
+   "nome": "No Município de Barra do Garças - MT",
+   "emp": "500000"
+  },
+  {
+   "cod": "4482",
+   "nome": "No Município de Corupá - SC",
+   "emp": "500000"
+  },
+  {
+   "cod": "9090",
+   "nome": "Reforma e Aparelhamento de Unidade de Saúde (União Brasileira de Educação e Assistência) - Porto Alegre - RS",
+   "emp": "0"
+  },
+  {
+   "cod": "0027",
+   "nome": "No Estado de Alagoas",
+   "emp": "1462832356"
+  },
+  {
+   "cod": "3155",
+   "nome": "No Município de Três Corações - MG",
+   "emp": "1500000"
+  },
+  {
+   "cod": "1432",
+   "nome": "No Município de Itapororoca - PB",
+   "emp": "663000"
+  },
+  {
+   "cod": "4521",
+   "nome": "No Município de Imbituba - SC",
+   "emp": "2900000"
+  },
+  {
+   "cod": "5413",
+   "nome": "No Município de Vila Rica - MT",
+   "emp": "160000"
+  },
+  {
+   "cod": "1756",
+   "nome": "No Município de Belém - AL",
+   "emp": "0"
+  },
+  {
+   "cod": "7000",
+   "nome": "Instituto Fernandes Figueira (IFF) - No Estado do Rio de Janeiro",
+   "emp": "324192"
+  },
+  {
+   "cod": "1016",
+   "nome": "No Município de Baturité - CE",
+   "emp": "200000"
+  },
+  {
+   "cod": "5665",
+   "nome": "No Município de Balneário Rincão - SC",
+   "emp": "800000"
+  },
+  {
+   "cod": "5582",
+   "nome": "No Município de Nova Veneza - GO",
+   "emp": "799950"
+  },
+  {
+   "cod": "3295",
+   "nome": "No Município de Conceição de Macabu - RJ",
+   "emp": "476527"
+  },
+  {
+   "cod": "5590",
+   "nome": "No Município de Palestina de Goiás - GO",
+   "emp": "250000"
+  },
+  {
+   "cod": "3549",
+   "nome": "No Município de Flórida Paulista - SP",
+   "emp": "699600"
+  },
+  {
+   "cod": "0423",
+   "nome": "No Município de Araguatins - TO",
+   "emp": "1051080"
+  },
+  {
+   "cod": "0408",
+   "nome": "No Município de Tartarugalzinho - AP",
+   "emp": "2792202"
+  },
+  {
+   "cod": "1165",
+   "nome": "No Município de Tururu - CE",
+   "emp": "181205"
+  },
+  {
+   "cod": "4798",
+   "nome": "No Município de Caxias do Sul - RS",
+   "emp": "4800000"
+  },
+  {
+   "cod": "7422",
+   "nome": "Clínica da Mulher - Seringueiras - RO",
+   "emp": "600000"
+  },
+  {
+   "cod": "0530",
+   "nome": "No Município de São Bento do Tocantins - TO",
+   "emp": "400000"
+  },
+  {
+   "cod": "4151",
+   "nome": "No Município de Ibiporã - PR",
+   "emp": "199990"
+  },
+  {
+   "cod": "3439",
+   "nome": "No Município de Birigui - SP",
+   "emp": "500000"
+  },
+  {
+   "cod": "4653",
+   "nome": "No Município de São João Batista - SC",
+   "emp": "100000"
+  },
+  {
+   "cod": "9142",
+   "nome": "(Distrito de Lumiar) Nova Friburgo - RJ",
+   "emp": "0"
+  },
+  {
+   "cod": "1700",
+   "nome": "No Município de Salgadinho - PE",
+   "emp": "800000"
+  },
+  {
+   "cod": "0247",
+   "nome": "No Município de Rorainópolis - RR",
+   "emp": "1000000"
+  },
+  {
+   "cod": "2403",
+   "nome": "No Município de Barbacena - MG",
+   "emp": "2787519"
+  },
+  {
+   "cod": "3361",
+   "nome": "No Município de Três Rios - RJ",
+   "emp": "1000000"
+  },
+  {
+   "cod": "4055",
+   "nome": "No Município de Braganey - PR",
+   "emp": "185000"
+  },
+  {
+   "cod": "0121",
+   "nome": "No Município de Vilhena - RO",
+   "emp": "14396494"
+  },
+  {
+   "cod": "2133",
+   "nome": "No Município de Jacobina - BA",
+   "emp": "1800000"
+  },
+  {
+   "cod": "4904",
+   "nome": "No Município de Ijuí - RS",
+   "emp": "500000"
+  },
+  {
+   "cod": "3979",
+   "nome": "No Município de Tremembé - SP",
+   "emp": "1350224"
+  },
+  {
+   "cod": "0103",
+   "nome": "No Município de Cacoal - RO",
+   "emp": "2160387"
+  },
+  {
+   "cod": "3564",
+   "nome": "No Município de Guaíra - SP",
+   "emp": "209891"
+  },
+  {
+   "cod": "1079",
+   "nome": "No Município de Itarema - CE",
+   "emp": "5020774"
+  },
+  {
+   "cod": "0217",
+   "nome": "No Município de Novo Airão - AM",
+   "emp": "1000000"
+  },
+  {
+   "cod": "0031",
+   "nome": "No Estado de Minas Gerais",
+   "emp": "7801427213"
+  },
+  {
+   "cod": "3591",
+   "nome": "No Município de Ibiúna - SP",
+   "emp": "2750000"
+  },
+  {
+   "cod": "1664",
+   "nome": "No Município de Lagoa Grande - PE",
+   "emp": "400000"
+  },
+  {
+   "cod": "1555",
+   "nome": "No Município de Tavares - PB",
+   "emp": "663000"
+  },
+  {
+   "cod": "3476",
+   "nome": "No Município de Campos do Jordão - SP",
+   "emp": "470774"
+  },
+  {
+   "cod": "9206",
+   "nome": "Centros de Convivência e Cooperativa (CECCOs) - São Paulo - SP",
+   "emp": "0"
+  },
+  {
+   "cod": "1710",
+   "nome": "No Município de Santa Terezinha - PE",
+   "emp": "500000"
+  },
+  {
+   "cod": "3485",
+   "nome": "No Município de Capivari - SP",
+   "emp": "700000"
+  },
+  {
+   "cod": "2235",
+   "nome": "No Município de Ponto Novo - BA",
+   "emp": "1000000"
+  },
+  {
+   "cod": "4361",
+   "nome": "No Município de São Manoel do Paraná - PR",
+   "emp": "150000"
+  },
+  {
+   "cod": "1062",
+   "nome": "No Município de Ibiapina - CE",
+   "emp": "2000000"
+  },
+  {
+   "cod": "3685",
+   "nome": "No Município de Mairinque - SP",
+   "emp": "600000"
+  },
+  {
+   "cod": "3258",
+   "nome": "No Município de Santa Maria de Jetibá - ES",
+   "emp": "500000"
+  },
+  {
+   "cod": "3702",
+   "nome": "No Município de Miracatu - SP",
+   "emp": "700000"
+  },
+  {
+   "cod": "1185",
+   "nome": "No Município de Arês - RN",
+   "emp": "150000"
+  },
+  {
+   "cod": "3402",
+   "nome": "No Município de Araraquara - SP",
+   "emp": "2000000"
+  },
+  {
+   "cod": "2188",
+   "nome": "No Município de Mortugaba - BA",
+   "emp": "700000"
+  },
+  {
+   "cod": "3205",
+   "nome": "No Município de Atilio Vivacqua - ES",
+   "emp": "399728"
+  },
+  {
+   "cod": "4317",
+   "nome": "No Município de Rio Bonito do Iguaçu - PR",
+   "emp": "1000000"
+  },
+  {
+   "cod": "0343",
+   "nome": "No Município de Placas - PA",
+   "emp": "1063357"
+  },
+  {
+   "cod": "0934",
+   "nome": "No Município de Redenção do Gurguéia - PI",
+   "emp": "300000"
+  },
+  {
+   "cod": "5456",
+   "nome": "No Município de Buriti Alegre - GO",
+   "emp": "948388"
+  },
+  {
+   "cod": "5276",
+   "nome": "No Município de Vicentina - MS",
+   "emp": "3500000"
+  },
+  {
+   "cod": "1665",
+   "nome": "No Município de Lajedo - PE",
+   "emp": "38600"
+  },
+  {
+   "cod": "0632",
+   "nome": "No Município de Grajaú - MA",
+   "emp": "2142604"
+  },
+  {
+   "cod": "5595",
+   "nome": "No Município de Paranaiguara - GO",
+   "emp": "250000"
+  },
+  {
+   "cod": "3225",
+   "nome": "No Município de Ibatiba - ES",
+   "emp": "300000"
+  },
+  {
+   "cod": "2941",
+   "nome": "No Município de Pirapora - MG",
+   "emp": "1150000"
+  },
+  {
+   "cod": "3536",
+   "nome": "No Município de Engenheiro Coelho - SP",
+   "emp": "210000"
+  },
+  {
+   "cod": "1997",
+   "nome": "No Município de Camamu - BA",
+   "emp": "400000"
+  },
+  {
+   "cod": "9094",
+   "nome": "Hospital São Donato (Fundação Social Hospitalar de Içara) - Içara - SC",
+   "emp": "1500000"
+  },
+  {
+   "cod": "4423",
+   "nome": "No Município de Anitápolis - SC",
+   "emp": "250000"
+  },
+  {
+   "cod": "0215",
+   "nome": "No Município de Nhamundá - AM",
+   "emp": "379995"
+  },
+  {
+   "cod": "0201",
+   "nome": "No Município de Iranduba - AM",
+   "emp": "829925"
+  },
+  {
+   "cod": "5592",
+   "nome": "No Município de Palmelo - GO",
+   "emp": "0"
+  },
+  {
+   "cod": "0294",
+   "nome": "No Município de Curuá - PA",
+   "emp": "349945"
+  },
+  {
+   "cod": "1813",
+   "nome": "No Município de Ouro Branco - AL",
+   "emp": "1200000"
+  },
+  {
+   "cod": "3763",
+   "nome": "No Município de Palmital - SP",
+   "emp": "251000"
+  },
+  {
+   "cod": "5451",
+   "nome": "No Município de Bom Jesus de Goiás - GO",
+   "emp": "300000"
+  },
+  {
+   "cod": "2325",
+   "nome": "No Município de Umburanas - BA",
+   "emp": "0"
+  },
+  {
+   "cod": "3273",
+   "nome": "No Município de Vitória - ES",
+   "emp": "218000"
+  },
+  {
+   "cod": "4933",
+   "nome": "No Município de Lagoa Vermelha - RS",
+   "emp": "750000"
+  },
+  {
+   "cod": "3338",
+   "nome": "No Município de Rio Claro - RJ",
+   "emp": "850000"
+  },
+  {
+   "cod": "1085",
+   "nome": "No Município de Jardim - CE",
+   "emp": "799970"
+  },
+  {
+   "cod": "3912",
+   "nome": "No Município de São Carlos - SP",
+   "emp": "1949700"
+  },
+  {
+   "cod": "7392",
+   "nome": "Posto de Saúde Anízia Borges do Valle - Cerejeiras - RO",
+   "emp": "0"
+  },
+  {
+   "cod": "4372",
+   "nome": "No Município de Sengés - PR",
+   "emp": "400000"
+  },
+  {
+   "cod": "3605",
+   "nome": "No Município de Ipaussu - SP",
+   "emp": "150000"
+  },
+  {
+   "cod": "7006",
+   "nome": "Instituto Nacional de Infectologia Evandro Chagas (INI) - Rio de Janeiro - RJ",
+   "emp": "600000"
+  },
+  {
+   "cod": "0812",
+   "nome": "No Município de Campo Maior - PI",
+   "emp": "1700000"
+  },
+  {
+   "cod": "0288",
+   "nome": "No Município de Colares - PA",
+   "emp": "0"
+  },
+  {
+   "cod": "3420",
+   "nome": "No Município de Bálsamo - SP",
+   "emp": "100000"
+  },
+  {
+   "cod": "2037",
+   "nome": "No Município de Correntina - BA",
+   "emp": "0"
+  },
+  {
+   "cod": "2249",
+   "nome": "No Município de Riachão do Jacuípe - BA",
+   "emp": "2856402"
+  },
+  {
+   "cod": "4251",
+   "nome": "No Município de Nova Tebas - PR",
+   "emp": "600000"
+  },
+  {
+   "cod": "2547",
+   "nome": "No Município de Contagem - MG",
+   "emp": "3650000"
+  },
+  {
+   "cod": "8660",
+   "nome": "Hospital do Câncer de Pernambuco - No Estado de Pernambuco",
+   "emp": "5000000"
+  },
+  {
+   "cod": "1494",
+   "nome": "No Município de Puxinanã - PB",
+   "emp": "125000"
+  },
+  {
+   "cod": "3786",
+   "nome": "No Município de Penápolis - SP",
+   "emp": "100000"
+  },
+  {
+   "cod": "3995",
+   "nome": "No Município de Valinhos - SP",
+   "emp": "617524"
+  },
+  {
+   "cod": "4929",
+   "nome": "No Município de Júlio de Castilhos - RS",
+   "emp": "150000"
+  },
+  {
+   "cod": "1546",
+   "nome": "No Município de Sertãozinho - PB",
+   "emp": "189265"
+  },
+  {
+   "cod": "2026",
+   "nome": "No Município de Conceição da Feira - BA",
+   "emp": "1195000"
+  },
+  {
+   "cod": "0231",
+   "nome": "No Município de Tefé - AM",
+   "emp": "599920"
+  },
+  {
+   "cod": "1727",
+   "nome": "No Município de Surubim - PE",
+   "emp": "100000"
+  },
+  {
+   "cod": "0363",
+   "nome": "No Município de Santarém - PA",
+   "emp": "1500000"
+  },
+  {
+   "cod": "0772",
+   "nome": "No Município de Altos - PI",
+   "emp": "1200000"
+  },
+  {
+   "cod": "0203",
+   "nome": "No Município de Itamarati - AM",
+   "emp": "500000"
+  },
+  {
+   "cod": "5642",
+   "nome": "No Município de Serranópolis - GO",
+   "emp": "300000"
+  },
+  {
+   "cod": "7662",
+   "nome": "Associação Pestalozzi - Niterói - RJ",
+   "emp": "584887"
+  },
+  {
+   "cod": "4636",
+   "nome": "No Município de Sangão - SC",
+   "emp": "750000"
+  },
+  {
+   "cod": "0719",
+   "nome": "No Município de São Benedito do Rio Preto - MA",
+   "emp": "1885000"
+  },
+  {
+   "cod": "0537",
+   "nome": "No Município de Sítio Novo do Tocantins - TO",
+   "emp": "1300387"
+  },
+  {
+   "cod": "4002",
+   "nome": "No Município de Vinhedo - SP",
+   "emp": "2000000"
+  },
+  {
+   "cod": "1246",
+   "nome": "No Município de Lagoa Salgada - RN",
+   "emp": "300000"
+  },
+  {
+   "cod": "2778",
+   "nome": "No Município de Lassance - MG",
+   "emp": "250000"
+  },
+  {
+   "cod": "1614",
+   "nome": "No Município de Condado - PE",
+   "emp": "300000"
+  },
+  {
+   "cod": "3691",
+   "nome": "No Município de Mariápolis - SP",
+   "emp": "100000"
+  },
+  {
+   "cod": "4903",
+   "nome": "No Município de Igrejinha - RS",
+   "emp": "300000"
+  },
+  {
+   "cod": "2472",
+   "nome": "No Município de Candeias - MG",
+   "emp": "200000"
+  },
+  {
+   "cod": "2868",
+   "nome": "No Município de Novo Cruzeiro - MG",
+   "emp": "0"
+  },
+  {
+   "cod": "1729",
+   "nome": "No Município de Tacaimbó - PE",
+   "emp": "917436"
+  },
+  {
+   "cod": "0119",
+   "nome": "No Município de Rolim de Moura - RO",
+   "emp": "2164000"
+  },
+  {
+   "cod": "2347",
+   "nome": "No Município de Açucena - MG",
+   "emp": "150000"
+  },
+  {
+   "cod": "1126",
+   "nome": "No Município de Pedra Branca - CE",
+   "emp": "1677780"
+  },
+  {
+   "cod": "3246",
+   "nome": "No Município de Muniz Freire - ES",
+   "emp": "280774"
+  },
+  {
+   "cod": "5669",
+   "nome": "No Município de Mojuí dos Campos - PA",
+   "emp": "105574"
+  },
+  {
+   "cod": "0306",
+   "nome": "No Município de Ipixuna do Pará - PA",
+   "emp": "1126000"
+  },
+  {
+   "cod": "4801",
+   "nome": "No Município de Cerro Branco - RS",
+   "emp": "100000"
+  },
+  {
+   "cod": "1072",
+   "nome": "No Município de Iracema - CE",
+   "emp": "1650001"
+  },
+  {
+   "cod": "3551",
+   "nome": "No Município de Franca - SP",
+   "emp": "2570774"
+  },
+  {
+   "cod": "3896",
+   "nome": "No Município de Santa Rita do Passa Quatro - SP",
+   "emp": "400000"
+  },
+  {
+   "cod": "3510",
+   "nome": "No Município de Cotia - SP",
+   "emp": "9700000"
+  },
+  {
+   "cod": "1033",
+   "nome": "No Município de Caucaia - CE",
+   "emp": "3243000"
+  },
+  {
+   "cod": "3941",
+   "nome": "No Município de Serra Negra - SP",
+   "emp": "420774"
+  },
+  {
+   "cod": "0185",
+   "nome": "No Município de Boa Vista do Ramos - AM",
+   "emp": "1781875"
+  },
+  {
+   "cod": "5075",
+   "nome": "No Município de Santo Ângelo - RS",
+   "emp": "500000"
+  },
+  {
+   "cod": "9280",
+   "nome": "Hospital das Clinicas - No Município de São Paulo - SP",
+   "emp": "500000"
+  },
+  {
+   "cod": "0618",
+   "nome": "No Município de Feira Nova do Maranhão - MA",
+   "emp": "0"
+  },
+  {
+   "cod": "9138",
+   "nome": "Associação dos Pais e Amigos dos Excepcionais (APAE) - No Estado do Sergipe",
+   "emp": "100000"
+  },
+  {
+   "cod": "3643",
+   "nome": "No Município de Jacareí - SP",
+   "emp": "1250000"
+  },
+  {
+   "cod": "3735",
+   "nome": "No Município de Nova Canaã Paulista - SP",
+   "emp": "37827"
+  },
+  {
+   "cod": "5073",
+   "nome": "No Município de Santa Vitória do Palmar - RS",
+   "emp": "250000"
+  },
+  {
+   "cod": "7404",
+   "nome": "Unidade Básica de Saúde Vila Heloisa - São Paulo - SP",
+   "emp": "504188"
+  },
+  {
+   "cod": "0166",
+   "nome": "No Município de Rio Branco - AC",
+   "emp": "25625821"
+  },
+  {
+   "cod": "4505",
+   "nome": "No Município de Gaspar - SC",
+   "emp": "100000"
+  },
+  {
+   "cod": "1104",
+   "nome": "No Município de Mombaça - CE",
+   "emp": "1000000"
+  },
+  {
+   "cod": "4225",
+   "nome": "No Município de Matelândia - PR",
+   "emp": "199000"
+  },
+  {
+   "cod": "3366",
+   "nome": "No Município de Adamantina - SP",
+   "emp": "1000000"
+  },
+  {
+   "cod": "0375",
+   "nome": "No Município de São Miguel do Guamá - PA",
+   "emp": "4000000"
+  },
+  {
+   "cod": "4022",
+   "nome": "No Município de Anahy - PR",
+   "emp": "185000"
+  },
+  {
+   "cod": "3648",
+   "nome": "No Município de Jambeiro - SP",
+   "emp": "120000"
+  },
+  {
+   "cod": "1663",
+   "nome": "No Município de Lagoa dos Gatos - PE",
+   "emp": "500000"
+  },
+  {
+   "cod": "5653",
+   "nome": "No Município de Turvelândia - GO",
+   "emp": "142489"
+  },
+  {
+   "cod": "9226",
+   "nome": "Irmandade da Santa Casa de Misericórdia de Nazaré - No Estado da Bahia",
+   "emp": "400000"
+  },
+  {
+   "cod": "2727",
+   "nome": "No Município de Itinga - MG",
+   "emp": "1000000"
+  },
+  {
+   "cod": "5396",
+   "nome": "No Município de Santo Antônio do Leste - MT",
+   "emp": "250000"
+  },
+  {
+   "cod": "1567",
+   "nome": "No Município de Agrestina - PE",
+   "emp": "2100000"
+  },
+  {
+   "cod": "7412",
+   "nome": "Equipamentos - Serrania - MG",
+   "emp": "250000"
+  },
+  {
+   "cod": "4097",
+   "nome": "No Município de Coronel Vivida - PR",
+   "emp": "900000"
+  },
+  {
+   "cod": "0443",
+   "nome": "No Município de Caseara - TO",
+   "emp": "350000"
+  },
+  {
+   "cod": "1830",
+   "nome": "No Município de Quebrangulo - AL",
+   "emp": "1000000"
+  },
+  {
+   "cod": "2027",
+   "nome": "No Município de Conceição do Almeida - BA",
+   "emp": "1000000"
+  },
+  {
+   "cod": "5311",
+   "nome": "No Município de Confresa - MT",
+   "emp": "1169790"
+  },
+  {
+   "cod": "9110",
+   "nome": "Irmandade da Santa Casa de Misericórdia - Socorro - SP",
+   "emp": "0"
+  },
+  {
+   "cod": "0660",
+   "nome": "No Município de Maranhãozinho - MA",
+   "emp": "1050000"
+  },
+  {
+   "cod": "0725",
+   "nome": "No Município de São Francisco do Brejão - MA",
+   "emp": "600000"
+  },
+  {
+   "cod": "5281",
+   "nome": "No Município de Alto Boa Vista - MT",
+   "emp": "200000"
+  },
+  {
+   "cod": "9200",
+   "nome": "Consórcio Intermunicipal de Saúde do Cariri Ocidental - CISCO (Centro de Hemodiálise) - No Estado da Paraíba",
+   "emp": "43250"
+  },
+  {
+   "cod": "0458",
+   "nome": "No Município de Esperantina - TO",
+   "emp": "400000"
+  },
+  {
+   "cod": "4603",
+   "nome": "No Município de Balneário Piçarras - SC",
+   "emp": "1400000"
+  },
+  {
+   "cod": "3635",
+   "nome": "No Município de Itirapina - SP",
+   "emp": "269929"
+  },
+  {
+   "cod": "5482",
+   "nome": "No Município de Cidade Ocidental - GO",
+   "emp": "725000"
+  },
+  {
+   "cod": "7008",
+   "nome": "Escola Nacional de Saúde Pública Sergio Arouca - No Estado do Rio de Janeiro",
+   "emp": "2410387"
+  },
+  {
+   "cod": "0243",
+   "nome": "No Município de Iracema - RR",
+   "emp": "1000000"
+  },
+  {
+   "cod": "4475",
+   "nome": "No Município de Chapadão do Lageado - SC",
+   "emp": "0"
+  },
+  {
+   "cod": "5121",
+   "nome": "No Município de Sapucaia do Sul - RS",
+   "emp": "0"
+  },
+  {
+   "cod": "6507",
+   "nome": "No Município do Rio de Janeiro - RJ (Hospital Geral de Bonsucesso)",
+   "emp": "175501428"
+  },
+  {
+   "cod": "2081",
+   "nome": "No Município de Ibirataia - BA",
+   "emp": "400000"
+  },
+  {
+   "cod": "2392",
+   "nome": "No Município de Arinos - MG",
+   "emp": "100000"
+  },
+  {
+   "cod": "5154",
+   "nome": "No Município de Tramandaí - RS",
+   "emp": "250000"
+  },
+  {
+   "cod": "0141",
+   "nome": "No Município de Parecis - RO",
+   "emp": "500000"
+  },
+  {
+   "cod": "7026",
+   "nome": "Laboratório de Criopreservação - Piracicaba - SP",
+   "emp": "250000"
+  },
+  {
+   "cod": "0871",
+   "nome": "No Município de Joaquim Pires - PI",
+   "emp": "0"
+  },
+  {
+   "cod": "4591",
+   "nome": "No Município de Palma Sola - SC",
+   "emp": "200000"
+  },
+  {
+   "cod": "1597",
+   "nome": "No Município de Caetés - PE",
+   "emp": "2901064"
+  },
+  {
+   "cod": "3783",
+   "nome": "No Município de Pedreira - SP",
+   "emp": "204915"
+  },
+  {
+   "cod": "7402",
+   "nome": "Unidade Básica de Saúde Jardim Sapopemba - São Paulo - SP",
+   "emp": "599464"
+  },
+  {
+   "cod": "3358",
+   "nome": "No Município de Tanguá - RJ",
+   "emp": "2000000"
+  },
+  {
+   "cod": "1110",
+   "nome": "No Município de Mulungu - CE",
+   "emp": "1052421"
+  },
+  {
+   "cod": "5201",
+   "nome": "No Município de Amambai - MS",
+   "emp": "2999960"
+  },
+  {
+   "cod": "1080",
+   "nome": "No Município de Itatira - CE",
+   "emp": "1725484"
+  },
+  {
+   "cod": "0556",
+   "nome": "No Município de Alto Alegre do Pindaré - MA",
+   "emp": "500000"
+  },
+  {
+   "cod": "3474",
+   "nome": "No Município de Campinas - SP",
+   "emp": "1700000"
+  },
+  {
+   "cod": "2221",
+   "nome": "No Município de Pedrão - BA",
+   "emp": "500000"
+  },
+  {
+   "cod": "5216",
+   "nome": "No Município de Caarapó - MS",
+   "emp": "1000000"
+  },
+  {
+   "cod": "4885",
+   "nome": "No Município de Gramado - RS",
+   "emp": "350000"
+  },
+  {
+   "cod": "2222",
+   "nome": "No Município de Pedro Alexandre - BA",
+   "emp": "500000"
+  },
+  {
+   "cod": "3301",
+   "nome": "No Município de Iguaba Grande - RJ",
+   "emp": "1000000"
+  },
+  {
+   "cod": "2589",
+   "nome": "No Município de Divinópolis - MG",
+   "emp": "1000000"
+  },
+  {
+   "cod": "0113",
+   "nome": "No Município de Nova Brasilândia D'Oeste - RO",
+   "emp": "929850"
+  },
+  {
+   "cod": "3962",
+   "nome": "No Município de Tapiratiba - SP",
+   "emp": "190000"
+  },
+  {
+   "cod": "5420",
+   "nome": "No Município de Acreúna - GO",
+   "emp": "1000000"
+  },
+  {
+   "cod": "1682",
+   "nome": "No Município de Parnamirim - PE",
+   "emp": "0"
+  },
+  {
+   "cod": "5214",
+   "nome": "No Município de Bonito - MS",
+   "emp": "200000"
+  },
+  {
+   "cod": "1117",
+   "nome": "No Município de Pacatuba - CE",
+   "emp": "2287774"
+  },
+  {
+   "cod": "1119",
+   "nome": "No Município de Pacujá - CE",
+   "emp": "220774"
+  },
+  {
+   "cod": "3396",
+   "nome": "No Município de Araçariguama - SP",
+   "emp": "770000"
+  },
+  {
+   "cod": "0012",
+   "nome": "No Estado do Acre",
+   "emp": "372516921"
+  },
+  {
+   "cod": "0259",
+   "nome": "No Município de Anajás - PA",
+   "emp": "199840"
+  },
+  {
+   "cod": "2030",
+   "nome": "No Município de Conde - BA",
+   "emp": "499965"
+  },
+  {
+   "cod": "3470",
+   "nome": "No Município de Cajati - SP",
+   "emp": "932496"
+  },
+  {
+   "cod": "0614",
+   "nome": "No Município de Dom Pedro - MA",
+   "emp": "400000"
+  },
+  {
+   "cod": "3587",
+   "nome": "No Município de Ibaté - SP",
+   "emp": "0"
+  },
+  {
+   "cod": "9104",
+   "nome": "Aquisição de Equipamentos (Hospital Regional do Gama-HRG) - No Distrito Federal",
+   "emp": "1792750"
+  },
+  {
+   "cod": "5221",
+   "nome": "No Município de Chapadão do Sul - MS",
+   "emp": "100000"
+  },
+  {
+   "cod": "2962",
+   "nome": "No Município de Presidente Bernardes - MG",
+   "emp": "500000"
+  },
+  {
+   "cod": "1294",
+   "nome": "No Município de Tibau - RN",
+   "emp": "300000"
+  },
+  {
+   "cod": "7408",
+   "nome": "Equipamentos - Silvianópolis - MG",
+   "emp": "250000"
+  },
+  {
+   "cod": "1596",
+   "nome": "No Município de Cachoeirinha - PE",
+   "emp": "1300000"
+  },
+  {
+   "cod": "3576",
+   "nome": "No Município de Guariba - SP",
+   "emp": "200000"
+  },
+  {
+   "cod": "3070",
+   "nome": "No Município de São João da Ponte - MG",
+   "emp": "0"
+  },
+  {
+   "cod": "1721",
+   "nome": "No Município de Serra Talhada - PE",
+   "emp": "1835020"
+  },
+  {
+   "cod": "2103",
+   "nome": "No Município de Itacaré - BA",
+   "emp": "828840"
+  },
+  {
+   "cod": "2917",
+   "nome": "No Município de Pedrinópolis - MG",
+   "emp": "200000"
+  },
+  {
+   "cod": "1516",
+   "nome": "No Município de Santa Teresinha - PB",
+   "emp": "366780"
+  },
+  {
+   "cod": "2207",
+   "nome": "No Município de Novo Horizonte - BA",
+   "emp": "800000"
+  },
+  {
+   "cod": "4641",
+   "nome": "No Município de Santa Terezinha - SC",
+   "emp": "150000"
+  },
+  {
+   "cod": "0690",
+   "nome": "No Município de Peritoró - MA",
+   "emp": "979901"
+  },
+  {
+   "cod": "4258",
+   "nome": "No Município de Palmeira - PR",
+   "emp": "199970"
+  },
+  {
+   "cod": "2056",
+   "nome": "No Município de Feira de Santana - BA",
+   "emp": "1370774"
+  },
+  {
+   "cod": "0648",
+   "nome": "No Município de Lago do Junco - MA",
+   "emp": "0"
+  },
+  {
+   "cod": "2311",
+   "nome": "No Município de Taperoá - BA",
+   "emp": "200000"
+  },
+  {
+   "cod": "9204",
+   "nome": "Aquisição de equipamentos - Hospital Nossa Senhora da Piedade - Paraíba do Sul - RJ",
+   "emp": "499945"
+  },
+  {
+   "cod": "4006",
+   "nome": "No Município de Votorantim - SP",
+   "emp": "496070"
+  },
+  {
+   "cod": "3325",
+   "nome": "No Município de Paraíba do Sul - RJ",
+   "emp": "1200000"
+  },
+  {
+   "cod": "0335",
+   "nome": "No Município de Ourilândia do Norte - PA",
+   "emp": "249990"
+  },
+  {
+   "cod": "2323",
+   "nome": "No Município de Ubatã - BA",
+   "emp": "0"
+  },
+  {
+   "cod": "5440",
+   "nome": "No Município de Aragarças - GO",
+   "emp": "250000"
+  },
+  {
+   "cod": "1529",
+   "nome": "No Município de São José de Piranhas - PB",
+   "emp": "663000"
+  },
+  {
+   "cod": "7060",
+   "nome": "Pronto Socorro de Parauapebas - Parauapebas - PA",
+   "emp": "0"
+  },
+  {
+   "cod": "2815",
+   "nome": "No Município de Matias Cardoso - MG",
+   "emp": "200000"
+  },
+  {
+   "cod": "5301",
+   "nome": "No Município de Canabrava do Norte - MT",
+   "emp": "150000"
+  },
+  {
+   "cod": "7420",
+   "nome": "Posto de Saúde Distrito de Vitória da União - Corumbiara - RO",
+   "emp": "499979"
+  },
+  {
+   "cod": "2963",
+   "nome": "No Município de Presidente Juscelino - MG",
+   "emp": "600000"
+  },
+  {
+   "cod": "0645",
+   "nome": "No Município de Joselândia - MA",
+   "emp": "270774"
+  },
+  {
+   "cod": "1392",
+   "nome": "No Município de Campina Grande - PB",
+   "emp": "24141548"
+  },
+  {
+   "cod": "3790",
+   "nome": "No Município de Piacatu - SP",
+   "emp": "200000"
+  },
+  {
+   "cod": "5275",
+   "nome": "No Município de Três Lagoas - MS",
+   "emp": "200000"
+  },
+  {
+   "cod": "2574",
+   "nome": "No Município de Curvelo - MG",
+   "emp": "200000"
+  },
+  {
+   "cod": "0296",
+   "nome": "No Município de Dom Eliseu - PA",
+   "emp": "1480428"
+  },
+  {
+   "cod": "1381",
+   "nome": "No Município de Cabaceiras - PB",
+   "emp": "663000"
+  },
+  {
+   "cod": "3942",
+   "nome": "No Município de Sertãozinho - SP",
+   "emp": "282387"
+  },
+  {
+   "cod": "4149",
+   "nome": "No Município de Ibaiti - PR",
+   "emp": "700000"
+  },
+  {
+   "cod": "2259",
+   "nome": "No Município de Ruy Barbosa - BA",
+   "emp": "300000"
+  },
+  {
+   "cod": "4763",
+   "nome": "No Município de Cachoeira do Sul - RS",
+   "emp": "3000000"
+  },
+  {
+   "cod": "0361",
+   "nome": "No Município de Santa Maria do Pará - PA",
+   "emp": "570774"
+  },
+  {
+   "cod": "4732",
+   "nome": "No Município de Bagé - RS",
+   "emp": "499770"
+  },
+  {
+   "cod": "7010",
+   "nome": "Instituto Fernandes Figueira (IFF) - No Estado do Rio de Janeiro",
+   "emp": "1499951"
+  },
+  {
+   "cod": "9232",
+   "nome": "Aquisição de Equipamentos - No Estado do Tocantins",
+   "emp": "3997907"
+  },
+  {
+   "cod": "7000",
+   "nome": "Cooperação com a Marinha do Brasil - Na Região Norte",
+   "emp": "3549413"
+  },
+  {
+   "cod": "8992",
+   "nome": "Aquisição de Material Permanente e Aparelhamento de Unidades Estaduais de Saúde - No Estado do Amazonas",
+   "emp": "0"
+  },
+  {
+   "cod": "1983",
+   "nome": "No Município de Buerarema - BA",
+   "emp": "500000"
+  },
+  {
+   "cod": "5580",
+   "nome": "No Município de Nova Iguaçu de Goiás - GO",
+   "emp": "0"
+  },
+  {
+   "cod": "1706",
+   "nome": "No Município de Santa Cruz do Capibaribe - PE",
+   "emp": "450000"
+  },
+  {
+   "cod": "9164",
+   "nome": "Associação de Assistência à Criança Deficiente (AACD) - No Estado de São Paulo",
+   "emp": "500000"
+  },
+  {
+   "cod": "1545",
+   "nome": "No Município de Serraria - PB",
+   "emp": "600000"
+  },
+  {
+   "cod": "1657",
+   "nome": "No Município de Jucati - PE",
+   "emp": "800000"
+  },
+  {
+   "cod": "1629",
+   "nome": "No Município de Gameleira - PE",
+   "emp": "400000"
+  },
+  {
+   "cod": "1469",
+   "nome": "No Município de Nova Olinda - PB",
+   "emp": "350000"
+  },
+  {
+   "cod": "9262",
+   "nome": "Irmandade da Santa Casa de Misericórdia - São Félix - BA",
+   "emp": "300000"
+  },
+  {
+   "cod": "0228",
+   "nome": "No Município de Silves - AM",
+   "emp": "199917"
+  },
+  {
+   "cod": "9116",
+   "nome": "Hospital São Roque Sociedade Beneficente (Hospital São Roque de Luzerna) - Luzerna - SC",
+   "emp": "300000"
+  },
+  {
+   "cod": "3233",
+   "nome": "No Município de Iúna - ES",
+   "emp": "100000"
+  },
+  {
+   "cod": "3460",
+   "nome": "No Município de Cabrália Paulista - SP",
+   "emp": "190000"
+  },
+  {
+   "cod": "5278",
+   "nome": "No Município de Água Boa - MT",
+   "emp": "650000"
+  },
+  {
+   "cod": "5083",
+   "nome": "No Município de São Borja - RS",
+   "emp": "0"
+  },
+  {
+   "cod": "5309",
+   "nome": "No Município de Colniza - MT",
+   "emp": "1000000"
+  },
+  {
+   "cod": "1237",
+   "nome": "No Município de João Câmara - RN",
+   "emp": "200000"
+  },
+  {
+   "cod": "3350",
+   "nome": "No Município de São José do Vale do Rio Preto - RJ",
+   "emp": "500000"
+  },
+  {
+   "cod": "0638",
+   "nome": "No Município de Imperatriz - MA",
+   "emp": "1663000"
+  },
+  {
+   "cod": "3165",
+   "nome": "No Município de Uberaba - MG",
+   "emp": "13249228"
+  },
+  {
+   "cod": "1560",
+   "nome": "No Município de Umbuzeiro - PB",
+   "emp": "139045"
+  },
+  {
+   "cod": "1271",
+   "nome": "No Município de Rio do Fogo - RN",
+   "emp": "969920"
+  },
+  {
+   "cod": "8798",
+   "nome": "Hospital Monsenhor Walfredo Gurgel - Natal - RN",
+   "emp": "999800"
+  },
+  {
+   "cod": "1301",
+   "nome": "No Município de São Bento do Trairí - RN",
+   "emp": "500000"
+  },
+  {
+   "cod": "1344",
+   "nome": "No Município de Alagoa Nova - PB",
+   "emp": "663000"
+  },
+  {
+   "cod": "2765",
+   "nome": "No Município de Juvenília - MG",
+   "emp": "260774"
+  },
+  {
+   "cod": "3555",
+   "nome": "No Município de Gália - SP",
+   "emp": "500000"
+  },
+  {
+   "cod": "1488",
+   "nome": "No Município de Pocinhos - PB",
+   "emp": "663000"
+  },
+  {
+   "cod": "2514",
+   "nome": "No Município de Cedro do Abaeté - MG",
+   "emp": "200000"
+  },
+  {
+   "cod": "0413",
+   "nome": "No Município de Almas - TO",
+   "emp": "500000"
+  },
+  {
+   "cod": "3492",
+   "nome": "No Município de Catanduva - SP",
+   "emp": "270774"
+  },
+  {
+   "cod": "3574",
+   "nome": "No Município de Guaratinguetá - SP",
+   "emp": "0"
+  },
+  {
+   "cod": "1031",
+   "nome": "No Município de Catarina - CE",
+   "emp": "2000000"
+  },
+  {
+   "cod": "3721",
+   "nome": "No Município de Monte Mor - SP",
+   "emp": "1150000"
+  },
+  {
+   "cod": "4458",
+   "nome": "No Município de Caçador - SC",
+   "emp": "1200000"
+  },
+  {
+   "cod": "4934",
+   "nome": "No Município de Lajeado - RS",
+   "emp": "700000"
+  },
+  {
+   "cod": "4000",
+   "nome": "No Município de Várzea Paulista - SP",
+   "emp": "700000"
+  },
+  {
+   "cod": "3626",
+   "nome": "No Município de Itápolis - SP",
+   "emp": "500000"
+  },
+  {
+   "cod": "5608",
+   "nome": "No Município de Portelândia - GO",
+   "emp": "212237"
+  },
+  {
+   "cod": "3606",
+   "nome": "No Município de Iperó - SP",
+   "emp": "600000"
+  },
+  {
+   "cod": "9252",
+   "nome": "Aquisição de Equipamentos para Hospital de Gurupi - Gurupi - TO",
+   "emp": "0"
+  },
+  {
+   "cod": "5476",
+   "nome": "No Município de Catalão - GO",
+   "emp": "150000"
+  },
+  {
+   "cod": "2495",
+   "nome": "No Município de Carmo de Minas - MG",
+   "emp": "250000"
+  },
+  {
+   "cod": "1991",
+   "nome": "No Município de Caetité - BA",
+   "emp": "950000"
+  },
+  {
+   "cod": "0667",
+   "nome": "No Município de Miranda do Norte - MA",
+   "emp": "1000000"
+  },
+  {
+   "cod": "9100",
+   "nome": "Hospital São José (Sociedade Literária e Caritativa Santo Agostinho) - Criciúma - SC",
+   "emp": "0"
+  },
+  {
+   "cod": "9178",
+   "nome": "Associação Beneficente Hospital Universitário - (Hospital Universitário de Marília) - Marília - SP",
+   "emp": "3983360"
+  },
+  {
+   "cod": "7064",
+   "nome": "Hospital de Urgência - Valparaíso de Goiás - GO",
+   "emp": "1197378"
+  },
+  {
+   "cod": "4888",
+   "nome": "No Município de Gravataí - RS",
+   "emp": "1000000"
+  },
+  {
+   "cod": "3974",
+   "nome": "No Município de Tietê - SP",
+   "emp": "200000"
+  },
+  {
+   "cod": "2110",
+   "nome": "No Município de Itajuípe - BA",
+   "emp": "350000"
+  },
+  {
+   "cod": "3230",
+   "nome": "No Município de Itaguaçu - ES",
+   "emp": "250000"
+  },
+  {
+   "cod": "1755",
+   "nome": "No Município de Batalha - AL",
+   "emp": "800000"
+  },
+  {
+   "cod": "0015",
+   "nome": "No Estado do Pará",
+   "emp": "2230916153"
+  },
+  {
+   "cod": "2372",
+   "nome": "No Município de Andrelândia - MG",
+   "emp": "270774"
+  },
+  {
+   "cod": "8760",
+   "nome": "Instituto do Coração - InCor - (Hospital das Clínicas da Faculdade de Medicina da USP - HCFMUSP) - No Estado de São Paulo",
+   "emp": "5668770"
+  },
+  {
+   "cod": "3281",
+   "nome": "No Município de Barra Mansa - RJ",
+   "emp": "3950560"
+  },
+  {
+   "cod": "3359",
+   "nome": "No Município de Teresópolis - RJ",
+   "emp": "500000"
+  },
+  {
+   "cod": "3311",
+   "nome": "No Município de Macuco - RJ",
+   "emp": "503183"
+  },
+  {
+   "cod": "0117",
+   "nome": "No Município de Presidente Médici - RO",
+   "emp": "726000"
+  },
+  {
+   "cod": "0021",
+   "nome": "No Estado do Maranhão",
+   "emp": "2337978241"
+  },
+  {
+   "cod": "0776",
+   "nome": "No Município de Anísio de Abreu - PI",
+   "emp": "200000"
+  },
+  {
+   "cod": "3593",
+   "nome": "No Município de Iepê - SP",
+   "emp": "100000"
+  },
+  {
+   "cod": "3475",
+   "nome": "No Município de Campo Limpo Paulista - SP",
+   "emp": "247840"
+  },
+  {
+   "cod": "1057",
+   "nome": "No Município de Guaraciaba do Norte - CE",
+   "emp": "0"
+  },
+  {
+   "cod": "0710",
+   "nome": "No Município de Santa Helena - MA",
+   "emp": "3000000"
+  },
+  {
+   "cod": "3646",
+   "nome": "No Município de Jaguariúna - SP",
+   "emp": "200000"
+  },
+  {
+   "cod": "1088",
+   "nome": "No Município de Juazeiro do Norte - CE",
+   "emp": "134000"
+  },
+  {
+   "cod": "0369",
+   "nome": "No Município de São Félix do Xingu - PA",
+   "emp": "300000"
+  },
+  {
+   "cod": "4080",
+   "nome": "No Município de Castro - PR",
+   "emp": "150000"
+  },
+  {
+   "cod": "3504",
+   "nome": "No Município de Cordeirópolis - SP",
+   "emp": "1000000"
+  },
+  {
+   "cod": "3276",
+   "nome": "No Município de Araruama - RJ",
+   "emp": "400665"
+  },
+  {
+   "cod": "1133",
+   "nome": "No Município de Poranga - CE",
+   "emp": "621508"
+  },
+  {
+   "cod": "1497",
+   "nome": "No Município de Remígio - PB",
+   "emp": "204995"
+  },
+  {
+   "cod": "0013",
+   "nome": "No Estado do Amazonas",
+   "emp": "1087340692"
+  },
+  {
+   "cod": "3577",
+   "nome": "No Município de Guarujá - SP",
+   "emp": "5590000"
+  },
+  {
+   "cod": "5324",
+   "nome": "No Município de Guarantã do Norte - MT",
+   "emp": "500000"
+  },
+  {
+   "cod": "5225",
+   "nome": "No Município de Costa Rica - MS",
+   "emp": "460186"
+  },
+  {
+   "cod": "0153",
+   "nome": "No Município de Assis Brasil - AC",
+   "emp": "349920"
+  },
+  {
+   "cod": "4198",
+   "nome": "No Município de Lindoeste - PR",
+   "emp": "400000"
+  },
+  {
+   "cod": "2991",
+   "nome": "No Município de Rio Pomba - MG",
+   "emp": "600000"
+  },
+  {
+   "cod": "5584",
+   "nome": "No Município de Novo Gama - GO",
+   "emp": "3100000"
+  },
+  {
+   "cod": "2015",
+   "nome": "No Município de Casa Nova - BA",
+   "emp": "3785970"
+  },
+  {
+   "cod": "0122",
+   "nome": "No Município de São Miguel do Guaporé - RO",
+   "emp": "250000"
+  },
+  {
+   "cod": "0550",
+   "nome": "No Município de Afonso Cunha - MA",
+   "emp": "1294394"
+  },
+  {
+   "cod": "9086",
+   "nome": "Reforma e Aparelhamento de Unidade de Saúde (Sociedade Beneficência e Caridade de Lajeado) - Lajeado - RS",
+   "emp": "0"
+  },
+  {
+   "cod": "0398",
+   "nome": "No Município de Cutias - AP",
+   "emp": "1000000"
+  },
+  {
+   "cod": "0626",
+   "nome": "No Município de Governador Edison Lobão - MA",
+   "emp": "500000"
+  },
+  {
+   "cod": "3362",
+   "nome": "No Município de Valença - RJ",
+   "emp": "1699200"
+  },
+  {
+   "cod": "3248",
+   "nome": "No Município de Nova Venécia - ES",
+   "emp": "249990"
+  },
+  {
+   "cod": "1504",
+   "nome": "No Município de Rio Tinto - PB",
+   "emp": "0"
+  },
+  {
+   "cod": "0529",
+   "nome": "No Município de Santa Terezinha do Tocantins - TO",
+   "emp": "200000"
+  },
+  {
+   "cod": "4685",
+   "nome": "No Município de Tubarão - SC",
+   "emp": "1140387"
+  },
+  {
+   "cod": "9058",
+   "nome": "Aquisição de Material Permanente e Aparelhamento de Unidades Estaduais - No Estado de Goiás",
+   "emp": "39182977"
+  },
+  {
+   "cod": "0600",
+   "nome": "No Município de Caxias - MA",
+   "emp": "0"
+  },
+  {
+   "cod": "3210",
+   "nome": "No Município de Brejetuba - ES",
+   "emp": "0"
+  },
+  {
+   "cod": "1285",
+   "nome": "No Município de Porto do Mangue - RN",
+   "emp": "500000"
+  },
+  {
+   "cod": "4096",
+   "nome": "No Município de Coronel Domingos Soares - PR",
+   "emp": "540897"
+  },
+  {
+   "cod": "1090",
+   "nome": "No Município de Lavras da Mangabeira - CE",
+   "emp": "2554000"
+  },
+  {
+   "cod": "1473",
+   "nome": "No Município de Ouro Velho - PB",
+   "emp": "307400"
+  },
+  {
+   "cod": "1836",
+   "nome": "No Município de São Brás - AL",
+   "emp": "700000"
+  },
+  {
+   "cod": "3319",
+   "nome": "No Município de Natividade - RJ",
+   "emp": "1700000"
+  },
+  {
+   "cod": "1651",
+   "nome": "No Município de Jaboatão dos Guararapes - PE",
+   "emp": "0"
+  },
+  {
+   "cod": "3331",
+   "nome": "No Município de Porciúncula - RJ",
+   "emp": "800000"
+  },
+  {
+   "cod": "4484",
+   "nome": "No Município de Criciúma - SC",
+   "emp": "5500000"
+  },
+  {
+   "cod": "0025",
+   "nome": "No Estado da Paraíba",
+   "emp": "1547597183"
+  },
+  {
+   "cod": "2313",
+   "nome": "No Município de Teixeira de Freitas - BA",
+   "emp": "500000"
+  },
+  {
+   "cod": "2696",
+   "nome": "No Município de Inimutaba - MG",
+   "emp": "600000"
+  },
+  {
+   "cod": "1675",
+   "nome": "No Município de Orobó - PE",
+   "emp": "500000"
+  },
+  {
+   "cod": "1388",
+   "nome": "No Município de Cajazeiras - PB",
+   "emp": "663000"
+  },
+  {
+   "cod": "0250",
+   "nome": "No Município de Uiramutã - RR",
+   "emp": "730000"
+  },
+  {
+   "cod": "5208",
+   "nome": "No Município de Aral Moreira - MS",
+   "emp": "1000000"
+  },
+  {
+   "cod": "0033",
+   "nome": "No Estado do Rio de Janeiro",
+   "emp": "7421385834"
+  },
+  {
+   "cod": "2710",
+   "nome": "No Município de Itajubá - MG",
+   "emp": "600000"
+  },
+  {
+   "cod": "3266",
+   "nome": "No Município de Sooretama - ES",
+   "emp": "250000"
+  },
+  {
+   "cod": "0374",
+   "nome": "No Município de São João do Araguaia - PA",
+   "emp": "300000"
+  },
+  {
+   "cod": "3346",
+   "nome": "No Município de São Gonçalo - RJ",
+   "emp": "7500000"
+  },
+  {
+   "cod": "1794",
+   "nome": "No Município de Limoeiro de Anadia - AL",
+   "emp": "810000"
+  },
+  {
+   "cod": "1038",
+   "nome": "No Município de Coreaú - CE",
+   "emp": "500000"
+  },
+  {
+   "cod": "3286",
+   "nome": "No Município de Cachoeiras de Macacu - RJ",
+   "emp": "0"
+  },
+  {
+   "cod": "1021",
+   "nome": "No Município de Camocim - CE",
+   "emp": "1500000"
+  },
+  {
+   "cod": "2016",
+   "nome": "No Município de Castro Alves - BA",
+   "emp": "1500000"
+  },
+  {
+   "cod": "2050",
+   "nome": "No Município de Entre Rios - BA",
+   "emp": "0"
+  },
+  {
+   "cod": "0436",
+   "nome": "No Município de Brejinho de Nazaré - TO",
+   "emp": "300000"
+  },
+  {
+   "cod": "2078",
+   "nome": "No Município de Ibiquera - BA",
+   "emp": "678045"
+  },
+  {
+   "cod": "2664",
+   "nome": "No Município de Guaranésia - MG",
+   "emp": "150000"
+  },
+  {
+   "cod": "7424",
+   "nome": "Unidade Básica de Saúde Parque Luzardo Viana - Maracanaú - CE",
+   "emp": "924000"
+  },
+  {
+   "cod": "5529",
+   "nome": "No Município de Ipiranga de Goiás - GO",
+   "emp": "143196"
+  },
+  {
+   "cod": "1511",
+   "nome": "No Município de Santa Luzia - PB",
+   "emp": "663000"
+  },
+  {
+   "cod": "0183",
+   "nome": "No Município de Benjamin Constant - AM",
+   "emp": "600000"
+  },
+  {
+   "cod": "4877",
+   "nome": "No Município de Garibaldi - RS",
+   "emp": "300000"
+  },
+  {
+   "cod": "0495",
+   "nome": "No Município de Novo Alegre - TO",
+   "emp": "300000"
+  },
+  {
+   "cod": "1013",
+   "nome": "No Município de Barreira - CE",
+   "emp": "400000"
+  },
+  {
+   "cod": "5646",
+   "nome": "No Município de Taquaral de Goiás - GO",
+   "emp": "321667"
+  },
+  {
+   "cod": "0681",
+   "nome": "No Município de Parnarama - MA",
+   "emp": "2200000"
+  },
+  {
+   "cod": "3752",
+   "nome": "No Município de Orlândia - SP",
+   "emp": "900000"
+  },
+  {
+   "cod": "1257",
+   "nome": "No Município de Messias Targino - RN",
+   "emp": "500000"
+  },
+  {
+   "cod": "0763",
+   "nome": "No Município de Vitória do Mearim - MA",
+   "emp": "3188808"
+  },
+  {
+   "cod": "5378",
+   "nome": "No Município de São José dos Quatro Marcos - MT",
+   "emp": "899455"
+  },
+  {
+   "cod": "5567",
+   "nome": "No Município de Morrinhos - GO",
+   "emp": "1110387"
+  },
+  {
+   "cod": "2305",
+   "nome": "No Município de Sobradinho - BA",
+   "emp": "500000"
+  },
+  {
+   "cod": "7396",
+   "nome": "Posto de Saúde Leonardo Alves - Vilhena - RO",
+   "emp": "399991"
+  },
+  {
+   "cod": "2131",
+   "nome": "No Município de Jaborandi - BA",
+   "emp": "28700"
+  },
+  {
+   "cod": "4089",
+   "nome": "No Município de Colombo - PR",
+   "emp": "149900"
+  },
+  {
+   "cod": "3586",
+   "nome": "No Município de Iaras - SP",
+   "emp": "300000"
+  },
+  {
+   "cod": "1350",
+   "nome": "No Município de Amparo - PB",
+   "emp": "285472"
+  },
+  {
+   "cod": "1534",
+   "nome": "No Município de São José dos Cordeiros - PB",
+   "emp": "0"
+  },
+  {
+   "cod": "5349",
+   "nome": "No Município de Nova Nazaré - MT",
+   "emp": "150000"
+  },
+  {
+   "cod": "0677",
+   "nome": "No Município de Olinda Nova do Maranhão - MA",
+   "emp": "750000"
+  },
+  {
+   "cod": "9240",
+   "nome": "Hospital Municipal - Taubaté - SP",
+   "emp": "1199950"
+  },
+  {
+   "cod": "1082",
+   "nome": "No Município de Jaguaribara - CE",
+   "emp": "60000"
+  },
+  {
+   "cod": "8636",
+   "nome": "Instituto Maranhense de Oncologia Aldenora Bello (Imoab) (Fundação Antonio Jorge Dino) - No Estado do Maranhão",
+   "emp": "394000"
+  },
+  {
+   "cod": "0371",
+   "nome": "No Município de São Geraldo do Araguaia - PA",
+   "emp": "109686"
+  },
+  {
+   "cod": "0580",
+   "nome": "No Município de Bernardo do Mearim - MA",
+   "emp": "600000"
+  },
+  {
+   "cod": "4390",
+   "nome": "No Município de Tomazina - PR",
+   "emp": "680027"
+  },
+  {
+   "cod": "0532",
+   "nome": "No Município de São Miguel do Tocantins - TO",
+   "emp": "300000"
+  },
+  {
+   "cod": "0244",
+   "nome": "No Município de Mucajaí - RR",
+   "emp": "1907670"
+  },
+  {
+   "cod": "3791",
+   "nome": "No Município de Piedade - SP",
+   "emp": "200000"
+  },
+  {
+   "cod": "5087",
+   "nome": "No Município de São Gabriel - RS",
+   "emp": "1000000"
+  },
+  {
+   "cod": "2439",
+   "nome": "No Município de Brumadinho - MG",
+   "emp": "1000000"
+  },
+  {
+   "cod": "0190",
+   "nome": "No Município de Carauari - AM",
+   "emp": "500000"
+  },
+  {
+   "cod": "1386",
+   "nome": "No Município de Cacimbas - PB",
+   "emp": "250000"
+  },
+  {
+   "cod": "3753",
+   "nome": "No Município de Osasco - SP",
+   "emp": "1575986"
+  },
+  {
+   "cod": "6506",
+   "nome": "No Município do Rio de Janeiro - RJ (Hospital Geral dos Servidores)",
+   "emp": "186975816"
+  },
+  {
+   "cod": "4053",
+   "nome": "No Município de Bom Sucesso do Sul - PR",
+   "emp": "99297"
+  },
+  {
+   "cod": "1111",
+   "nome": "No Município de Nova Olinda - CE",
+   "emp": "500000"
+  },
+  {
+   "cod": "2071",
+   "nome": "No Município de Iaçu - BA",
+   "emp": "1365385"
+  },
+  {
+   "cod": "3768",
+   "nome": "No Município de Paranapanema - SP",
+   "emp": "300000"
+  },
+  {
+   "cod": "2330",
+   "nome": "No Município de Valença - BA",
+   "emp": "400000"
+  },
+  {
+   "cod": "1670",
+   "nome": "No Município de Maraial - PE",
+   "emp": "300000"
+  },
+  {
+   "cod": "9132",
+   "nome": "Aquisição de equipamentos (Santa Casa de Campo Belo) - Campo Belo - MG",
+   "emp": "5000000"
+  },
+  {
+   "cod": "0607",
+   "nome": "No Município de Codó - MA",
+   "emp": "6700000"
+  },
+  {
+   "cod": "0964",
+   "nome": "No Município de São Julião - PI",
+   "emp": "1000000"
+  },
+  {
+   "cod": "4722",
+   "nome": "No Município de Aratiba - RS",
+   "emp": "0"
+  },
+  {
+   "cod": "9274",
+   "nome": "Hospital Maternidade Vila Nova Cachoeirinha - No Estado de São Paulo",
+   "emp": "0"
+  },
+  {
+   "cod": "2946",
+   "nome": "No Município de Poço Fundo - MG",
+   "emp": "249925"
+  },
+  {
+   "cod": "3810",
+   "nome": "No Município de Poá - SP",
+   "emp": "6211000"
+  },
+  {
+   "cod": "1766",
+   "nome": "No Município de Capela - AL",
+   "emp": "800000"
+  },
+  {
+   "cod": "5552",
+   "nome": "No Município de Luziânia - GO",
+   "emp": "8000000"
+  },
+  {
+   "cod": "8988",
+   "nome": "Santa Casa de Misericórdia de Sorocaba - Sorocaba - SP",
+   "emp": "500000"
+  },
+  {
+   "cod": "3279",
+   "nome": "No Município de Arraial do Cabo - RJ",
+   "emp": "497055"
+  },
+  {
+   "cod": "2127",
+   "nome": "No Município de Itororó - BA",
+   "emp": "990000"
+  },
+  {
+   "cod": "2754",
+   "nome": "No Município de João Pinheiro - MG",
+   "emp": "5499978"
+  },
+  {
+   "cod": "2319",
+   "nome": "No Município de Tucano - BA",
+   "emp": "2500000"
+  },
+  {
+   "cod": "5617",
+   "nome": "No Município de Sanclerlândia - GO",
+   "emp": "1000000"
+  },
+  {
+   "cod": "0448",
+   "nome": "No Município de Combinado - TO",
+   "emp": "300000"
+  },
+  {
+   "cod": "3889",
+   "nome": "No Município de Santa Isabel - SP",
+   "emp": "200000"
+  },
+  {
+   "cod": "0715",
+   "nome": "No Município de Santa Rita - MA",
+   "emp": "5708820"
+  },
+  {
+   "cod": "4506",
+   "nome": "No Município de Governador Celso Ramos - SC",
+   "emp": "500000"
+  },
+  {
+   "cod": "3765",
+   "nome": "No Município de Paraguaçu Paulista - SP",
+   "emp": "600000"
+  },
+  {
+   "cod": "8024",
+   "nome": "Liga Mossoroense de Estudos e Combate ao Câncer (LMECC) - No Estado do Rio Grande do Norte",
+   "emp": "100000"
+  },
+  {
+   "cod": "9112",
+   "nome": "Hospital de Emergência - No Estado do Amapá",
+   "emp": "275300"
+  },
+  {
+   "cod": "2951",
+   "nome": "No Município de Ponto Chique - MG",
+   "emp": "200000"
+  },
+  {
+   "cod": "2244",
+   "nome": "No Município de Quixabeira - BA",
+   "emp": "999955"
+  },
+  {
+   "cod": "1685",
+   "nome": "No Município de Paulista - PE",
+   "emp": "5300000"
+  },
+  {
+   "cod": "3829",
+   "nome": "No Município de Presidente Epitácio - SP",
+   "emp": "1170000"
+  },
+  {
+   "cod": "3127",
+   "nome": "No Município de Serra do Salitre - MG",
+   "emp": "300000"
+  },
+  {
+   "cod": "4596",
+   "nome": "No Município de Passo de Torres - SC",
+   "emp": "600000"
+  },
+  {
+   "cod": "1172",
+   "nome": "No Município de Várzea Alegre - CE",
+   "emp": "1000000"
+  },
+  {
+   "cod": "3347",
+   "nome": "No Município de São João da Barra - RJ",
+   "emp": "4540000"
+  },
+  {
+   "cod": "2193",
+   "nome": "No Município de Muniz Ferreira - BA",
+   "emp": "710774"
+  },
+  {
+   "cod": "9102",
+   "nome": "Unidades de Saúde (Fundação Dr. Amaral Carvalho) - No Estado de São Paulo",
+   "emp": "1250000"
+  },
+  {
+   "cod": "0340",
+   "nome": "No Município de Pau D'Arco - PA",
+   "emp": "1800000"
+  },
+  {
+   "cod": "1061",
+   "nome": "No Município de Ibaretama - CE",
+   "emp": "200000"
+  },
+  {
+   "cod": "3223",
+   "nome": "No Município de Guaçuí - ES",
+   "emp": "400000"
+  },
+  {
+   "cod": "0106",
+   "nome": "No Município de Corumbiara - RO",
+   "emp": "500000"
+  },
+  {
+   "cod": "3880",
+   "nome": "No Município de Santa Branca - SP",
+   "emp": "0"
+  },
+  {
+   "cod": "1219",
+   "nome": "No Município de Galinhos - RN",
+   "emp": "300000"
+  },
+  {
+   "cod": "3278",
+   "nome": "No Município de Armação dos Búzios - RJ",
+   "emp": "3300000"
+  },
+  {
+   "cod": "3198",
+   "nome": "No Município de Água Doce do Norte - ES",
+   "emp": "500000"
+  },
+  {
+   "cod": "0593",
+   "nome": "No Município de Cajari - MA",
+   "emp": "0"
+  },
+  {
+   "cod": "0397",
+   "nome": "No Município de Calçoene - AP",
+   "emp": "185520"
+  },
+  {
+   "cod": "0023",
+   "nome": "No Estado do Ceará",
+   "emp": "3462562705"
+  },
+  {
+   "cod": "2762",
+   "nome": "No Município de Juiz de Fora - MG",
+   "emp": "1000000"
+  },
+  {
+   "cod": "4551",
+   "nome": "No Município de Laguna - SC",
+   "emp": "850000"
+  },
+  {
+   "cod": "2258",
+   "nome": "No Município de Rodelas - BA",
+   "emp": "300000"
+  },
+  {
+   "cod": "3352",
+   "nome": "No Município de São Sebastião do Alto - RJ",
+   "emp": "2295087"
+  },
+  {
+   "cod": "1103",
+   "nome": "No Município de Missão Velha - CE",
+   "emp": "2977000"
+  },
+  {
+   "cod": "1972",
+   "nome": "No Município de Boa Vista do Tupim - BA",
+   "emp": "990000"
+  },
+  {
+   "cod": "7060",
+   "nome": "No Município de Parauapebas - PA (Pronto Socorro de Parauapebas)",
+   "emp": "2998010"
+  },
+  {
+   "cod": "2995",
+   "nome": "No Município de Rochedo de Minas - MG",
+   "emp": "300000"
+  },
+  {
+   "cod": "5226",
+   "nome": "No Município de Coxim - MS",
+   "emp": "1200000"
+  },
+  {
+   "cod": "5369",
+   "nome": "No Município de Ponte Branca - MT",
+   "emp": "250000"
+  },
+  {
+   "cod": "1149",
+   "nome": "No Município de Santa Quitéria - CE",
+   "emp": "1406000"
+  },
+  {
+   "cod": "2156",
+   "nome": "No Município de Lauro de Freitas - BA",
+   "emp": "400000"
+  },
+  {
+   "cod": "2421",
+   "nome": "No Município de Bom Despacho - MG",
+   "emp": "150000"
+  },
+  {
+   "cod": "0603",
+   "nome": "No Município de Centro do Guilherme - MA",
+   "emp": "900000"
+  },
+  {
+   "cod": "5013",
+   "nome": "No Município de Pelotas - RS",
+   "emp": "0"
+  },
+  {
+   "cod": "0128",
+   "nome": "No Município de Novo Horizonte do Oeste - RO",
+   "emp": "250000"
+  },
+  {
+   "cod": "3299",
+   "nome": "No Município de Engenheiro Paulo de Frontin - RJ",
+   "emp": "3249293"
+  },
+  {
+   "cod": "3488",
+   "nome": "No Município de Cardoso - SP",
+   "emp": "250000"
+  },
+  {
+   "cod": "3825",
+   "nome": "No Município de Praia Grande - SP",
+   "emp": "1500000"
+  },
+  {
+   "cod": "0509",
+   "nome": "No Município de Pium - TO",
+   "emp": "270774"
+  },
+  {
+   "cod": "3055",
+   "nome": "No Município de São Francisco - MG",
+   "emp": "1000000"
+  },
+  {
+   "cod": "1396",
+   "nome": "No Município de Casserengue - PB",
+   "emp": "167400"
+  },
+  {
+   "cod": "0142",
+   "nome": "No Município de Pimenteiras do Oeste - RO",
+   "emp": "250000"
+  },
+  {
+   "cod": "1105",
+   "nome": "No Município de Monsenhor Tabosa - CE",
+   "emp": "1600000"
+  },
+  {
+   "cod": "2837",
+   "nome": "No Município de Monte Azul - MG",
+   "emp": "300000"
+  },
+  {
+   "cod": "3894",
+   "nome": "No Município de Santana de Parnaíba - SP",
+   "emp": "293798"
+  },
+  {
+   "cod": "4397",
+   "nome": "No Município de Umuarama - PR",
+   "emp": "3936143"
+  },
+  {
+   "cod": "1953",
+   "nome": "No Município de Arataca - BA",
+   "emp": "300000"
+  },
+  {
+   "cod": "3743",
+   "nome": "No Município de Nova Odessa - SP",
+   "emp": "200000"
+  },
+  {
+   "cod": "0181",
+   "nome": "No Município de Barcelos - AM",
+   "emp": "500000"
+  },
+  {
+   "cod": "4676",
+   "nome": "No Município de Tijucas - SC",
+   "emp": "250000"
+  },
+  {
+   "cod": "1559",
+   "nome": "No Município de Uiraúna - PB",
+   "emp": "300000"
+  },
+  {
+   "cod": "4116",
+   "nome": "No Município de Espigão Alto do Iguaçu - PR",
+   "emp": "200000"
+  },
+  {
+   "cod": "3901",
+   "nome": "No Município de Santo Antônio da Alegria - SP",
+   "emp": "200000"
+  },
+  {
+   "cod": "5207",
+   "nome": "No Município de Aquidauana - MS",
+   "emp": "200000"
+  },
+  {
+   "cod": "5660",
+   "nome": "No Município de Vianópolis - GO",
+   "emp": "250000"
+  },
+  {
+   "cod": "9120",
+   "nome": "Associação Brasileira Beneficente de Reabilitação (ABBR) - No Estado do Rio de Janeiro",
+   "emp": "0"
+  },
+  {
+   "cod": "5438",
+   "nome": "No Município de Aporé - GO",
+   "emp": "338589"
+  },
+  {
+   "cod": "3652",
+   "nome": "No Município de Jaú - SP",
+   "emp": "500000"
+  },
+  {
+   "cod": "3862",
+   "nome": "No Município de Rosana - SP",
+   "emp": "200000"
+  },
+  {
+   "cod": "3368",
+   "nome": "No Município de Aguaí - SP",
+   "emp": "500000"
+  },
+  {
+   "cod": "1002",
+   "nome": "No Município de Aracati - CE",
+   "emp": "4506628"
+  },
+  {
+   "cod": "7000",
+   "nome": "Instituto de Ciência e Tecnologia em Biomodelos (ICTB) - No Estado do Rio de Janeiro",
+   "emp": "2599740"
+  },
+  {
+   "cod": "1568",
+   "nome": "No Município de Água Preta - PE",
+   "emp": "1100774"
+  },
+  {
+   "cod": "5218",
+   "nome": "No Município de Campo Grande - MS",
+   "emp": "850000"
+  },
+  {
+   "cod": "0394",
+   "nome": "No Município de Serra do Navio - AP",
+   "emp": "89945"
+  },
+  {
+   "cod": "3737",
+   "nome": "No Município de Nova Europa - SP",
+   "emp": "99960"
+  },
+  {
+   "cod": "9136",
+   "nome": "Reforma (Hospital Municipal Getúlio Vargas Filho) - Niterói - RJ",
+   "emp": "4000744"
+  },
+  {
+   "cod": "0477",
+   "nome": "No Município de Lajeado - TO",
+   "emp": "296227"
+  },
+  {
+   "cod": "9192",
+   "nome": "Centro de Atenção Psicossocial (CAPS) de Perdizes - São Paulo - SP",
+   "emp": "599760"
+  },
+  {
+   "cod": "9266",
+   "nome": "Aquisição de Equipamentos e Material Permanente - Rio de Janeiro - RJ",
+   "emp": "0"
+  },
+  {
+   "cod": "0345",
+   "nome": "No Município de Portel - PA",
+   "emp": "300000"
+  },
+  {
+   "cod": "0822",
+   "nome": "No Município de Cocal - PI",
+   "emp": "1400000"
+  },
+  {
+   "cod": "1703",
+   "nome": "No Município de Sanharó - PE",
+   "emp": "500000"
+  },
+  {
+   "cod": "3682",
+   "nome": "No Município de Macaubal - SP",
+   "emp": "599968"
+  },
+  {
+   "cod": "5333",
+   "nome": "No Município de Juína - MT",
+   "emp": "785387"
+  },
+  {
+   "cod": "7398",
+   "nome": "Posto de Saúde Qd 102/103 Área Especial (Lago Azul) - Novo Gama - GO",
+   "emp": "499944"
+  },
+  {
+   "cod": "3597",
+   "nome": "No Município de Iguape - SP",
+   "emp": "200000"
+  },
+  {
+   "cod": "0502",
+   "nome": "No Município de Pau D'Arco - TO",
+   "emp": "350000"
+  },
+  {
+   "cod": "9072",
+   "nome": "Construção do Hospital de Atendimento a Mulher - Belém - PA",
+   "emp": "51999614"
+  },
+  {
+   "cod": "5205",
+   "nome": "No Município de Antônio João - MS",
+   "emp": "997910"
+  },
+  {
+   "cod": "1003",
+   "nome": "No Município de Aracoiaba - CE",
+   "emp": "700000"
+  },
+  {
+   "cod": "7004",
+   "nome": "Instituto Fernandes Figueira (IFF) - Rio de Janeiro - RJ",
+   "emp": "1099999"
+  },
+  {
+   "cod": "1093",
+   "nome": "No Município de Maracanaú - CE",
+   "emp": "22722284"
+  },
+  {
+   "cod": "9078",
+   "nome": "Construção de Hospital - São Gonçalo do Amarante - RN",
+   "emp": "0"
+  },
+  {
+   "cod": "5479",
+   "nome": "No Município de Ceres - GO",
+   "emp": "300000"
+  },
+  {
+   "cod": "3950",
+   "nome": "No Município de Suzano - SP",
+   "emp": "1400000"
+  },
+  {
+   "cod": "2614",
+   "nome": "No Município de Espinosa - MG",
+   "emp": "1000000"
+  },
+  {
+   "cod": "1883",
+   "nome": "No Município de Lagarto - SE",
+   "emp": "538900"
+  },
+  {
+   "cod": "9182",
+   "nome": "Santa Casa de Misericórdia de Lavras - Lavras - MG",
+   "emp": "5000000"
+  },
+  {
+   "cod": "4499",
+   "nome": "No Município de Forquilhinha - SC",
+   "emp": "250000"
+  },
+  {
+   "cod": "1261",
+   "nome": "No Município de Mossoró - RN",
+   "emp": "1000000"
+  },
+  {
+   "cod": "3813",
+   "nome": "No Município de Pongaí - SP",
+   "emp": "101524"
+  },
+  {
+   "cod": "0035",
+   "nome": "No Estado de São Paulo",
+   "emp": "13973668710"
+  },
+  {
+   "cod": "0170",
+   "nome": "No Município de Sena Madureira - AC",
+   "emp": "2146774"
+  },
+  {
+   "cod": "0439",
+   "nome": "No Município de Campos Lindos - TO",
+   "emp": "350000"
+  },
+  {
+   "cod": "0760",
+   "nome": "No Município de Vargem Grande - MA",
+   "emp": "3797973"
+  },
+  {
+   "cod": "3965",
+   "nome": "No Município de Taquarituba - SP",
+   "emp": "500000"
+  },
+  {
+   "cod": "9148",
+   "nome": "Associação Beneficente Hospitalar de Cedro (Hospital Cedro) - São José do Cedro - SC",
+   "emp": "200000"
+  },
+  {
+   "cod": "0368",
+   "nome": "No Município de São Domingos do Capim - PA",
+   "emp": "1000000"
+  },
+  {
+   "cod": "1684",
+   "nome": "No Município de Paudalho - PE",
+   "emp": "2500690"
+  },
+  {
+   "cod": "1070",
+   "nome": "No Município de Ipu - CE",
+   "emp": "5681153"
+  },
+  {
+   "cod": "3977",
+   "nome": "No Município de Torrinha - SP",
+   "emp": "253139"
+  },
+  {
+   "cod": "2018",
+   "nome": "No Município de Catu - BA",
+   "emp": "1000000"
+  },
+  {
+   "cod": "5140",
+   "nome": "No Município de Tapejara - RS",
+   "emp": "100000"
+  },
+  {
+   "cod": "3824",
+   "nome": "No Município de Pradópolis - SP",
+   "emp": "0"
+  },
+  {
+   "cod": "3296",
+   "nome": "No Município de Cordeiro - RJ",
+   "emp": "299940"
+  },
+  {
+   "cod": "0897",
+   "nome": "No Município de Monte Alegre do Piauí - PI",
+   "emp": "600000"
+  },
+  {
+   "cod": "1360",
+   "nome": "No Município de Baía da Traição - PB",
+   "emp": "1263000"
+  },
+  {
+   "cod": "2196",
+   "nome": "No Município de Mutuípe - BA",
+   "emp": "499920"
+  },
+  {
+   "cod": "1802",
+   "nome": "No Município de Mata Grande - AL",
+   "emp": "1000000"
+  },
+  {
+   "cod": "1122",
+   "nome": "No Município de Paracuru - CE",
+   "emp": "200000"
+  },
+  {
+   "cod": "0054",
+   "nome": "No Estado de Mato Grosso do Sul",
+   "emp": "1093145896"
+  },
+  {
+   "cod": "2395",
+   "nome": "No Município de Augusto de Lima - MG",
+   "emp": "500000"
+  },
+  {
+   "cod": "3683",
+   "nome": "No Município de Macedônia - SP",
+   "emp": "200000"
+  },
+  {
+   "cod": "0998",
+   "nome": "No Município de Amontada - CE",
+   "emp": "600000"
+  },
+  {
+   "cod": "3908",
+   "nome": "No Município de Santos - SP",
+   "emp": "4246274"
+  },
+  {
+   "cod": "9186",
+   "nome": "Associação Piauiense de Atenção e Assistência em Saúde (APAAS) - Picos - PI",
+   "emp": "0"
+  },
+  {
+   "cod": "5248",
+   "nome": "No Município de Miranda - MS",
+   "emp": "100000"
+  },
+  {
+   "cod": "0659",
+   "nome": "No Município de Marajá do Sena - MA",
+   "emp": "19000"
+  },
+  {
+   "cod": "7030",
+   "nome": "Instituto São José (Hospital Padre Zé) - João Pessoa - PB",
+   "emp": "0"
+  },
+  {
+   "cod": "5377",
+   "nome": "No Município de Querência - MT",
+   "emp": "1700000"
+  },
+  {
+   "cod": "9128",
+   "nome": "Aquisição de equipamentos e/ou material permanente (Núcleo de Tratamento e Estimulação Precoce - NUTEP) - Fortaleza - CE",
+   "emp": "0"
+  },
+  {
+   "cod": "5233",
+   "nome": "No Município de Glória de Dourados - MS",
+   "emp": "150000"
+  },
+  {
+   "cod": "7062",
+   "nome": "Ambulância com UTI - Pimenta Bueno - RO",
+   "emp": "0"
+  },
+  {
+   "cod": "3732",
+   "nome": "No Município de Nipoã - SP",
+   "emp": "99980"
+  },
+  {
+   "cod": "2331",
+   "nome": "No Município de Valente - BA",
+   "emp": "1588460"
+  },
+  {
+   "cod": "1837",
+   "nome": "No Município de São José da Laje - AL",
+   "emp": "800000"
+  },
+  {
+   "cod": "0180",
+   "nome": "No Município de Autazes - AM",
+   "emp": "1000000"
+  },
+  {
+   "cod": "2849",
+   "nome": "No Município de Muriaé - MG",
+   "emp": "17000000"
+  },
+  {
+   "cod": "9000",
+   "nome": "Reforma e Aparelhamento de Hospitais Estaduais - No Estado do Rio Grande do Norte",
+   "emp": "29981475"
+  },
+  {
+   "cod": "5490",
+   "nome": "No Município de Crixás - GO",
+   "emp": "150000"
+  },
+  {
+   "cod": "0145",
+   "nome": "No Município de São Francisco do Guaporé - RO",
+   "emp": "150000"
+  },
+  {
+   "cod": "0576",
+   "nome": "No Município de Belágua - MA",
+   "emp": "0"
+  },
+  {
+   "cod": "3269",
+   "nome": "No Município de Viana - ES",
+   "emp": "500000"
+  },
+  {
+   "cod": "4404",
+   "nome": "No Município de Verê - PR",
+   "emp": "500000"
+  },
+  {
+   "cod": "6508",
+   "nome": "No Município do Rio de Janeiro - RJ (Hospital Geral de Jacarepaguá)",
+   "emp": "90051982"
+  },
+  {
+   "cod": "2883",
+   "nome": "No Município de Padre Carvalho - MG",
+   "emp": "150000"
+  },
+  {
+   "cod": "0481",
+   "nome": "No Município de Marianópolis do Tocantins - TO",
+   "emp": "250000"
+  },
+  {
+   "cod": "2332",
+   "nome": "No Município de Várzea da Roça - BA",
+   "emp": "750000"
+  },
+  {
+   "cod": "7414",
+   "nome": "Unidade de Saúde da Família Bairro Fonseca - Niterói - RJ",
+   "emp": "399991"
+  },
+  {
+   "cod": "0115",
+   "nome": "No Município de Pimenta Bueno - RO",
+   "emp": "200000"
+  },
+  {
+   "cod": "3178",
+   "nome": "No Município de Várzea da Palma - MG",
+   "emp": "100000"
+  },
+  {
+   "cod": "3045",
+   "nome": "No Município de Santo Antônio do Monte - MG",
+   "emp": "0"
+  },
+  {
+   "cod": "0237",
+   "nome": "No Município de Alto Alegre - RR",
+   "emp": "6560708"
+  },
+  {
+   "cod": "0314",
+   "nome": "No Município de Mãe do Rio - PA",
+   "emp": "2249550"
+  },
+  {
+   "cod": "1697",
+   "nome": "No Município de Ribeirão - PE",
+   "emp": "1060000"
+  },
+  {
+   "cod": "1012",
+   "nome": "No Município de Barbalha - CE",
+   "emp": "5551627"
+  },
+  {
+   "cod": "1361",
+   "nome": "No Município de Bananeiras - PB",
+   "emp": "81000"
+  },
+  {
+   "cod": "2149",
+   "nome": "No Município de Lagoa Real - BA",
+   "emp": "499970"
+  },
+  {
+   "cod": "1615",
+   "nome": "No Município de Correntes - PE",
+   "emp": "1000000"
+  },
+  {
+   "cod": "3428",
+   "nome": "No Município de Barretos - SP",
+   "emp": "1700000"
+  },
+  {
+   "cod": "0022",
+   "nome": "No Estado do Piauí",
+   "emp": "1533225343"
+  },
+  {
+   "cod": "0346",
+   "nome": "No Município de Porto de Moz - PA",
+   "emp": "500000"
+  },
+  {
+   "cod": "2729",
+   "nome": "No Município de Ituiutaba - MG",
+   "emp": "200000"
+  },
+  {
+   "cod": "2776",
+   "nome": "No Município de Lamim - MG",
+   "emp": "400000"
+  },
+  {
+   "cod": "4550",
+   "nome": "No Município de Lages - SC",
+   "emp": "250000"
+  },
+  {
+   "cod": "1968",
+   "nome": "No Município de Belmonte - BA",
+   "emp": "993611"
+  },
+  {
+   "cod": "4472",
+   "nome": "No Município de Caxambu do Sul - SC",
+   "emp": "200000"
+  },
+  {
+   "cod": "3905",
+   "nome": "No Município de Santo Antônio do Pinhal - SP",
+   "emp": "150000"
+  },
+  {
+   "cod": "4233",
+   "nome": "No Município de Missal - PR",
+   "emp": "200000"
+  },
+  {
+   "cod": "2292",
+   "nome": "No Município de Saúde - BA",
+   "emp": "990000"
+  },
+  {
+   "cod": "0446",
+   "nome": "No Município de Chapada da Natividade - TO",
+   "emp": "200000"
+  },
+  {
+   "cod": "2203",
+   "nome": "No Município de Nova Itarana - BA",
+   "emp": "1833878"
+  },
+  {
+   "cod": "3803",
+   "nome": "No Município de Pirapora do Bom Jesus - SP",
+   "emp": "500000"
+  },
+  {
+   "cod": "0219",
+   "nome": "No Município de Parintins - AM",
+   "emp": "1100000"
+  },
+  {
+   "cod": "1113",
+   "nome": "No Município de Novo Oriente - CE",
+   "emp": "500000"
+  },
+  {
+   "cod": "2267",
+   "nome": "No Município de Santaluz - BA",
+   "emp": "1000000"
+  },
+  {
+   "cod": "4383",
+   "nome": "No Município de Telêmaco Borba - PR",
+   "emp": "500000"
+  },
+  {
+   "cod": "1135",
+   "nome": "No Município de Potengi - CE",
+   "emp": "167523"
+  },
+  {
+   "cod": "0248",
+   "nome": "No Município de São João da Baliza - RR",
+   "emp": "730000"
+  },
+  {
+   "cod": "2846",
+   "nome": "No Município de Morro da Garça - MG",
+   "emp": "500000"
+  },
+  {
+   "cod": "2091",
+   "nome": "No Município de Ipecaetá - BA",
+   "emp": "449850"
+  },
+  {
+   "cod": "3287",
+   "nome": "No Município de Cambuci - RJ",
+   "emp": "399990"
+  },
+  {
+   "cod": "1656",
+   "nome": "No Município de Joaquim Nabuco - PE",
+   "emp": "500000"
+  },
+  {
+   "cod": "5100",
+   "nome": "No Município de São Leopoldo - RS",
+   "emp": "999970"
+  },
+  {
+   "cod": "4347",
+   "nome": "No Município de Santo Antônio do Sudoeste - PR",
+   "emp": "800000"
+  },
+  {
+   "cod": "0981",
+   "nome": "No Município de Teresina - PI",
+   "emp": "1000000"
+  },
+  {
+   "cod": "1842",
+   "nome": "No Município de São Sebastião - AL",
+   "emp": "0"
+  },
+  {
+   "cod": "4389",
+   "nome": "No Município de Toledo - PR",
+   "emp": "5050000"
+  },
+  {
+   "cod": "3537",
+   "nome": "No Município de Espírito Santo do Pinhal - SP",
+   "emp": "199998"
+  },
+  {
+   "cod": "2239",
+   "nome": "No Município de Presidente Dutra - BA",
+   "emp": "250000"
+  },
+  {
+   "cod": "4243",
+   "nome": "No Município de Nova Esperança do Sudoeste - PR",
+   "emp": "200000"
+  },
+  {
+   "cod": "3001",
+   "nome": "No Município de Sabará - MG",
+   "emp": "100000"
+  },
+  {
+   "cod": "5143",
+   "nome": "No Município de Taquara - RS",
+   "emp": "300000"
+  },
+  {
+   "cod": "2663",
+   "nome": "No Município de Guaraciama - MG",
+   "emp": "200000"
+  },
+  {
+   "cod": "0100",
+   "nome": "No Município de Alta Floresta D'Oeste - RO",
+   "emp": "799187"
+  },
+  {
+   "cod": "2284",
+   "nome": "No Município de São Gonçalo dos Campos - BA",
+   "emp": "0"
+  },
+  {
+   "cod": "4655",
+   "nome": "No Município de São João do Sul - SC",
+   "emp": "600000"
+  },
+  {
+   "cod": "0683",
+   "nome": "No Município de Pastos Bons - MA",
+   "emp": "3400000"
+  },
+  {
+   "cod": "5667",
+   "nome": "No Município de Paraíso das Águas - MS",
+   "emp": "849895"
+  },
+  {
+   "cod": "1162",
+   "nome": "No Município de Tejuçuoca - CE",
+   "emp": "200000"
+  },
+  {
+   "cod": "0111",
+   "nome": "No Município de Ji-Paraná - RO",
+   "emp": "15673500"
+  },
+  {
+   "cod": "9170",
+   "nome": "Associação Beneficente Santa Teresinha - Braço do Norte - SC",
+   "emp": "200000"
+  },
+  {
+   "cod": "9084",
+   "nome": "Aparelhamento e Reforma (Fundação Hospitalar Santa Terezinha) - Erechim - RS",
+   "emp": "0"
+  },
+  {
+   "cod": "1680",
+   "nome": "No Município de Panelas - PE",
+   "emp": "500000"
+  },
+  {
+   "cod": "5215",
+   "nome": "No Município de Brasilândia - MS",
+   "emp": "1149992"
+  },
+  {
+   "cod": "5027",
+   "nome": "No Município de Porto Alegre - RS",
+   "emp": "1447867119"
+  },
+  {
+   "cod": "3094",
+   "nome": "No Município de São Pedro do Suaçuí - MG",
+   "emp": "400000"
+  },
+  {
+   "cod": "9244",
+   "nome": "Fundação Centro de Controle de Oncologia do Estado do Amazonas (FCECON) - No Estado do Amazonas",
+   "emp": "0"
+  },
+  {
+   "cod": "0257",
+   "nome": "No Município de Almeirim - PA",
+   "emp": "1000000"
+  },
+  {
+   "cod": "5655",
+   "nome": "No Município de Uruaçu - GO",
+   "emp": "2000000"
+  },
+  {
+   "cod": "3308",
+   "nome": "No Município de Japeri - RJ",
+   "emp": "4500000"
+  },
+  {
+   "cod": "4314",
+   "nome": "No Município de Ribeirão do Pinhal - PR",
+   "emp": "0"
+  },
+  {
+   "cod": "0703",
+   "nome": "No Município de Primeira Cruz - MA",
+   "emp": "739019"
+  },
+  {
+   "cod": "5120",
+   "nome": "No Município de Sapiranga - RS",
+   "emp": "1100000"
+  },
+  {
+   "cod": "1816",
+   "nome": "No Município de Pão de Açúcar - AL",
+   "emp": "200000"
+  },
+  {
+   "cod": "1283",
+   "nome": "No Município de Poço Branco - RN",
+   "emp": "500000"
+  },
+  {
+   "cod": "4326",
+   "nome": "No Município de Salgado Filho - PR",
+   "emp": "223710"
+  },
+  {
+   "cod": "9062",
+   "nome": "Região Metropolitana de João Pessoa - No Estado da Paraíba",
+   "emp": "49999766"
+  },
+  {
+   "cod": "1623",
+   "nome": "No Município de Feira Nova - PE",
+   "emp": "800000"
+  },
+  {
+   "cod": "5666",
+   "nome": "No Município de Pescaria Brava - SC",
+   "emp": "1299994"
+  },
+  {
+   "cod": "1635",
+   "nome": "No Município de Iati - PE",
+   "emp": "300000"
+  },
+  {
+   "cod": "1639",
+   "nome": "No Município de Iguaraci - PE",
+   "emp": "400000"
+  },
+  {
+   "cod": "2302",
+   "nome": "No Município de Simões Filho - BA",
+   "emp": "500000"
+  },
+  {
+   "cod": "3613",
+   "nome": "No Município de Irapuru - SP",
+   "emp": "200000"
+  },
+  {
+   "cod": "4558",
+   "nome": "No Município de Lontras - SC",
+   "emp": "200000"
+  },
+  {
+   "cod": "3333",
+   "nome": "No Município de Quatis - RJ",
+   "emp": "770700"
+  },
+  {
+   "cod": "3309",
+   "nome": "No Município de Laje do Muriaé - RJ",
+   "emp": "300000"
+  },
+  {
+   "cod": "4987",
+   "nome": "No Município de Nova Santa Rita - RS",
+   "emp": "447070"
+  },
+  {
+   "cod": "3828",
+   "nome": "No Município de Presidente Bernardes - SP",
+   "emp": "200000"
+  },
+  {
+   "cod": "3927",
+   "nome": "No Município de São Miguel Arcanjo - SP",
+   "emp": "450000"
+  },
+  {
+   "cod": "2705",
+   "nome": "No Município de Itabirito - MG",
+   "emp": "150000"
+  },
+  {
+   "cod": "2039",
+   "nome": "No Município de Cravolândia - BA",
+   "emp": "300000"
+  },
+  {
+   "cod": "7154",
+   "nome": "Irmandade da Santa Casa de Misericórdia - São Paulo - SP",
+   "emp": "0"
+  },
+  {
+   "cod": "1170",
+   "nome": "No Município de Uruoca - CE",
+   "emp": "700000"
+  },
+  {
+   "cod": "4811",
+   "nome": "No Município de Cidreira - RS",
+   "emp": "249900"
+  },
+  {
+   "cod": "1102",
+   "nome": "No Município de Miraíma - CE",
+   "emp": "1000000"
+  },
+  {
+   "cod": "2143",
+   "nome": "No Município de Juazeiro - BA",
+   "emp": "0"
+  },
+  {
+   "cod": "1928",
+   "nome": "No Município de Acajutiba - BA",
+   "emp": "500000"
+  },
+  {
+   "cod": "3351",
+   "nome": "No Município de São Pedro da Aldeia - RJ",
+   "emp": "2750000"
+  },
+  {
+   "cod": "2090",
+   "nome": "No Município de Inhambupe - BA",
+   "emp": "400000"
+  },
+  {
+   "cod": "7548",
+   "nome": "Hospital Universitário (Universidade Estadual de Londrina) - Londrina - PR",
+   "emp": "600000"
+  },
+  {
+   "cod": "3928",
+   "nome": "No Município de São Paulo - SP",
+   "emp": "57554939"
+  },
+  {
+   "cod": "1019",
+   "nome": "No Município de Boa Viagem - CE",
+   "emp": "4300000"
+  },
+  {
+   "cod": "4429",
+   "nome": "No Município de Armazém - SC",
+   "emp": "250000"
+  },
+  {
+   "cod": "0410",
+   "nome": "No Município de Abreulândia - TO",
+   "emp": "500000"
+  },
+  {
+   "cod": "5256",
+   "nome": "No Município de Paranhos - MS",
+   "emp": "3462368"
+  },
+  {
+   "cod": "0692",
+   "nome": "No Município de Pinheiro - MA",
+   "emp": "9927000"
+  },
+  {
+   "cod": "9064",
+   "nome": "Aparelhamento SAMU - No Estado do Paraná",
+   "emp": "4407864"
+  },
+  {
+   "cod": "3436",
+   "nome": "No Município de Bernardino de Campos - SP",
+   "emp": "120000"
+  },
+  {
+   "cod": "0859",
+   "nome": "No Município de Ilha Grande - PI",
+   "emp": "100000"
+  },
+  {
+   "cod": "0406",
+   "nome": "No Município de Pracuúba - AP",
+   "emp": "726000"
+  },
+  {
+   "cod": "3159",
+   "nome": "No Município de Tupaciguara - MG",
+   "emp": "470000"
+  },
+  {
+   "cod": "4391",
+   "nome": "No Município de Três Barras do Paraná - PR",
+   "emp": "400000"
+  },
+  {
+   "cod": "2115",
+   "nome": "No Município de Itanhém - BA",
+   "emp": "500000"
+  },
+  {
+   "cod": "0447",
+   "nome": "No Município de Colinas do Tocantins - TO",
+   "emp": "2205095"
+  },
+  {
+   "cod": "3298",
+   "nome": "No Município de Duque de Caxias - RJ",
+   "emp": "29046660"
+  },
+  {
+   "cod": "2842",
+   "nome": "No Município de Montes Claros - MG",
+   "emp": "1500000"
+  },
+  {
+   "cod": "7146",
+   "nome": "Associação Cruz Verde - São Paulo - SP",
+   "emp": "0"
+  },
+  {
+   "cod": "4343",
+   "nome": "No Município de Santa Terezinha de Itaipu - PR",
+   "emp": "399940"
+  },
+  {
+   "cod": "7000",
+   "nome": "Laboratórios Oficiais - Nacional",
+   "emp": "0"
+  },
+  {
+   "cod": "7410",
+   "nome": "Equipamentos - Oliveira Fortes - MG",
+   "emp": "249989"
+  },
+  {
+   "cod": "3502",
+   "nome": "No Município de Conchal - SP",
+   "emp": "0"
+  },
+  {
+   "cod": "3432",
+   "nome": "No Município de Batatais - SP",
+   "emp": "209950"
+  },
+  {
+   "cod": "1174",
+   "nome": "No Município de Acari - RN",
+   "emp": "200000"
+  },
+  {
+   "cod": "3639",
+   "nome": "No Município de Itupeva - SP",
+   "emp": "900000"
+  },
+  {
+   "cod": "4026",
+   "nome": "No Município de Antônio Olinto - PR",
+   "emp": "300000"
+  },
+  {
+   "cod": "3469",
+   "nome": "No Município de Cajamar - SP",
+   "emp": "100000"
+  },
+  {
+   "cod": "0202",
+   "nome": "No Município de Itacoatiara - AM",
+   "emp": "250000"
+  },
+  {
+   "cod": "3675",
+   "nome": "No Município de Lucélia - SP",
+   "emp": "699920"
+  },
+  {
+   "cod": "0164",
+   "nome": "No Município de Plácido de Castro - AC",
+   "emp": "500000"
+  },
+  {
+   "cod": "1515",
+   "nome": "No Município de Santa Rita - PB",
+   "emp": "700000"
+  },
+  {
+   "cod": "5244",
+   "nome": "No Município de Juti - MS",
+   "emp": "0"
+  },
+  {
+   "cod": "2124",
+   "nome": "No Município de Itatim - BA",
+   "emp": "0"
+  },
+  {
+   "cod": "0311",
+   "nome": "No Município de Jacundá - PA",
+   "emp": "784000"
+  },
+  {
+   "cod": "0001",
+   "nome": "Nacional",
+   "emp": "41250314108"
+  },
+  {
+   "cod": "3341",
+   "nome": "No Município do Rio de Janeiro - RJ",
+   "emp": "14020861"
+  },
+  {
+   "cod": "4328",
+   "nome": "No Município de Salto do Lontra - PR",
+   "emp": "470000"
+  },
+  {
+   "cod": "3204",
+   "nome": "No Município de Aracruz - ES",
+   "emp": "1099720"
+  },
+  {
+   "cod": "5007",
+   "nome": "No Município de Passo Fundo - RS",
+   "emp": "0"
+  },
+  {
+   "cod": "3336",
+   "nome": "No Município de Resende - RJ",
+   "emp": "1698597"
+  },
+  {
+   "cod": "2146",
+   "nome": "No Município de Jussari - BA",
+   "emp": "700000"
+  },
+  {
+   "cod": "3280",
+   "nome": "No Município de Barra do Piraí - RJ",
+   "emp": "1499550"
+  },
+  {
+   "cod": "5524",
+   "nome": "No Município de Iaciara - GO",
+   "emp": "175856"
+  },
+  {
+   "cod": "1130",
+   "nome": "No Município de Pindoretama - CE",
+   "emp": "1405574"
+  },
+  {
+   "cod": "5507",
+   "nome": "No Município de Gameleira de Goiás - GO",
+   "emp": "250000"
+  },
+  {
+   "cod": "2211",
+   "nome": "No Município de Ouriçangas - BA",
+   "emp": "0"
+  },
+  {
+   "cod": "0754",
+   "nome": "No Município de Tufilândia - MA",
+   "emp": "725000"
+  },
+  {
+   "cod": "4211",
+   "nome": "No Município de Mangueirinha - PR",
+   "emp": "1500774"
+  },
+  {
+   "cod": "5227",
+   "nome": "No Município de Deodápolis - MS",
+   "emp": "566312"
+  },
+  {
+   "cod": "5267",
+   "nome": "No Município de São Gabriel do Oeste - MS",
+   "emp": "600000"
+  },
+  {
+   "cod": "3364",
+   "nome": "No Município de Vassouras - RJ",
+   "emp": "2095774"
+  },
+  {
+   "cod": "9208",
+   "nome": "Hospital de Caridade São Vicente de Paulo - Guarapuava - PR",
+   "emp": "3995886"
+  },
+  {
+   "cod": "5375",
+   "nome": "No Município de Poxoréo - MT",
+   "emp": "1000000"
+  },
+  {
+   "cod": "7430",
+   "nome": "Construção de Posto de Saúde - Chupinguaia - RO",
+   "emp": "500000"
+  },
+  {
+   "cod": "1747",
+   "nome": "No Município de Vitória de Santo Antão - PE",
+   "emp": "500000"
+  },
+  {
+   "cod": "5341",
+   "nome": "No Município de Matupá - MT",
+   "emp": "170000"
+  },
+  {
+   "cod": "0989",
+   "nome": "No Município de Wall Ferraz - PI",
+   "emp": "777951"
+  },
+  {
+   "cod": "3511",
+   "nome": "No Município de Cravinhos - SP",
+   "emp": "750000"
+  },
+  {
+   "cod": "0384",
+   "nome": "No Município de Tracuateua - PA",
+   "emp": "500000"
+  },
+  {
+   "cod": "4289",
+   "nome": "No Município de Porto Barreiro - PR",
+   "emp": "170000"
+  },
+  {
+   "cod": "0227",
+   "nome": "No Município de São Sebastião do Uatumã - AM",
+   "emp": "0"
+  },
+  {
+   "cod": "1287",
+   "nome": "No Município de Pureza - RN",
+   "emp": "799930"
+  },
+  {
+   "cod": "5551",
+   "nome": "No Município de Leopoldo de Bulhões - GO",
+   "emp": "249981"
+  },
+  {
+   "cod": "2279",
+   "nome": "No Município de São Félix - BA",
+   "emp": "1500000"
+  },
+  {
+   "cod": "4613",
+   "nome": "No Município de Porto União - SC",
+   "emp": "1750000"
+  },
+  {
+   "cod": "3711",
+   "nome": "No Município de Mogi Mirim - SP",
+   "emp": "600000"
+  },
+  {
+   "cod": "0225",
+   "nome": "No Município de São Gabriel da Cachoeira - AM",
+   "emp": "2800000"
+  },
+  {
+   "cod": "1132",
+   "nome": "No Município de Pires Ferreira - CE",
+   "emp": "918382"
+  },
+  {
+   "cod": "0224",
+   "nome": "No Município de Santo Antônio do Içá - AM",
+   "emp": "500000"
+  },
+  {
+   "cod": "3468",
+   "nome": "No Município de Caiuá - SP",
+   "emp": "100000"
+  },
+  {
+   "cod": "1847",
+   "nome": "No Município de Teotônio Vilela - AL",
+   "emp": "762960"
+  },
+  {
+   "cod": "9194",
+   "nome": "Sociedade Beneficente São Camilo (Santa Casa de Itu) - No Estado de São Paulo",
+   "emp": "1000000"
+  },
+  {
+   "cod": "5489",
+   "nome": "No Município de Cristianópolis - GO",
+   "emp": "750000"
+  },
+  {
+   "cod": "0751",
+   "nome": "No Município de Timbiras - MA",
+   "emp": "330574"
+  },
+  {
+   "cod": "3467",
+   "nome": "No Município de Caieiras - SP",
+   "emp": "1349390"
+  },
+  {
+   "cod": "3595",
+   "nome": "No Município de Igarapava - SP",
+   "emp": "300000"
+  },
+  {
+   "cod": "2046",
+   "nome": "No Município de Dom Basílio - BA",
+   "emp": "0"
+  },
+  {
+   "cod": "3209",
+   "nome": "No Município de Bom Jesus do Norte - ES",
+   "emp": "200000"
+  },
+  {
+   "cod": "0171",
+   "nome": "No Município de Tarauacá - AC",
+   "emp": "3199700"
+  },
+  {
+   "cod": "2670",
+   "nome": "No Município de Guimarânia - MG",
+   "emp": "320000"
+  },
+  {
+   "cod": "1106",
+   "nome": "No Município de Morada Nova - CE",
+   "emp": "200000"
+  },
+  {
+   "cod": "3651",
+   "nome": "No Município de Jarinu - SP",
+   "emp": "500000"
+  },
+  {
+   "cod": "4568",
+   "nome": "No Município de Massaranduba - SC",
+   "emp": "150000"
+  },
+  {
+   "cod": "4657",
+   "nome": "No Município de São José - SC",
+   "emp": "1600000"
+  },
+  {
+   "cod": "1845",
+   "nome": "No Município de Tanque d'Arca - AL",
+   "emp": "300000"
+  },
+  {
+   "cod": "3999",
+   "nome": "No Município de Vargem Grande Paulista - SP",
+   "emp": "200000"
+  },
+  {
+   "cod": "0192",
+   "nome": "No Município de Careiro da Várzea - AM",
+   "emp": "432275"
+  },
+  {
+   "cod": "0414",
+   "nome": "No Município de Alvorada - TO",
+   "emp": "250000"
+  },
+  {
+   "cod": "1391",
+   "nome": "No Município de Camalaú - PB",
+   "emp": "125000"
+  },
+  {
+   "cod": "5297",
+   "nome": "No Município de Campinápolis - MT",
+   "emp": "918771"
+  },
+  {
+   "cod": "9242",
+   "nome": "Instituto das Pequenas Missionárias de Maria Imaculada - No Estado de São Paulo",
+   "emp": "300000"
+  },
+  {
+   "cod": "0287",
+   "nome": "No Município de Chaves - PA",
+   "emp": "199910"
+  },
+  {
+   "cod": "5270",
+   "nome": "No Município de Sidrolândia - MS",
+   "emp": "150000"
+  },
+  {
+   "cod": "1652",
+   "nome": "No Município de Jaqueira - PE",
+   "emp": "700000"
+  },
+  {
+   "cod": "1601",
+   "nome": "No Município de Camocim de São Félix - PE",
+   "emp": "500000"
+  },
+  {
+   "cod": "4546",
+   "nome": "No Município de Joinville - SC",
+   "emp": "3200000"
+  },
+  {
+   "cod": "0545",
+   "nome": "No Município de Tupirama - TO",
+   "emp": "334800"
+  },
+  {
+   "cod": "1577",
+   "nome": "No Município de Arcoverde - PE",
+   "emp": "1252850"
+  },
+  {
+   "cod": "1414",
+   "nome": "No Município de Desterro - PB",
+   "emp": "663000"
+  },
+  {
+   "cod": "0269",
+   "nome": "No Município de Belém - PA",
+   "emp": "6999960"
+  },
+  {
+   "cod": "5611",
+   "nome": "No Município de Quirinópolis - GO",
+   "emp": "500000"
+  },
+  {
+   "cod": "4671",
+   "nome": "No Município de Sombrio - SC",
+   "emp": "600000"
+  },
+  {
+   "cod": "3314",
+   "nome": "No Município de Maricá - RJ",
+   "emp": "2000000"
+  },
+  {
+   "cod": "3770",
+   "nome": "No Município de Parapuã - SP",
+   "emp": "210000"
+  },
+  {
+   "cod": "1210",
+   "nome": "No Município de Encanto - RN",
+   "emp": "499935"
+  },
+  {
+   "cod": "3315",
+   "nome": "No Município de Mendes - RJ",
+   "emp": "1265678"
+  },
+  {
+   "cod": "2101",
+   "nome": "No Município de Itaberaba - BA",
+   "emp": "1000000"
+  },
+  {
+   "cod": "8380",
+   "nome": "Hospital Oswaldo Cruz (Universidade do Estado de Pernambuco - Upe) - No Estado de Pernambuco",
+   "emp": "300000"
+  },
+  {
+   "cod": "2326",
+   "nome": "No Município de Una - BA",
+   "emp": "1500000"
+  },
+  {
+   "cod": "2582",
+   "nome": "No Município de Diamantina - MG",
+   "emp": "300000"
+  },
+  {
+   "cod": "5388",
+   "nome": "No Município de São Pedro da Cipa - MT",
+   "emp": "250000"
+  },
+  {
+   "cod": "1382",
+   "nome": "No Município de Cabedelo - PB",
+   "emp": "250000"
+  },
+  {
+   "cod": "0043",
+   "nome": "No Estado do Rio Grande do Sul",
+   "emp": "3944799156"
+  },
+  {
+   "cod": "3923",
+   "nome": "No Município de São José dos Campos - SP",
+   "emp": "6710327"
+  },
+  {
+   "cod": "3982",
+   "nome": "No Município de Tupã - SP",
+   "emp": "500000"
+  },
+  {
+   "cod": "4076",
+   "nome": "No Município de Capitão Leônidas Marques - PR",
+   "emp": "700000"
+  },
+  {
+   "cod": "0405",
+   "nome": "No Município de Porto Grande - AP",
+   "emp": "1299962"
+  },
+  {
+   "cod": "3672",
+   "nome": "No Município de Lorena - SP",
+   "emp": "314920"
+  },
+  {
+   "cod": "5250",
+   "nome": "No Município de Naviraí - MS",
+   "emp": "610060"
+  },
+  {
+   "cod": "1654",
+   "nome": "No Município de Jatobá - PE",
+   "emp": "100000"
+  },
+  {
+   "cod": "0101",
+   "nome": "No Município de Ariquemes - RO",
+   "emp": "2804813"
+  },
+  {
+   "cod": "3588",
+   "nome": "No Município de Ibirá - SP",
+   "emp": "200000"
+  },
+  {
+   "cod": "0261",
+   "nome": "No Município de Anapu - PA",
+   "emp": "454100"
+  },
+  {
+   "cod": "0892",
+   "nome": "No Município de Miguel Alves - PI",
+   "emp": "350000"
+  },
+  {
+   "cod": "3661",
+   "nome": "No Município de Juquiá - SP",
+   "emp": "0"
+  },
+  {
+   "cod": "1039",
+   "nome": "No Município de Crateús - CE",
+   "emp": "500387"
+  },
+  {
+   "cod": "3961",
+   "nome": "No Município de Tapiraí - SP",
+   "emp": "300774"
+  },
+  {
+   "cod": "1025",
+   "nome": "No Município de Caridade - CE",
+   "emp": "500000"
+  },
+  {
+   "cod": "9256",
+   "nome": "Casa de Caridade São José – Alegre – ES",
+   "emp": "0"
+  },
+  {
+   "cod": "9140",
+   "nome": "Aquisição de equipamentos e material permanente (Hospital Municipal Moacyr Gomes de Azevedo) - Cambuci - RJ",
+   "emp": "999990"
+  },
+  {
+   "cod": "0351",
+   "nome": "No Município de Rio Maria - PA",
+   "emp": "249976"
+  },
+  {
+   "cod": "9068",
+   "nome": "Real e Benemérita Associação Portuguesa de Beneficência - São Paulo - SP",
+   "emp": "500000"
+  },
+  {
+   "cod": "8020",
+   "nome": "Liga Norte Riograndense Contra o Câncer - No Estado do Rio Grande do Norte",
+   "emp": "700000"
+  },
+  {
+   "cod": "1644",
+   "nome": "No Município de Itacuruba - PE",
+   "emp": "100000"
+  },
+  {
+   "cod": "0282",
+   "nome": "No Município de Cametá - PA",
+   "emp": "300000"
+  },
+  {
+   "cod": "4782",
+   "nome": "No Município de Canoas - RS",
+   "emp": "400000"
+  },
+  {
+   "cod": "5545",
+   "nome": "No Município de Jataí - GO",
+   "emp": "200000"
+  },
+  {
+   "cod": "2111",
+   "nome": "No Município de Itamaraju - BA",
+   "emp": "700000"
+  },
+  {
+   "cod": "3800",
+   "nome": "No Município de Piraju - SP",
+   "emp": "350000"
+  },
+  {
+   "cod": "5429",
+   "nome": "No Município de Alvorada do Norte - GO",
+   "emp": "38480"
+  },
+  {
+   "cod": "1480",
+   "nome": "No Município de Pedras de Fogo - PB",
+   "emp": "350000"
+  },
+  {
+   "cod": "1552",
+   "nome": "No Município de Sumé - PB",
+   "emp": "663000"
+  },
+  {
+   "cod": "1640",
+   "nome": "No Município de Inajá - PE",
+   "emp": "0"
+  },
+  {
+   "cod": "1797",
+   "nome": "No Município de Maragogi - AL",
+   "emp": "800000"
+  },
+  {
+   "cod": "5516",
+   "nome": "No Município de Gouvelândia - GO",
+   "emp": "350000"
+  },
+  {
+   "cod": "3226",
+   "nome": "No Município de Ibiraçu - ES",
+   "emp": "500000"
+  },
+  {
+   "cod": "2953",
+   "nome": "No Município de Porteirinha - MG",
+   "emp": "700000"
+  },
+  {
+   "cod": "4626",
+   "nome": "No Município de Rio do Sul - SC",
+   "emp": "200000"
+  },
+  {
+   "cod": "3291",
+   "nome": "No Município de Cantagalo - RJ",
+   "emp": "1700000"
+  },
+  {
+   "cod": "4273",
+   "nome": "No Município de Pérola d'Oeste - PR",
+   "emp": "250000"
+  },
+  {
+   "cod": "3329",
+   "nome": "No Município de Pinheiral - RJ",
+   "emp": "949785"
+  },
+  {
+   "cod": "2684",
+   "nome": "No Município de Igarapé - MG",
+   "emp": "1500000"
+  },
+  {
+   "cod": "2428",
+   "nome": "No Município de Bonfim - MG",
+   "emp": "450000"
+  },
+  {
+   "cod": "0891",
+   "nome": "No Município de Matias Olímpio - PI",
+   "emp": "300000"
+  },
+  {
+   "cod": "0619",
+   "nome": "No Município de Fernando Falcão - MA",
+   "emp": "800000"
+  },
+  {
+   "cod": "4630",
+   "nome": "No Município de Riqueza - SC",
+   "emp": "200000"
+  },
+  {
+   "cod": "3517",
+   "nome": "No Município de Descalvado - SP",
+   "emp": "350000"
+  },
+  {
+   "cod": "4701",
+   "nome": "No Município de Xaxim - SC",
+   "emp": "200000"
+  },
+  {
+   "cod": "0157",
+   "nome": "No Município de Cruzeiro do Sul - AC",
+   "emp": "3078000"
+  },
+  {
+   "cod": "2845",
+   "nome": "No Município de Morada Nova de Minas - MG",
+   "emp": "635748"
+  },
+  {
+   "cod": "3403",
+   "nome": "No Município de Araras - SP",
+   "emp": "600000"
+  },
+  {
+   "cod": "3534",
+   "nome": "No Município de Embu-Guaçu - SP",
+   "emp": "298300"
+  },
+  {
+   "cod": "3700",
+   "nome": "No Município de Miguelópolis - SP",
+   "emp": "0"
+  },
+  {
+   "cod": "5658",
+   "nome": "No Município de Valparaíso de Goiás - GO",
+   "emp": "860000"
+  },
+  {
+   "cod": "0688",
+   "nome": "No Município de Penalva - MA",
+   "emp": "1500000"
+  },
+  {
+   "cod": "3277",
+   "nome": "No Município de Areal - RJ",
+   "emp": "3194743"
+  },
+  {
+   "cod": "3970",
+   "nome": "No Município de Taubaté - SP",
+   "emp": "999994"
+  },
+  {
+   "cod": "0014",
+   "nome": "No Estado de Roraima",
+   "emp": "289921484"
+  },
+  {
+   "cod": "3516",
+   "nome": "No Município de Cunha - SP",
+   "emp": "200000"
+  },
+  {
+   "cod": "5548",
+   "nome": "No Município de Joviânia - GO",
+   "emp": "1000000"
+  },
+  {
+   "cod": "1548",
+   "nome": "No Município de Solânea - PB",
+   "emp": "663000"
+  },
+  {
+   "cod": "0338",
+   "nome": "No Município de Paragominas - PA",
+   "emp": "300000"
+  },
+  {
+   "cod": "5220",
+   "nome": "No Município de Cassilândia - MS",
+   "emp": "299988"
+  },
+  {
+   "cod": "1951",
+   "nome": "No Município de Araci - BA",
+   "emp": "1000000"
+  },
+  {
+   "cod": "4257",
+   "nome": "No Município de Palmas - PR",
+   "emp": "0"
+  },
+  {
+   "cod": "1834",
+   "nome": "No Município de Santana do Ipanema - AL",
+   "emp": "100000"
+  },
+  {
+   "cod": "9152",
+   "nome": "Associação Rogacionista Evangélica de Assistência a Saúde - Abelardo Luz - SC",
+   "emp": "0"
+  },
+  {
+   "cod": "3259",
+   "nome": "No Município de Santa Teresa - ES",
+   "emp": "399982"
+  },
+  {
+   "cod": "2662",
+   "nome": "No Município de Guaraciaba - MG",
+   "emp": "700000"
+  },
+  {
+   "cod": "4195",
+   "nome": "No Município de Laranjeiras do Sul - PR",
+   "emp": "1000000"
+  },
+  {
+   "cod": "0052",
+   "nome": "No Estado de Goiás",
+   "emp": "2262889787"
+  },
+  {
+   "cod": "3885",
+   "nome": "No Município de Santa Cruz do Rio Pardo - SP",
+   "emp": "300000"
+  },
+  {
+   "cod": "0309",
+   "nome": "No Município de Itupiranga - PA",
+   "emp": "150000"
+  },
+  {
+   "cod": "3583",
+   "nome": "No Município de Hortolândia - SP",
+   "emp": "6500000"
+  },
+  {
+   "cod": "1138",
+   "nome": "No Município de Quixadá - CE",
+   "emp": "0"
+  },
+  {
+   "cod": "2066",
+   "nome": "No Município de Governador Mangabeira - BA",
+   "emp": "499981"
+  },
+  {
+   "cod": "3704",
+   "nome": "No Município de Mirandópolis - SP",
+   "emp": "699970"
+  },
+  {
+   "cod": "8110",
+   "nome": "Casa de Caridade Dom Orione (Hospital Dom Orione) - Araguaína - TO",
+   "emp": "400000"
+  },
+  {
+   "cod": "9066",
+   "nome": "Aquisição de Equipamentos para Hospital Regional do Agreste - Caruaru - PE",
+   "emp": "0"
+  },
+  {
+   "cod": "9082",
+   "nome": "Aparelhamento (Hospital da Cidade de Passo Fundo)- Passo Fundo - RS",
+   "emp": "0"
+  },
+  {
+   "cod": "7056",
+   "nome": "Hospital Stella Maris - Guarulhos - SP",
+   "emp": "100000"
+  },
+  {
+   "cod": "3438",
+   "nome": "No Município de Bilac - SP",
+   "emp": "98588"
+  },
+  {
+   "cod": "0420",
+   "nome": "No Município de Araguaçu - TO",
+   "emp": "350000"
+  },
+  {
+   "cod": "3806",
+   "nome": "No Município de Piratininga - SP",
+   "emp": "56130"
+  },
+  {
+   "cod": "5472",
+   "nome": "No Município de Campos Belos - GO",
+   "emp": "200000"
+  },
+  {
+   "cod": "0491",
+   "nome": "No Município de Nazaré - TO",
+   "emp": "400000"
+  },
+  {
+   "cod": "1976",
+   "nome": "No Município de Bonito - BA",
+   "emp": "210387"
+  },
+  {
+   "cod": "2511",
+   "nome": "No Município de Catuji - MG",
+   "emp": "600000"
+  },
+  {
+   "cod": "1048",
+   "nome": "No Município de Fortaleza - CE",
+   "emp": "1349150"
+  },
+  {
+   "cod": "1811",
+   "nome": "No Município de Olho d'Água Grande - AL",
+   "emp": "0"
+  },
+  {
+   "cod": "4523",
+   "nome": "No Município de Indaial - SC",
+   "emp": "1000000"
+  },
+  {
+   "cod": "3525",
+   "nome": "No Município de Dracena - SP",
+   "emp": "900774"
+  },
+  {
+   "cod": "1092",
+   "nome": "No Município de Madalena - CE",
+   "emp": "1000000"
+  },
+  {
+   "cod": "3324",
+   "nome": "No Município de Paracambi - RJ",
+   "emp": "4722858"
+  },
+  {
+   "cod": "2455",
+   "nome": "No Município de Camacho - MG",
+   "emp": "510387"
+  },
+  {
+   "cod": "3275",
+   "nome": "No Município de Aperibé - RJ",
+   "emp": "1169036"
+  },
+  {
+   "cod": "1681",
+   "nome": "No Município de Paranatama - PE",
+   "emp": "300000"
+  },
+  {
+   "cod": "9286",
+   "nome": "AQUISIÇÃO DE ACELERADOR LINEAR PARA A LIGA NORTERIOGRANDENSE CONTRA O CÂNCER - No Estado do Rio Grande do Norte",
+   "emp": "0"
+  },
+  {
+   "cod": "1966",
+   "nome": "No Município de Barrocas - BA",
+   "emp": "250000"
+  },
+  {
+   "cod": "3872",
+   "nome": "No Município de Saltinho - SP",
+   "emp": "0"
+  },
+  {
+   "cod": "3601",
+   "nome": "No Município de Indaiatuba - SP",
+   "emp": "400000"
+  },
+  {
+   "cod": "1216",
+   "nome": "No Município de Florânia - RN",
+   "emp": "81098"
+  },
+  {
+   "cod": "0971",
+   "nome": "No Município de São Raimundo Nonato - PI",
+   "emp": "410387"
+  },
+  {
+   "cod": "1580",
+   "nome": "No Município de Belém de Maria - PE",
+   "emp": "500000"
+  },
+  {
+   "cod": "4007",
+   "nome": "No Município de Votuporanga - SP",
+   "emp": "200000"
+  },
+  {
+   "cod": "5271",
+   "nome": "No Município de Sonora - MS",
+   "emp": "0"
+  },
+  {
+   "cod": "0359",
+   "nome": "No Município de Santa Luzia do Pará - PA",
+   "emp": "264775"
+  },
+  {
+   "cod": "0734",
+   "nome": "No Município de São Luís - MA",
+   "emp": "500000"
+  },
+  {
+   "cod": "4011",
+   "nome": "No Município de Abatiá - PR",
+   "emp": "184239"
+  },
+  {
+   "cod": "5264",
+   "nome": "No Município de Rio Verde de Mato Grosso - MS",
+   "emp": "470000"
+  },
+  {
+   "cod": "0624",
+   "nome": "No Município de Gonçalves Dias - MA",
+   "emp": "150000"
+  },
+  {
+   "cod": "0011",
+   "nome": "No Estado de Rondônia",
+   "emp": "643444685"
+  },
+  {
+   "cod": "2011",
+   "nome": "No Município de Caraíbas - BA",
+   "emp": "300000"
+  },
+  {
+   "cod": "5627",
+   "nome": "No Município de Santa Terezinha de Goiás - GO",
+   "emp": "0"
+  },
+  {
+   "cod": "0499",
+   "nome": "No Município de Palmeirópolis - TO",
+   "emp": "250000"
+  },
+  {
+   "cod": "4457",
+   "nome": "No Município de Brusque - SC",
+   "emp": "350000"
+  },
+  {
+   "cod": "4271",
+   "nome": "No Município de Perobal - PR",
+   "emp": "150000"
+  },
+  {
+   "cod": "0552",
+   "nome": "No Município de Alcântara - MA",
+   "emp": "595456"
+  },
+  {
+   "cod": "3285",
+   "nome": "No Município de Cabo Frio - RJ",
+   "emp": "500000"
+  },
+  {
+   "cod": "5274",
+   "nome": "No Município de Terenos - MS",
+   "emp": "100000"
+  },
+  {
+   "cod": "1017",
+   "nome": "No Município de Beberibe - CE",
+   "emp": "0"
+  },
+  {
+   "cod": "8932",
+   "nome": "Aquisição de Equipamentos - No Distrito Federal",
+   "emp": "4000000"
+  },
+  {
+   "cod": "0995",
+   "nome": "No Município de Alcântaras - CE",
+   "emp": "474516"
+  },
+  {
+   "cod": "2427",
+   "nome": "No Município de Bom Sucesso - MG",
+   "emp": "600000"
+  },
+  {
+   "cod": "1741",
+   "nome": "No Município de Tuparetama - PE",
+   "emp": "450000"
+  },
+  {
+   "cod": "9290",
+   "nome": "Readequação e Reforma do Hospital Infantil Lucídio Portela - Teresina - PI",
+   "emp": "0"
+  },
+  {
+   "cod": "2743",
+   "nome": "No Município de Japonvar - MG",
+   "emp": "250000"
+  },
+  {
+   "cod": "4989",
+   "nome": "No Município de Novo Hamburgo - RS",
+   "emp": "949950"
+  },
+  {
+   "cod": "1881",
+   "nome": "No Município de Japaratuba - SE",
+   "emp": "2117513"
+  },
+  {
+   "cod": "4250",
+   "nome": "No Município de Nova Prata do Iguaçu - PR",
+   "emp": "920000"
+  },
+  {
+   "cod": "3553",
+   "nome": "No Município de Franco da Rocha - SP",
+   "emp": "7220774"
+  },
+  {
+   "cod": "1400",
+   "nome": "No Município de Conceição - PB",
+   "emp": "863000"
+  },
+  {
+   "cod": "4148",
+   "nome": "No Município de Honório Serpa - PR",
+   "emp": "400000"
+  },
+  {
+   "cod": "1213",
+   "nome": "No Município de Extremoz - RN",
+   "emp": "200000"
+  },
+  {
+   "cod": "3213",
+   "nome": "No Município de Castelo - ES",
+   "emp": "510000"
+  },
+  {
+   "cod": "0857",
+   "nome": "No Município de Guaribas - PI",
+   "emp": "300000"
+  },
+  {
+   "cod": "0234",
+   "nome": "No Município de Urucará - AM",
+   "emp": "1000000"
+  },
+  {
+   "cod": "9188",
+   "nome": "Ambulatório Central de Especialidades Egydio Ricco - Batatais - SP",
+   "emp": "230000"
+  },
+  {
+   "cod": "4745",
+   "nome": "No Município de Bento Gonçalves - RS",
+   "emp": "1000000"
+  },
+  {
+   "cod": "4447",
+   "nome": "No Município de Bocaina do Sul - SC",
+   "emp": "200000"
+  },
+  {
+   "cod": "1078",
+   "nome": "No Município de Itapiúna - CE",
+   "emp": "712644"
+  },
+  {
+   "cod": "1599",
+   "nome": "No Município de Calumbi - PE",
+   "emp": "182564"
+  },
+  {
+   "cod": "0538",
+   "nome": "No Município de Sucupira - TO",
+   "emp": "300000"
+  },
+  {
+   "cod": "1993",
+   "nome": "No Município de Cairu - BA",
+   "emp": "300000"
+  },
+  {
+   "cod": "2219",
+   "nome": "No Município de Paulo Afonso - BA",
+   "emp": "1957958"
+  },
+  {
+   "cod": "3900",
+   "nome": "No Município de Santo André - SP",
+   "emp": "2500000"
+  },
+  {
+   "cod": "4223",
+   "nome": "No Município de Marquinho - PR",
+   "emp": "400000"
+  },
+  {
+   "cod": "1988",
+   "nome": "No Município de Caculé - BA",
+   "emp": "600000"
+  },
+  {
+   "cod": "5565",
+   "nome": "No Município de Montividiu - GO",
+   "emp": "1999952"
+  },
+  {
+   "cod": "1582",
+   "nome": "No Município de Belo Jardim - PE",
+   "emp": "2090000"
+  },
+  {
+   "cod": "9060",
+   "nome": "Aquisição de Equipamentos para Hospital Materno Infantil - Santarém - PA",
+   "emp": "0"
+  },
+  {
+   "cod": "1136",
+   "nome": "No Município de Potiretama - CE",
+   "emp": "13248"
+  },
+  {
+   "cod": "3307",
+   "nome": "No Município de Itatiaia - RJ",
+   "emp": "449550"
+  },
+  {
+   "cod": "0689",
+   "nome": "No Município de Peri Mirim - MA",
+   "emp": "800000"
+  },
+  {
+   "cod": "1248",
+   "nome": "No Município de Lajes Pintadas - RN",
+   "emp": "500000"
+  },
+  {
+   "cod": "0209",
+   "nome": "No Município de Manacapuru - AM",
+   "emp": "431875"
+  },
+  {
+   "cod": "1591",
+   "nome": "No Município de Brejo da Madre de Deus - PE",
+   "emp": "270000"
+  },
+  {
+   "cod": "1458",
+   "nome": "No Município de Matinhas - PB",
+   "emp": "350000"
+  },
+  {
+   "cod": "3477",
+   "nome": "No Município de Campos Novos Paulista - SP",
+   "emp": "199980"
+  },
+  {
+   "cod": "0407",
+   "nome": "No Município de Santana - AP",
+   "emp": "200000"
+  },
+  {
+   "cod": "4661",
+   "nome": "No Município de São Ludgero - SC",
+   "emp": "150000"
+  },
+  {
+   "cod": "1790",
+   "nome": "No Município de Joaquim Gomes - AL",
+   "emp": "1100000"
+  },
+  {
+   "cod": "3870",
+   "nome": "No Município de Salesópolis - SP",
+   "emp": "120000"
+  },
+  {
+   "cod": "8768",
+   "nome": "Hospital de Clínicas - Universidade Estadual de Campinas (Unicamp) - No Estado de São Paulo",
+   "emp": "2820000"
+  },
+  {
+   "cod": "1853",
+   "nome": "No Município de Aracaju - SE",
+   "emp": "20000000"
+  },
+  {
+   "cod": "3766",
+   "nome": "No Município de Paraibuna - SP",
+   "emp": "120000"
+  },
+  {
+   "cod": "4107",
+   "nome": "No Município de Diamante do Sul - PR",
+   "emp": "185387"
+  },
+  {
+   "cod": "0500",
+   "nome": "No Município de Paraíso do Tocantins - TO",
+   "emp": "600000"
+  },
+  {
+   "cod": "9248",
+   "nome": "Aquisição de Material Permanente e Aparelhamento de Unidades Estaduais da Rede de Reabilitação Lucy Montoro - No Estado de São Paulo",
+   "emp": "0"
+  },
+  {
+   "cod": "0404",
+   "nome": "No Município de Oiapoque - AP",
+   "emp": "1527920"
+  },
+  {
+   "cod": "4508",
+   "nome": "No Município de Gravatal - SC",
+   "emp": "300000"
+  },
+  {
+   "cod": "9184",
+   "nome": "Fundação de Saúde e Assistência do Município de Caçapava (FUSAM) - Caçapava - SP",
+   "emp": "99994"
+  },
+  {
+   "cod": "1733",
+   "nome": "No Município de Terezinha - PE",
+   "emp": "300000"
+  },
+  {
+   "cod": "4565",
+   "nome": "No Município de Maracajá - SC",
+   "emp": "250000"
+  },
+  {
+   "cod": "9144",
+   "nome": "Aquisição de equipamentos e material permanente (Policlínica Municipal Aguinaldo Moraes) - Silva Jardim - RJ",
+   "emp": "499975"
+  },
+  {
+   "cod": "0208",
+   "nome": "No Município de Lábrea - AM",
+   "emp": "400000"
+  },
+  {
+   "cod": "8900",
+   "nome": "Hospital do Idoso - Recife - PE",
+   "emp": "0"
+  },
+  {
+   "cod": "9210",
+   "nome": "Aquisição de equipamentos - Instituto de Medicina Integral Professor Fernando Figueira (IMIP) - No Estado de Pernambuco",
+   "emp": "300000"
+  },
+  {
+   "cod": "5086",
+   "nome": "No Município de São Francisco de Paula - RS",
+   "emp": "0"
+  },
+  {
+   "cod": "0513",
+   "nome": "No Município de Porto Nacional - TO",
+   "emp": "300000"
+  },
+  {
+   "cod": "2823",
+   "nome": "No Município de Mercês - MG",
+   "emp": "250000"
+  },
+  {
+   "cod": "3320",
+   "nome": "No Município de Nilópolis - RJ",
+   "emp": "12588074"
+  },
+  {
+   "cod": "4131",
+   "nome": "No Município de Francisco Beltrão - PR",
+   "emp": "4674500"
+  },
+  {
+   "cod": "2329",
+   "nome": "No Município de Utinga - BA",
+   "emp": "700000"
+  },
+  {
+   "cod": "0611",
+   "nome": "No Município de Coroatá - MA",
+   "emp": "400000"
+  },
+  {
+   "cod": "2731",
+   "nome": "No Município de Iturama - MG",
+   "emp": "0"
+  },
+  {
+   "cod": "4679",
+   "nome": "No Município de Timbó Grande - SC",
+   "emp": "200000"
+  },
+  {
+   "cod": "4445",
+   "nome": "No Município de Biguaçu - SC",
+   "emp": "450000"
+  },
+  {
+   "cod": "1004",
+   "nome": "No Município de Ararendá - CE",
+   "emp": "200000"
+  },
+  {
+   "cod": "9150",
+   "nome": "Associação da REDEH de Beneficência Cristã - Taió - SC",
+   "emp": "500000"
+  },
+  {
+   "cod": "0226",
+   "nome": "No Município de São Paulo de Olivença - AM",
+   "emp": "500000"
+  },
+  {
+   "cod": "1823",
+   "nome": "No Município de Pilar - AL",
+   "emp": "610000"
+  },
+  {
+   "cod": "3596",
+   "nome": "No Município de Igaratá - SP",
+   "emp": "299990"
+  },
+  {
+   "cod": "4559",
+   "nome": "No Município de Luiz Alves - SC",
+   "emp": "250000"
+  },
+  {
+   "cod": "0672",
+   "nome": "No Município de Nina Rodrigues - MA",
+   "emp": "1394936"
+  },
+  {
+   "cod": "0254",
+   "nome": "No Município de Afuá - PA",
+   "emp": "200230"
+  },
+  {
+   "cod": "1630",
+   "nome": "No Município de Garanhuns - PE",
+   "emp": "999970"
+  },
+  {
+   "cod": "7006",
+   "nome": "Aquisição de Equipamentos - No Estado do Amazonas",
+   "emp": "0"
+  },
+  {
+   "cod": "5338",
+   "nome": "No Município de Luciara - MT",
+   "emp": "0"
+  },
+  {
+   "cod": "1875",
+   "nome": "No Município de Ilha das Flores - SE",
+   "emp": "300000"
+  },
+  {
+   "cod": "0289",
+   "nome": "No Município de Conceição do Araguaia - PA",
+   "emp": "199965"
+  },
+  {
+   "cod": "1650",
+   "nome": "No Município de Itaquitinga - PE",
+   "emp": "300000"
+  },
+  {
+   "cod": "7400",
+   "nome": "Unidade Básica de Saúde Bairro Cariri - Três Rios - RJ",
+   "emp": "400000"
+  },
+  {
+   "cod": "4889",
+   "nome": "No Município de Guabiju - RS",
+   "emp": "100000"
+  },
+  {
+   "cod": "4393",
+   "nome": "No Município de Tuneiras do Oeste - PR",
+   "emp": "250000"
+  },
+  {
+   "cod": "4063",
+   "nome": "No Município de Cambira - PR",
+   "emp": "490644"
+  },
+  {
+   "cod": "5585",
+   "nome": "No Município de Novo Planalto - GO",
+   "emp": "0"
+  },
+  {
+   "cod": "2089",
+   "nome": "No Município de Ilhéus - BA",
+   "emp": "3782961"
+  },
+  {
+   "cod": "0032",
+   "nome": "No Estado do Espírito Santo",
+   "emp": "1386727420"
+  },
+  {
+   "cod": "1020",
+   "nome": "No Município de Brejo Santo - CE",
+   "emp": "4000000"
+  },
+  {
+   "cod": "0172",
+   "nome": "No Município de Xapuri - AC",
+   "emp": "700000"
+  },
+  {
+   "cod": "4109",
+   "nome": "No Município de Dois Vizinhos - PR",
+   "emp": "500000"
+  },
+  {
+   "cod": "2261",
+   "nome": "No Município de Salvador - BA",
+   "emp": "1500000"
+  },
+  {
+   "cod": "5390",
+   "nome": "No Município de Rondonópolis - MT",
+   "emp": "170000"
+  },
+  {
+   "cod": "2076",
+   "nome": "No Município de Ibipeba - BA",
+   "emp": "300774"
+  },
+  {
+   "cod": "7008",
+   "nome": "Instituto de Tecnologia em Imunobiológicos (Bio-Manguinhos) - Rio de Janeiro - RJ",
+   "emp": "500000"
+  },
+  {
+   "cod": "0393",
+   "nome": "No Município de Xinguara - PA",
+   "emp": "3000000"
+  },
+  {
+   "cod": "8936",
+   "nome": "Aparelhamento de Unidades de Saúde - No Estado de Pernambuco",
+   "emp": "20351741"
+  },
+  {
+   "cod": "3785",
+   "nome": "No Município de Pedro de Toledo - SP",
+   "emp": "199982"
+  },
+  {
+   "cod": "0329",
+   "nome": "No Município de Novo Progresso - PA",
+   "emp": "500000"
+  },
+  {
+   "cod": "5544",
+   "nome": "No Município de Jaraguá - GO",
+   "emp": "300000"
+  },
+  {
+   "cod": "0506",
+   "nome": "No Município de Colméia - TO",
+   "emp": "300000"
+  },
+  {
+   "cod": "9258",
+   "nome": "Hospital Maternidade Almeida Castro (Associação de Assistência e Proteção à Maternidade e à Infância) – Mossoró - RN",
+   "emp": "149940"
+  },
+  {
+   "cod": "0470",
+   "nome": "No Município de Itaguatins - TO",
+   "emp": "250000"
+  },
+  {
+   "cod": "4542",
+   "nome": "No Município de Jaguaruna - SC",
+   "emp": "1610387"
+  },
+  {
+   "cod": "3452",
+   "nome": "No Município de Bragança Paulista - SP",
+   "emp": "1000000"
+  },
+  {
+   "cod": "5337",
+   "nome": "No Município de Lucas do Rio Verde - MT",
+   "emp": "1000000"
+  },
+  {
+   "cod": "0483",
+   "nome": "No Município de Maurilândia do Tocantins - TO",
+   "emp": "350000"
+  },
+  {
+   "cod": "5442",
+   "nome": "No Município de Araguapaz - GO",
+   "emp": "0"
+  },
+  {
+   "cod": "4339",
+   "nome": "No Município de Santa Mariana - PR",
+   "emp": "300000"
+  },
+  {
+   "cod": "1719",
+   "nome": "No Município de São Lourenço da Mata - PE",
+   "emp": "3500000"
+  },
+  {
+   "cod": "0416",
+   "nome": "No Município de Angico - TO",
+   "emp": "400000"
+  },
+  {
+   "cod": "3831",
+   "nome": "No Município de Presidente Venceslau - SP",
+   "emp": "150000"
+  },
+  {
+   "cod": "0504",
+   "nome": "No Município de Peixe - TO",
+   "emp": "1390380"
+  },
+  {
+   "cod": "7434",
+   "nome": "Aquisição de Ambulância - Santos Dumont - MG",
+   "emp": "100000"
+  },
+  {
+   "cod": "4308",
+   "nome": "No Município de Realeza - PR",
+   "emp": "200000"
+  },
+  {
+   "cod": "4438",
+   "nome": "No Município de Balneário Gaivota - SC",
+   "emp": "270000"
+  },
+  {
+   "cod": "4999",
+   "nome": "No Município de Panambi - RS",
+   "emp": "500000"
+  },
+  {
+   "cod": "3451",
+   "nome": "No Município de Botucatu - SP",
+   "emp": "500000"
+  },
+  {
+   "cod": "1980",
+   "nome": "No Município de Brejolândia - BA",
+   "emp": "700000"
+  },
+  {
+   "cod": "1519",
+   "nome": "No Município de São Bentinho - PB",
+   "emp": "9420"
+  },
+  {
+   "cod": "0565",
+   "nome": "No Município de Arame - MA",
+   "emp": "600000"
+  },
+  {
+   "cod": "0525",
+   "nome": "No Município de Santa Maria do Tocantins - TO",
+   "emp": "200000"
+  },
+  {
+   "cod": "1352",
+   "nome": "No Município de Araçagi - PB",
+   "emp": "247700"
+  },
+  {
+   "cod": "3410",
+   "nome": "No Município de Arujá - SP",
+   "emp": "200000"
+  },
+  {
+   "cod": "9254",
+   "nome": "Aquisição de Equipamentos para Hospital Regional - São Francisco do Guaporé - RO",
+   "emp": "1000000"
+  },
+  {
+   "cod": "3202",
+   "nome": "No Município de Anchieta - ES",
+   "emp": "200000"
+  },
+  {
+   "cod": "2181",
+   "nome": "No Município de Miguel Calmon - BA",
+   "emp": "276005"
+  },
+  {
+   "cod": "1795",
+   "nome": "No Município de Maceió - AL",
+   "emp": "3200387"
+  },
+  {
+   "cod": "0757",
+   "nome": "No Município de Turilândia - MA",
+   "emp": "1990000"
+  },
+  {
+   "cod": "3283",
+   "nome": "No Município de Bom Jardim - RJ",
+   "emp": "750000"
+  },
+  {
+   "cod": "9174",
+   "nome": "Hospital Santa Casa de Bom Despacho - Bom Despacho - MG",
+   "emp": "0"
+  },
+  {
+   "cod": "3841",
+   "nome": "No Município de Regente Feijó - SP",
+   "emp": "800000"
+  },
+  {
+   "cod": "5153",
+   "nome": "No Município de Torres - RS",
+   "emp": "299640"
+  },
+  {
+   "cod": "0534",
+   "nome": "No Município de São Sebastião do Tocantins - TO",
+   "emp": "616375"
+  },
+  {
+   "cod": "3710",
+   "nome": "No Município de Mogi Guaçu - SP",
+   "emp": "500000"
+  },
+  {
+   "cod": "5460",
+   "nome": "No Município de Cachoeira Alta - GO",
+   "emp": "700000"
+  },
+  {
+   "cod": "3935",
+   "nome": "No Município de São Vicente - SP",
+   "emp": "1279509"
+  },
+  {
+   "cod": "9250",
+   "nome": "Hospital Padre Máximo – Venda Nova do Imigrante – ES",
+   "emp": "0"
+  },
+  {
+   "cod": "5578",
+   "nome": "No Município de Nova Crixás - GO",
+   "emp": "400000"
+  },
+  {
+   "cod": "3357",
+   "nome": "No Município de Sumidouro - RJ",
+   "emp": "2061828"
+  },
+  {
+   "cod": "1436",
+   "nome": "No Município de João Pessoa - PB",
+   "emp": "3489800"
+  },
+  {
+   "cod": "3292",
+   "nome": "No Município de Cardoso Moreira - RJ",
+   "emp": "1000000"
+  },
+  {
+   "cod": "1464",
+   "nome": "No Município de Monteiro - PB",
+   "emp": "250000"
+  },
+  {
+   "cod": "5031",
+   "nome": "No Município de Porto Xavier - RS",
+   "emp": "300000"
+  },
+  {
+   "cod": "3929",
+   "nome": "No Município de São Pedro - SP",
+   "emp": "4600000"
+  },
+  {
+   "cod": "0387",
+   "nome": "No Município de Tucuruí - PA",
+   "emp": "1500000"
+  },
+  {
+   "cod": "3196",
+   "nome": "No Município de Afonso Cláudio - ES",
+   "emp": "100000"
+  },
+  {
+   "cod": "5475",
+   "nome": "No Município de Castelândia - GO",
+   "emp": "437088"
+  },
+  {
+   "cod": "0484",
+   "nome": "No Município de Miracema do Tocantins - TO",
+   "emp": "1800000"
+  },
+  {
+   "cod": "4677",
+   "nome": "No Município de Timbé do Sul - SC",
+   "emp": "300000"
+  },
+  {
+   "cod": "9106",
+   "nome": "Aquisição de Equipamentos (Santa Casa) - Bom Sucesso - MG",
+   "emp": "250000"
+  },
+  {
+   "cod": "3865",
+   "nome": "No Município de Rubinéia - SP",
+   "emp": "100774"
+  },
+  {
+   "cod": "5259",
+   "nome": "No Município de Porto Murtinho - MS",
+   "emp": "999995"
+  },
+  {
+   "cod": "2083",
+   "nome": "No Município de Ibititá - BA",
+   "emp": "0"
+  },
+  {
+   "cod": "0131",
+   "nome": "No Município de Candeias do Jamari - RO",
+   "emp": "1891176"
+  },
+  {
+   "cod": "3215",
+   "nome": "No Município de Conceição da Barra - ES",
+   "emp": "0"
+  },
+  {
+   "cod": "4124",
+   "nome": "No Município de Flor da Serra do Sul - PR",
+   "emp": "300000"
+  },
+  {
+   "cod": "2672",
+   "nome": "No Município de Gurinhatã - MG",
+   "emp": "350000"
+  },
+  {
+   "cod": "0579",
+   "nome": "No Município de Bequimão - MA",
+   "emp": "2835802"
+  },
+  {
+   "cod": "5656",
+   "nome": "No Município de Uruana - GO",
+   "emp": "499989"
+  },
+  {
+   "cod": "0507",
+   "nome": "No Município de Pindorama do Tocantins - TO",
+   "emp": "210387"
+  },
+  {
+   "cod": "2152",
+   "nome": "No Município de Lajedinho - BA",
+   "emp": "291372"
+  },
+  {
+   "cod": "4099",
+   "nome": "No Município de Cruzeiro do Iguaçu - PR",
+   "emp": "250000"
+  },
+  {
+   "cod": "1242",
+   "nome": "No Município de Lagoa d'Anta - RN",
+   "emp": "600000"
+  },
+  {
+   "cod": "9134",
+   "nome": "Irmandade da Santa Casa de Caridade de Machado - Machado - MG",
+   "emp": "360420"
+  },
+  {
+   "cod": "3271",
+   "nome": "No Município de Vila Valério - ES",
+   "emp": "280387"
+  },
+  {
+   "cod": "7450",
+   "nome": "Santa Casa de Misericórdia - No Município de Votuporanga - SP",
+   "emp": "1000000"
+  },
+  {
+   "cod": "3353",
+   "nome": "No Município de Sapucaia - RJ",
+   "emp": "645205"
+  },
+  {
+   "cod": "1973",
+   "nome": "No Município de Bom Jesus da Lapa - BA",
+   "emp": "4300000"
+  },
+  {
+   "cod": "3696",
+   "nome": "No Município de Mauá - SP",
+   "emp": "2004980"
+  },
+  {
+   "cod": "4434",
+   "nome": "No Município de Aurora - SC",
+   "emp": "250000"
+  },
+  {
+   "cod": "3533",
+   "nome": "No Município de Embu das Artes - SP",
+   "emp": "12000000"
+  },
+  {
+   "cod": "1193",
+   "nome": "No Município de Brejinho - RN",
+   "emp": "220774"
+  },
+  {
+   "cod": "1296",
+   "nome": "No Município de Santa Cruz - RN",
+   "emp": "1750000"
+  },
+  {
+   "cod": "5615",
+   "nome": "No Município de Rio Verde - GO",
+   "emp": "250000"
+  },
+  {
+   "cod": "1060",
+   "nome": "No Município de Horizonte - CE",
+   "emp": "2000000"
+  },
+  {
+   "cod": "3312",
+   "nome": "No Município de Magé - RJ",
+   "emp": "2449930"
+  },
+  {
+   "cod": "3282",
+   "nome": "No Município de Belford Roxo - RJ",
+   "emp": "8250664"
+  },
+  {
+   "cod": "1832",
+   "nome": "No Município de Roteiro - AL",
+   "emp": "500000"
+  },
+  {
+   "cod": "5199",
+   "nome": "No Município de Água Clara - MS",
+   "emp": "99574"
+  },
+  {
+   "cod": "2084",
+   "nome": "No Município de Ibotirama - BA",
+   "emp": "550000"
+  },
+  {
+   "cod": "0041",
+   "nome": "No Estado do Paraná",
+   "emp": "4321414721"
+  },
+  {
+   "cod": "0321",
+   "nome": "No Município de Melgaço - PA",
+   "emp": "249991"
+  },
+  {
+   "cod": "4041",
+   "nome": "No Município de Barracão - PR",
+   "emp": "400000"
+  },
+  {
+   "cod": "3722",
+   "nome": "No Município de Morro Agudo - SP",
+   "emp": "100000"
+  },
+  {
+   "cod": "1689",
+   "nome": "No Município de Petrolina - PE",
+   "emp": "71845"
+  },
+  {
+   "cod": "3659",
+   "nome": "No Município de Jundiaí - SP",
+   "emp": "4900000"
+  },
+  {
+   "cod": "9070",
+   "nome": "Aparelhamento de Unidades de Saúde (Consórcio Intermunicipal do Vale do São Francisco) - Aracaju - SE",
+   "emp": "0"
+  },
+  {
+   "cod": "0184",
+   "nome": "No Município de Beruri - AM",
+   "emp": "0"
+  },
+  {
+   "cod": "1493",
+   "nome": "No Município de Princesa Isabel - PB",
+   "emp": "663000"
+  },
+  {
+   "cod": "3431",
+   "nome": "No Município de Bastos - SP",
+   "emp": "500000"
+  },
+  {
+   "cod": "4104",
+   "nome": "No Município de Curitiba - PR",
+   "emp": "1100774"
+  },
+  {
+   "cod": "3322",
+   "nome": "No Município de Nova Friburgo - RJ",
+   "emp": "350000"
+  },
+  {
+   "cod": "4564",
+   "nome": "No Município de Major Vieira - SC",
+   "emp": "500000"
+  },
+  {
+   "cod": "9118",
+   "nome": "Santa Casa de Misericórdia da Bahia (Hospital Santa Isabel) - No Estado da Bahia",
+   "emp": "6788411"
+  },
+  {
+   "cod": "9246",
+   "nome": "Aquisição de Material Permanente e Aparelhamento de Unidades Estaduais - No Estado de São Paulo",
+   "emp": "0"
+  },
+  {
+   "cod": "3387",
+   "nome": "No Município de Amparo - SP",
+   "emp": "499998"
+  },
+  {
+   "cod": "1690",
+   "nome": "No Município de Poção - PE",
+   "emp": "800000"
+  },
+  {
+   "cod": "3687",
+   "nome": "No Município de Manduri - SP",
+   "emp": "150000"
+  },
+  {
+   "cod": "0400",
+   "nome": "No Município de Itaubal - AP",
+   "emp": "749980"
+  },
+  {
+   "cod": "3792",
+   "nome": "No Município de Pilar do Sul - SP",
+   "emp": "150000"
+  },
+  {
+   "cod": "5408",
+   "nome": "No Município de Torixoréu - MT",
+   "emp": "0"
+  },
+  {
+   "cod": "9190",
+   "nome": "Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo (Hcfmusp) - Unidade de Farmacotécnica Hospitalar - São Paulo - SP",
+   "emp": "649310"
+  },
+  {
+   "cod": "8848",
+   "nome": "Fundação Santa Casa de Misericórdia de Franca - Franca - SP",
+   "emp": "500000"
+  },
+  {
+   "cod": "2154",
+   "nome": "No Município de Lamarão - BA",
+   "emp": "799172"
+  },
+  {
+   "cod": "0568",
+   "nome": "No Município de Bacabal - MA",
+   "emp": "9370774"
+  },
+  {
+   "cod": "7000",
+   "nome": "Escola Politécnica de Saúde Joaquim Venâncio (EPSJV) - Rio de Janeiro - RJ",
+   "emp": "298346"
+  },
+  {
+   "cod": "3235",
+   "nome": "No Município de Jerônimo Monteiro - ES",
+   "emp": "299404"
+  },
+  {
+   "cod": "0489",
+   "nome": "No Município de Muricilândia - TO",
+   "emp": "360508"
+  },
+  {
+   "cod": "5343",
+   "nome": "No Município de Nobres - MT",
+   "emp": "300000"
+  },
+  {
+   "cod": "3437",
+   "nome": "No Município de Bertioga - SP",
+   "emp": "205000"
+  },
+  {
+   "cod": "3956",
+   "nome": "No Município de Taguaí - SP",
+   "emp": "300000"
+  },
+  {
+   "cod": "5664",
+   "nome": "Em Brasília - DF",
+   "emp": "200000"
+  },
+  {
+   "cod": "5505",
+   "nome": "No Município de Formosa - GO",
+   "emp": "1900000"
+  },
+  {
+   "cod": "2992",
+   "nome": "No Município de Rio Preto - MG",
+   "emp": "200000"
+  },
+  {
+   "cod": "1451",
+   "nome": "No Município de Mamanguape - PB",
+   "emp": "663000"
+  },
+  {
+   "cod": "5269",
+   "nome": "No Município de Selvíria - MS",
+   "emp": "500000"
+  },
+  {
+   "cod": "3884",
+   "nome": "No Município de Santa Cruz das Palmeiras - SP",
+   "emp": "1650000"
+  },
+  {
+   "cod": "0342",
+   "nome": "No Município de Piçarra - PA",
+   "emp": "500000"
+  },
+  {
+   "cod": "3330",
+   "nome": "No Município de Piraí - RJ",
+   "emp": "1100000"
+  },
+  {
+   "cod": "9156",
+   "nome": "Associação Beneficente de Assistência Social Nossa Senhora do Pari - São Paulo - SP",
+   "emp": "0"
+  },
+  {
+   "cod": "0488",
+   "nome": "No Município de Palmeiras do Tocantins - TO",
+   "emp": "400000"
+  },
+  {
+   "cod": "0567",
+   "nome": "No Município de Axixá - MA",
+   "emp": "250000"
+  },
+  {
+   "cod": "1642",
+   "nome": "No Município de Ipojuca - PE",
+   "emp": "3710000"
+  },
+  {
+   "cod": "6511",
+   "nome": "No Município do Rio de Janeiro - RJ (Hospital Geral da Lagoa)",
+   "emp": "81095626"
+  },
+  {
+   "cod": "0562",
+   "nome": "No Município de Apicum-Açu - MA",
+   "emp": "250000"
+  },
+  {
+   "cod": "1587",
+   "nome": "No Município de Bom Jardim - PE",
+   "emp": "2763704"
+  },
+  {
+   "cod": "0042",
+   "nome": "No Estado de Santa Catarina",
+   "emp": "2735209207"
+  },
+  {
+   "cod": "2123",
+   "nome": "No Município de Itarantim - BA",
+   "emp": "400000"
+  },
+  {
+   "cod": "1593",
+   "nome": "No Município de Buíque - PE",
+   "emp": "663000"
+  },
+  {
+   "cod": "4260",
+   "nome": "No Município de Palotina - PR",
+   "emp": "750000"
+  },
+  {
+   "cod": "0308",
+   "nome": "No Município de Itaituba - PA",
+   "emp": "3454100"
+  },
+  {
+   "cod": "9088",
+   "nome": "Reforma e Aparelhamento do Instituto de Cardiologia (Fundação Universitária de Cardiologia ) - Porto Alegre - RS",
+   "emp": "0"
+  },
+  {
+   "cod": "4159",
+   "nome": "No Município de Indianópolis - PR",
+   "emp": "541899"
+  },
+  {
+   "cod": "0732",
+   "nome": "No Município de São José de Ribamar - MA",
+   "emp": "1000000"
+  },
+  {
+   "cod": "0146",
+   "nome": "No Município de Seringueiras - RO",
+   "emp": "999900"
+  },
+  {
+   "cod": "0295",
+   "nome": "No Município de Curuçá - PA",
+   "emp": "200000"
+  },
+  {
+   "cod": "0051",
+   "nome": "No Estado de Mato Grosso",
+   "emp": "1291153856"
+  },
+  {
+   "cod": "0572",
+   "nome": "No Município de Balsas - MA",
+   "emp": "700000"
+  },
+  {
+   "cod": "2175",
+   "nome": "No Município de Maraú - BA",
+   "emp": "200000"
+  },
+  {
+   "cod": "1276",
+   "nome": "No Município de Pau dos Ferros - RN",
+   "emp": "849990"
+  },
+  {
+   "cod": "1569",
+   "nome": "No Município de Águas Belas - PE",
+   "emp": "663000"
+  },
+  {
+   "cod": "0352",
+   "nome": "No Município de Rondon do Pará - PA",
+   "emp": "300000"
+  },
+  {
+   "cod": "3599",
+   "nome": "No Município de Ilha Comprida - SP",
+   "emp": "88000"
+  },
+  {
+   "cod": "9272",
+   "nome": "Associação de Combate ao Câncer do Brasil Central - Uberaba - MG",
+   "emp": "0"
+  },
+  {
+   "cod": "0990",
+   "nome": "No Município de Abaiara - CE",
+   "emp": "200000"
+  },
+  {
+   "cod": "2035",
+   "nome": "No Município de Coribe - BA",
+   "emp": "100000"
+  },
+  {
+   "cod": "3524",
+   "nome": "No Município de Dourado - SP",
+   "emp": "700000"
+  },
+  {
+   "cod": "2276",
+   "nome": "No Município de Santo Estêvão - BA",
+   "emp": "1500000"
+  },
+  {
+   "cod": "1307",
+   "nome": "No Município de São José do Campestre - RN",
+   "emp": "500000"
+  },
+  {
+   "cod": "4108",
+   "nome": "No Município de Diamante D'Oeste - PR",
+   "emp": "250000"
+  },
+  {
+   "cod": "0731",
+   "nome": "No Município de São João dos Patos - MA",
+   "emp": "400000"
+  },
+  {
+   "cod": "7366",
+   "nome": "Hospital da Fundação Assistencial da Paraíba (FAP) - Campina Grande - PB",
+   "emp": "600000"
+  },
+  {
+   "cod": "0434",
+   "nome": "No Município de Bom Jesus do Tocantins - TO",
+   "emp": "221238"
+  },
+  {
+   "cod": "1146",
+   "nome": "No Município de Salitre - CE",
+   "emp": "914621"
+  },
+  {
+   "cod": "4697",
+   "nome": "No Município de Vitor Meireles - SC",
+   "emp": "200000"
+  },
+  {
+   "cod": "1604",
+   "nome": "No Município de Capoeiras - PE",
+   "emp": "1856038"
+  },
+  {
+   "cod": "1121",
+   "nome": "No Município de Palmácia - CE",
+   "emp": "500000"
+  },
+  {
+   "cod": "2945",
+   "nome": "No Município de Planura - MG",
+   "emp": "430000"
+  },
+  {
+   "cod": "2189",
+   "nome": "No Município de Mucugê - BA",
+   "emp": "399950"
+  },
+  {
+   "cod": "1348",
+   "nome": "No Município de Alhandra - PB",
+   "emp": "90000"
+  },
+  {
+   "cod": "0017",
+   "nome": "No Estado do Tocantins",
+   "emp": "751605247"
+  },
+  {
+   "cod": "2061",
+   "nome": "No Município de Gandu - BA",
+   "emp": "510774"
+  },
+  {
+   "cod": "2717",
+   "nome": "No Município de Itanhandu - MG",
+   "emp": "99910"
+  },
+  {
+   "cod": "1421",
+   "nome": "No Município de Fagundes - PB",
+   "emp": "900000"
+  },
+  {
+   "cod": "9092",
+   "nome": "Instituto Brasileiro de Controle do Câncer (IBCC) - No Estado de São Paulo",
+   "emp": "300000"
+  },
+  {
+   "cod": "9214",
+   "nome": "Hospital Geral Dr. José Pedro Bezerra - No Estado do Rio Grande do Norte",
+   "emp": "999895"
+  },
+  {
+   "cod": "0040",
+   "nome": "Na Região Sul",
+   "emp": "2999800"
+  },
+  {
+   "cod": "3339",
+   "nome": "No Município de Rio das Flores - RJ",
+   "emp": "2785114"
+  },
+  {
+   "cod": "0024",
+   "nome": "No Estado do Rio Grande do Norte",
+   "emp": "1260035837"
+  },
+  {
+   "cod": "0230",
+   "nome": "No Município de Tapauá - AM",
+   "emp": "0"
+  },
+  {
+   "cod": "3303",
+   "nome": "No Município de Itaguaí - RJ",
+   "emp": "250000"
+  },
+  {
+   "cod": "1269",
+   "nome": "No Município de Parazinho - RN",
+   "emp": "500000"
+  },
+  {
+   "cod": "5458",
+   "nome": "No Município de Buritinópolis - GO",
+   "emp": "57396"
+  },
+  {
+   "cod": "1718",
+   "nome": "No Município de São José do Egito - PE",
+   "emp": "2000000"
+  },
+  {
+   "cod": "4850",
+   "nome": "No Município de Erechim - RS",
+   "emp": "500000"
+  },
+  {
+   "cod": "4465",
+   "nome": "No Município de Campo Erê - SC",
+   "emp": "400000"
+  },
+  {
+   "cod": "3243",
+   "nome": "No Município de Mimoso do Sul - ES",
+   "emp": "1395793"
+  },
+  {
+   "cod": "3614",
+   "nome": "No Município de Itaberá - SP",
+   "emp": "700000"
+  },
+  {
+   "cod": "3284",
+   "nome": "No Município de Bom Jesus do Itabapoana - RJ",
+   "emp": "770000"
+  },
+  {
+   "cod": "3302",
+   "nome": "No Município de Itaboraí - RJ",
+   "emp": "8820774"
+  },
+  {
+   "cod": "1037",
+   "nome": "No Município de Chorozinho - CE",
+   "emp": "1500000"
+  },
+  {
+   "cod": "2402",
+   "nome": "No Município de Barão de Monte Alto - MG",
+   "emp": "750000"
+  },
+  {
+   "cod": "0277",
+   "nome": "No Município de Breu Branco - PA",
+   "emp": "1500000"
+  },
+  {
+   "cod": "5045",
+   "nome": "No Município de Rio Grande - RS",
+   "emp": "300000"
+  },
+  {
+   "cod": "1366",
+   "nome": "No Município de Bayeux - PB",
+   "emp": "250000"
+  },
+  {
+   "cod": "3390",
+   "nome": "No Município de Angatuba - SP",
+   "emp": "500000"
+  },
+  {
+   "cod": "2570",
+   "nome": "No Município de Cruzeiro da Fortaleza - MG",
+   "emp": "200000"
+  },
+  {
+   "cod": "4670",
+   "nome": "No Município de Siderópolis - SC",
+   "emp": "602479"
+  },
+  {
+   "cod": "2288",
+   "nome": "No Município de São Sebastião do Passé - BA",
+   "emp": "300000"
+  },
+  {
+   "cod": "3207",
+   "nome": "No Município de Barra de São Francisco - ES",
+   "emp": "299980"
+  },
+  {
+   "cod": "5175",
+   "nome": "No Município de Uruguaiana - RS",
+   "emp": "1000000"
+  },
+  {
+   "cod": "2206",
+   "nome": "No Município de Nova Viçosa - BA",
+   "emp": "1210000"
+  },
+  {
+   "cod": "1047",
+   "nome": "No Município de Forquilha - CE",
+   "emp": "200000"
+  },
+  {
+   "cod": "3622",
+   "nome": "No Município de Itapeva - SP",
+   "emp": "600000"
+  },
+  {
+   "cod": "3976",
+   "nome": "No Município de Torre de Pedra - SP",
+   "emp": "124293"
+  },
+  {
+   "cod": "4594",
+   "nome": "No Município de Papanduva - SC",
+   "emp": "300000"
+  },
+  {
+   "cod": "3261",
+   "nome": "No Município de São Gabriel da Palha - ES",
+   "emp": "1489"
+  },
+  {
+   "cod": "0409",
+   "nome": "No Município de Vitória do Jari - AP",
+   "emp": "1000000"
+  },
+  {
+   "cod": "3318",
+   "nome": "No Município de Miracema - RJ",
+   "emp": "1950000"
+  },
+  {
+   "cod": "1211",
+   "nome": "No Município de Equador - RN",
+   "emp": "599990"
+  },
+  {
+   "cod": "4966",
+   "nome": "No Município de Mostardas - RS",
+   "emp": "500000"
+  },
+  {
+   "cod": "3430",
+   "nome": "No Município de Barueri - SP",
+   "emp": "2000000"
+  },
+  {
+   "cod": "1880",
+   "nome": "No Município de Itaporanga d'Ajuda - SE",
+   "emp": "605574"
+  },
+  {
+   "cod": "2138",
+   "nome": "No Município de Jequié - BA",
+   "emp": "500000"
+  },
+  {
+   "cod": "1645",
+   "nome": "No Município de Itaíba - PE",
+   "emp": "1800000"
+  },
+  {
+   "cod": "0461",
+   "nome": "No Município de Filadélfia - TO",
+   "emp": "999935"
+  },
+  {
+   "cod": "4585",
+   "nome": "No Município de Otacílio Costa - SC",
+   "emp": "300000"
+  },
+  {
+   "cod": "0206",
+   "nome": "No Município de Juruá - AM",
+   "emp": "500000"
+  },
+  {
+   "cod": "1251",
+   "nome": "No Município de Macaíba - RN",
+   "emp": "162000"
+  },
+  {
+   "cod": "5639",
+   "nome": "No Município de São Patrício - GO",
+   "emp": "0"
+  },
+  {
+   "cod": "2971",
+   "nome": "No Município de Raul Soares - MG",
+   "emp": "220774"
+  },
+  {
+   "cod": "0438",
+   "nome": "No Município de Cachoeirinha - TO",
+   "emp": "0"
+  },
+  {
+   "cod": "3858",
+   "nome": "No Município de Rio Claro - SP",
+   "emp": "250000"
+  },
+  {
+   "cod": "3954",
+   "nome": "No Município de Taboão da Serra - SP",
+   "emp": "1000000"
+  },
+  {
+   "cod": "0907",
+   "nome": "No Município de Oeiras - PI",
+   "emp": "500000"
+  },
+  {
+   "cod": "9260",
+   "nome": "Hospital Evangélico de Cachoeiro de Itapemirim - Cachoeiro de Itapemirim - ES",
+   "emp": "0"
+  },
+  {
+   "cod": "5541",
+   "nome": "No Município de Itumbiara - GO",
+   "emp": "6179694"
+  },
+  {
+   "cod": "2161",
+   "nome": "No Município de Macajuba - BA",
+   "emp": "70000"
+  },
+  {
+   "cod": "1199",
+   "nome": "No Município de Caraúbas - RN",
+   "emp": "650000"
+  },
+  {
+   "cod": "1840",
+   "nome": "No Município de São Miguel dos Campos - AL",
+   "emp": "663000"
+  },
+  {
+   "cod": "1927",
+   "nome": "No Município de Abaré - BA",
+   "emp": "300000"
+  },
+  {
+   "cod": "5303",
+   "nome": "No Município de Carlinda - MT",
+   "emp": "81000"
+  },
+  {
+   "cod": "1073",
+   "nome": "No Município de Irauçuba - CE",
+   "emp": "2000000"
+  },
+  {
+   "cod": "9126",
+   "nome": "Associação Obras Sociais Irmã Dulce - No Estado da Bahia",
+   "emp": "100000"
+  },
+  {
+   "cod": "3486",
+   "nome": "No Município de Caraguatatuba - SP",
+   "emp": "1800000"
+  },
+  {
+   "cod": "4360",
+   "nome": "No Município de São José dos Pinhais - PR",
+   "emp": "7300770"
+  },
+  {
+   "cod": "8752",
+   "nome": "Casa de Saúde Santa Marcelina - No Estado de São Paulo",
+   "emp": "600000"
+  },
+  {
+   "cod": "1726",
+   "nome": "No Município de Solidão - PE",
+   "emp": "0"
+  },
+  {
+   "cod": "4075",
+   "nome": "No Município de Capanema - PR",
+   "emp": "500000"
+  },
+  {
+   "cod": "1032",
+   "nome": "No Município de Catunda - CE",
+   "emp": "1278492"
+  },
+  {
+   "cod": "5317",
+   "nome": "No Município de Diamantino - MT",
+   "emp": "500000"
+  },
+  {
+   "cod": "0810",
+   "nome": "No Município de Campo Grande do Piauí - PI",
+   "emp": "300000"
+  },
+  {
+   "cod": "9176",
+   "nome": "Associação Beneficente Cônego Manoel Vieira da Costa (Casa de Saúde Padre Costa) - Uiraúna - PB",
+   "emp": "199990"
+  },
+  {
+   "cod": "0216",
+   "nome": "No Município de Nova Olinda do Norte - AM",
+   "emp": "400000"
+  },
+  {
+   "cod": "2109",
+   "nome": "No Município de Itaju do Colônia - BA",
+   "emp": "350000"
+  },
+  {
+   "cod": "0993",
+   "nome": "No Município de Acopiara - CE",
+   "emp": "1968161"
+  },
+  {
+   "cod": "3305",
+   "nome": "No Município de Itaocara - RJ",
+   "emp": "2406296"
+  },
+  {
+   "cod": "0795",
+   "nome": "No Município de Bom Jesus - PI",
+   "emp": "1510774"
+  },
+  {
+   "cod": "3938",
+   "nome": "No Município de Sebastianópolis do Sul - SP",
+   "emp": "500000"
+  },
+  {
+   "cod": "3252",
+   "nome": "No Município de Piúma - ES",
+   "emp": "197963"
+  },
+  {
+   "cod": "3761",
+   "nome": "No Município de Palmares Paulista - SP",
+   "emp": "400772"
+  },
+  {
+   "cod": "0682",
+   "nome": "No Município de Passagem Franca - MA",
+   "emp": "0"
+  },
+  {
+   "cod": "5607",
+   "nome": "No Município de Porteirão - GO",
+   "emp": "299950"
+  },
+  {
+   "cod": "4532",
+   "nome": "No Município de Irineópolis - SC",
+   "emp": "750387"
+  },
+  {
+   "cod": "1339",
+   "nome": "No Município de Viçosa - RN",
+   "emp": "149976"
+  },
+  {
+   "cod": "5426",
+   "nome": "No Município de Aloândia - GO",
+   "emp": "0"
+  },
+  {
+   "cod": "0154",
+   "nome": "No Município de Brasiléia - AC",
+   "emp": "500000"
+  },
+  {
+   "cod": "0337",
+   "nome": "No Município de Palestina do Pará - PA",
+   "emp": "300000"
+  },
+  {
+   "cod": "3456",
+   "nome": "No Município de Brotas - SP",
+   "emp": "199990"
+  },
+  {
+   "cod": "2102",
+   "nome": "No Município de Itabuna - BA",
+   "emp": "1200000"
+  },
+  {
+   "cod": "5560",
+   "nome": "No Município de Minaçu - GO",
+   "emp": "200000"
+  },
+  {
+   "cod": "3234",
+   "nome": "No Município de Jaguaré - ES",
+   "emp": "299990"
+  },
+  {
+   "cod": "3774",
+   "nome": "No Município de Patrocínio Paulista - SP",
+   "emp": "283006"
+  },
+  {
+   "cod": "1041",
+   "nome": "No Município de Croatá - CE",
+   "emp": "310000"
+  },
+  {
+   "cod": "1046",
+   "nome": "No Município de Farias Brito - CE",
+   "emp": "3217000"
+  },
+  {
+   "cod": "0210",
+   "nome": "No Município de Manaquiri - AM",
+   "emp": "200000"
+  },
+  {
+   "cod": "0029",
+   "nome": "No Estado da Bahia",
+   "emp": "5253185360"
+  },
+  {
+   "cod": "4342",
+   "nome": "No Município de Santa Tereza do Oeste - PR",
+   "emp": "700000"
+  },
+  {
+   "cod": "4708",
+   "nome": "No Município de Alegrete - RS",
+   "emp": "500000"
+  },
+  {
+   "cod": "5647",
+   "nome": "No Município de Teresina de Goiás - GO",
+   "emp": "105574"
+  },
+  {
+   "cod": "0239",
+   "nome": "No Município de Bonfim - RR",
+   "emp": "0"
+  },
+  {
+   "cod": "3947",
+   "nome": "No Município de Sorocaba - SP",
+   "emp": "3293792"
+  },
+  {
+   "cod": "0030",
+   "nome": "Na Região Sudeste",
+   "emp": "500000"
+  },
+  {
+   "cod": "0193",
+   "nome": "No Município de Coari - AM",
+   "emp": "1009731"
+  },
+  {
+   "cod": "3326",
+   "nome": "No Município de Paraty - RJ",
+   "emp": "1792784"
+  },
+  {
+   "cod": "0465",
+   "nome": "No Município de Goiatins - TO",
+   "emp": "400000"
+  },
+  {
+   "cod": "0996",
+   "nome": "No Município de Altaneira - CE",
+   "emp": "500000"
+  },
+  {
+   "cod": "9278",
+   "nome": "Fundação Pio XII - Barretos - SP",
+   "emp": "500000"
+  },
+  {
+   "cod": "5398",
+   "nome": "No Município de São Félix do Araguaia - MT",
+   "emp": "200000"
+  },
+  {
+   "cod": "9146",
+   "nome": "Complexo Multidisciplinar de Ecoterapia Tarcizo Freire - Arapiraca - AL",
+   "emp": "500000"
+  },
+  {
+   "cod": "8868",
+   "nome": "Irmandade da Santa Casa de Misericórdia de Vitória - Vitória - ES",
+   "emp": "0"
+  },
+  {
+   "cod": "5348",
+   "nome": "No Município de Nova Bandeirantes - MT",
+   "emp": "168040"
+  },
+  {
+   "cod": "0028",
+   "nome": "No Estado de Sergipe",
+   "emp": "894274437"
+  },
+  {
+   "cod": "2238",
+   "nome": "No Município de Prado - BA",
+   "emp": "400000"
+  },
+  {
+   "cod": "3363",
+   "nome": "No Município de Varre-Sai - RJ",
+   "emp": "300000"
+  },
+  {
+   "cod": "3393",
+   "nome": "No Município de Aparecida - SP",
+   "emp": "500000"
+  },
+  {
+   "cod": "1089",
+   "nome": "No Município de Jucás - CE",
+   "emp": "2000000"
+  },
+  {
+   "cod": "0765",
+   "nome": "No Município de Zé Doca - MA",
+   "emp": "2400000"
+  },
+  {
+   "cod": "4407",
+   "nome": "No Município de Virmond - PR",
+   "emp": "200000"
+  },
+  {
+   "cod": "1862",
+   "nome": "No Município de Capela - SE",
+   "emp": "700000"
+  },
+  {
+   "cod": "0402",
+   "nome": "No Município de Macapá - AP",
+   "emp": "199900"
+  },
+  {
+   "cod": "9172",
+   "nome": "Aquisição de equipamentos (Associação Assistencial à Saúde São Daniel Comboni) - Cacoal - RO",
+   "emp": "2000000"
+  },
+  {
+   "cod": "2058",
+   "nome": "No Município de Firmino Alves - BA",
+   "emp": "400000"
+  },
+  {
+   "cod": "0274",
+   "nome": "No Município de Bragança - PA",
+   "emp": "0"
+  },
+  {
+   "cod": "0386",
+   "nome": "No Município de Tucumã - PA",
+   "emp": "1000000"
+  },
+  {
+   "cod": "4527",
+   "nome": "No Município de Ipuaçu - SC",
+   "emp": "300000"
+  },
+  {
+   "cod": "3644",
+   "nome": "No Município de Jaci - SP",
+   "emp": "600000"
+  },
+  {
+   "cod": "4642",
+   "nome": "No Município de Santa Terezinha do Progresso - SC",
+   "emp": "250000"
+  },
+  {
+   "cod": "1962",
+   "nome": "No Município de Barra do Mendes - BA",
+   "emp": "499940"
+  },
+  {
+   "cod": "0010",
+   "nome": "Na Região Norte",
+   "emp": "17690721"
+  },
+  {
+   "cod": "2387",
+   "nome": "No Município de Arceburgo - MG",
+   "emp": "150000"
+  },
+  {
+   "cod": "3251",
+   "nome": "No Município de Pinheiros - ES",
+   "emp": "1346000"
+  },
+  {
+   "cod": "3582",
+   "nome": "No Município de Holambra - SP",
+   "emp": "200000"
+  },
+  {
+   "cod": "5630",
+   "nome": "No Município de Santo Antônio do Descoberto - GO",
+   "emp": "800000"
+  },
+  {
+   "cod": "0156",
+   "nome": "No Município de Capixaba - AC",
+   "emp": "250000"
+  },
+  {
+   "cod": "1036",
+   "nome": "No Município de Choró - CE",
+   "emp": "1500000"
+  },
+  {
+   "cod": "1183",
+   "nome": "No Município de Apodi - RN",
+   "emp": "200000"
+  },
+  {
+   "cod": "0211",
+   "nome": "No Município de Manaus - AM",
+   "emp": "10988857"
+  },
+  {
+   "cod": "3487",
+   "nome": "No Município de Carapicuíba - SP",
+   "emp": "12695144"
+  },
+  {
+   "cod": "3236",
+   "nome": "No Município de João Neiva - ES",
+   "emp": "800000"
+  },
+  {
+   "cod": "5223",
+   "nome": "No Município de Coronel Sapucaia - MS",
+   "emp": "908828"
+  },
+  {
+   "cod": "5436",
+   "nome": "No Município de Aparecida de Goiânia - GO",
+   "emp": "1000000"
+  },
+  {
+   "cod": "7376",
+   "nome": "Liga Norte Riograndense Contra o Câncer (Unidades de Saúde) - Natal - RN",
+   "emp": "100000"
+  },
+  {
+   "cod": "5247",
+   "nome": "No Município de Maracaju - MS",
+   "emp": "1750000"
+  },
+  {
+   "cod": "0676",
+   "nome": "No Município de Olho d'Água das Cunhãs - MA",
+   "emp": "0"
+  },
+  {
+   "cod": "2300",
+   "nome": "No Município de Serrinha - BA",
+   "emp": "1399845"
+  },
+  {
+   "cod": "5206",
+   "nome": "No Município de Aparecida do Taboado - MS",
+   "emp": "250000"
+  },
+  {
+   "cod": "1068",
+   "nome": "No Município de Ipaporanga - CE",
+   "emp": "200000"
+  },
+  {
+   "cod": "9282",
+   "nome": "Aquisição de equipamentos - No Estado de São Paulo",
+   "emp": "0"
+  },
+  {
+   "cod": "0493",
+   "nome": "No Município de Nova Rosalândia - TO",
+   "emp": "250000"
+  },
+  {
+   "cod": "1150",
+   "nome": "No Município de São Benedito - CE",
+   "emp": "3100000"
+  },
+  {
+   "cod": "4535",
+   "nome": "No Município de Itajaí - SC",
+   "emp": "1200000"
+  },
+  {
+   "cod": "2954",
+   "nome": "No Município de Porto Firme - MG",
+   "emp": "600000"
+  },
+  {
+   "cod": "5537",
+   "nome": "No Município de Itapirapuã - GO",
+   "emp": "250000"
+  },
+  {
+   "cod": "7370",
+   "nome": "Fundação Napoleão Laureano (Hospital Napoleão Laureano) - No Município de João Pessoa - PB",
+   "emp": "1000000"
+  },
+  {
+   "cod": "0569",
+   "nome": "No Município de Bacabeira - MA",
+   "emp": "2069000"
+  },
+  {
+   "cod": "3668",
+   "nome": "No Município de Lençóis Paulista - SP",
+   "emp": "750000"
+  },
+  {
+   "cod": "1714",
+   "nome": "No Município de São João - PE",
+   "emp": "398936"
+  },
+  {
+   "cod": "0050",
+   "nome": "Na Região Centro-Oeste",
+   "emp": "11390306"
+  },
+  {
+   "cod": "2197",
+   "nome": "No Município de Nazaré - BA",
+   "emp": "400000"
+  },
+  {
+   "cod": "4723",
+   "nome": "No Município de Arroio do Meio - RS",
+   "emp": "250000"
+  },
+  {
+   "cod": "3987",
+   "nome": "No Município de Ubatuba - SP",
+   "emp": "0"
+  },
+  {
+   "cod": "5101",
+   "nome": "No Município de São Lourenço do Sul - RS",
+   "emp": "250000"
+  },
+  {
+   "cod": "5497",
+   "nome": "No Município de Doverlândia - GO",
+   "emp": "500000"
+  },
+  {
+   "cod": "0275",
+   "nome": "No Município de Brasil Novo - PA",
+   "emp": "1400000"
+  },
+  {
+   "cod": "9076",
+   "nome": "Hospital Materno Infantil - Marabá - PA",
+   "emp": "0"
+  },
+  {
+   "cod": "2414",
+   "nome": "No Município de Betim - MG",
+   "emp": "1700000"
+  },
+  {
+   "cod": "1619",
+   "nome": "No Município de Custódia - PE",
+   "emp": "436000"
+  },
+  {
+   "cod": "1212",
+   "nome": "No Município de Espírito Santo - RN",
+   "emp": "100000"
+  },
+  {
+   "cod": "0694",
+   "nome": "No Município de Pirapemas - MA",
+   "emp": "800000"
+  },
+  {
+   "cod": "1139",
+   "nome": "No Município de Quixelô - CE",
+   "emp": "1000000"
+  },
+  {
+   "cod": "1056",
+   "nome": "No Município de Guaiúba - CE",
+   "emp": "500000"
+  },
+  {
+   "cod": "3689",
+   "nome": "No Município de Maracaí - SP",
+   "emp": "500000"
+  },
+  {
+   "cod": "0533",
+   "nome": "No Município de São Salvador do Tocantins - TO",
+   "emp": "148795"
+  },
+  {
+   "cod": "2528",
+   "nome": "No Município de Comendador Gomes - MG",
+   "emp": "99974"
+  },
+  {
+   "cod": "9202",
+   "nome": "Associação Pestalozzi de São Sebastião - No Estado de Alagoas",
+   "emp": "0"
+  },
+  {
+   "cod": "7432",
+   "nome": "Aquisição de Unidades Móveis de Saúde - No Estado do Rio de Janeiro",
+   "emp": "799910"
+  },
+  {
+   "cod": "7000",
+   "nome": "Conjunto Articulado de Obras de Melhorias Habitacionais para Controle da Doença de Chagas (Consórcio Publico de Desenvolvimento Sustentável do Médio Piranhas – CODEMP) - No Estado da Paraíba",
+   "emp": "0"
+  },
+  {
+   "cod": "5599",
+   "nome": "No Município de Pilar de Goiás - GO",
+   "emp": "150000"
+  },
+  {
+   "cod": "7428",
+   "nome": "Beneficência Portuguesa (Real e Benemérita Associação Portuguesa de Beneficência) - No Estado de São Paulo",
+   "emp": "313000"
+  },
+  {
+   "cod": "3692",
+   "nome": "No Município de Marília - SP",
+   "emp": "1452129"
+  },
+  {
+   "cod": "5570",
+   "nome": "No Município de Mozarlândia - GO",
+   "emp": "200000"
+  },
+  {
+   "cod": "0334",
+   "nome": "No Município de Ourém - PA",
+   "emp": "249970"
+  },
+  {
+   "cod": "4101",
+   "nome": "No Município de Cruzeiro do Sul - PR",
+   "emp": "0"
+  },
+  {
+   "cod": "5554",
+   "nome": "No Município de Mambaí - GO",
+   "emp": "200000"
+  },
+  {
+   "cod": "4210",
+   "nome": "No Município de Manfrinópolis - PR",
+   "emp": "440002"
+  },
+  {
+   "cod": "5373",
+   "nome": "No Município de Porto Esperidião - MT",
+   "emp": "207018"
+  },
+  {
+   "cod": "0020",
+   "nome": "Na Região Nordeste",
+   "emp": "2377134"
+  },
+  {
+   "cod": "0212",
+   "nome": "No Município de Manicoré - AM",
+   "emp": "0"
+  },
+  {
+   "cod": "1525",
+   "nome": "No Município de São José da Lagoa Tapada - PB",
+   "emp": "500000"
+  },
+  {
+   "cod": "0116",
+   "nome": "No Município de Porto Velho - RO",
+   "emp": "3765647"
+  },
+  {
+   "cod": "3181",
+   "nome": "No Município de Verdelândia - MG",
+   "emp": "0"
+  },
+  {
+   "cod": "0395",
+   "nome": "No Município de Amapá - AP",
+   "emp": "967137"
+  },
+  {
+   "cod": "2295",
+   "nome": "No Município de Senhor do Bonfim - BA",
+   "emp": "142400"
+  },
+  {
+   "cod": "1608",
+   "nome": "No Município de Caruaru - PE",
+   "emp": "6000000"
+  },
+  {
+   "cod": "1812",
+   "nome": "No Município de Olivença - AL",
+   "emp": "500000"
+  },
+  {
+   "cod": "1944",
+   "nome": "No Município de Antas - BA",
+   "emp": "700000"
+  },
+  {
+   "cod": "1800",
+   "nome": "No Município de Maribondo - AL",
+   "emp": "400000"
+  },
+  {
+   "cod": "2252",
+   "nome": "No Município de Ribeira do Pombal - BA",
+   "emp": "2000000"
+  },
+  {
+   "cod": "3578",
+   "nome": "No Município de Guarulhos - SP",
+   "emp": "3819998"
+  },
+  {
+   "cod": "1573",
+   "nome": "No Município de Amaraji - PE",
+   "emp": "500000"
+  },
+  {
+   "cod": "3910",
+   "nome": "No Município de São Bernardo do Campo - SP",
+   "emp": "399350"
+  },
+  {
+   "cod": "0134",
+   "nome": "No Município de Cujubim - RO",
+   "emp": "0"
+  },
+  {
+   "cod": "0753",
+   "nome": "No Município de Trizidela do Vale - MA",
+   "emp": "2643000"
+  },
+  {
+   "cod": "1171",
+   "nome": "No Município de Varjota - CE",
+   "emp": "500000"
+  },
+  {
+   "cod": "0136",
+   "nome": "No Município de Itapuã do Oeste - RO",
+   "emp": "300000"
+  },
+  {
+   "cod": "1087",
+   "nome": "No Município de Jijoca de Jericoacoara - CE",
+   "emp": "1000000"
+  },
+  {
+   "cod": "9054",
+   "nome": "Aquisição de Equipamentos e Material Permanente (Instituto de Ciências Médicas Paulo Marcelo Martins) - Fortaleza - CE",
+   "emp": "0"
+  },
+  {
+   "cod": "0313",
+   "nome": "No Município de Limoeiro do Ajuru - PA",
+   "emp": "272460"
+  },
+  {
+   "cod": "5631",
+   "nome": "No Município de São Domingos - GO",
+   "emp": "250000"
+  },
+  {
+   "cod": "3300",
+   "nome": "No Município de Guapimirim - RJ",
+   "emp": "2450000"
+  },
+  {
+   "cod": "0415",
+   "nome": "No Município de Ananás - TO",
+   "emp": "299190"
+  },
+  {
+   "cod": "4442",
+   "nome": "No Município de Bela Vista do Toldo - SC",
+   "emp": "200000"
+  },
+  {
+   "cod": "6509",
+   "nome": "No Município do Rio de Janeiro - RJ (Hospital Geral de Ipanema)",
+   "emp": "78017590"
+  },
+  {
+   "cod": "2247",
+   "nome": "No Município de Retirolândia - BA",
+   "emp": "300000"
+  },
+  {
+   "cod": "0177",
+   "nome": "No Município de Anori - AM",
+   "emp": "0"
+  },
+  {
+   "cod": "3334",
+   "nome": "No Município de Queimados - RJ",
+   "emp": "2250000"
+  },
+  {
+   "cod": "0223",
+   "nome": "No Município de Santa Isabel do Rio Negro - AM",
+   "emp": "320000"
+  },
+  {
+   "cod": "3879",
+   "nome": "No Município de Santa Bárbara d'Oeste - SP",
+   "emp": "150000"
+  },
+  {
+   "cod": "3782",
+   "nome": "No Município de Pedregulho - SP",
+   "emp": "0"
+  },
+  {
+   "cod": "2555",
+   "nome": "No Município de Coronel Fabriciano - MG",
+   "emp": "1500000"
+  },
+  {
+   "cod": "4454",
+   "nome": "No Município de Braço do Norte - SC",
+   "emp": "984790"
+  },
+  {
+   "cod": "1916",
+   "nome": "No Município de São Cristóvão - SE",
+   "emp": "500000"
+  },
+  {
+   "cod": "9218",
+   "nome": "Sociedade Beneficente do Hospital Nossa Senhora Auxiliadora (Hospital Nossa Senhora Auxiliadora) - Três Lagoas - MS",
+   "emp": "1000000"
+  },
+  {
+   "cod": "1157",
+   "nome": "No Município de Solonópole - CE",
+   "emp": "516932"
+  },
+  {
+   "cod": "0453",
+   "nome": "No Município de Darcinópolis - TO",
+   "emp": "250000"
+  },
+  {
+   "cod": "3951",
+   "nome": "No Município de Suzanápolis - SP",
+   "emp": "200000"
+  },
+  {
+   "cod": "4615",
+   "nome": "No Município de Praia Grande - SC",
+   "emp": "750000"
+  },
+  {
+   "cod": "7024",
+   "nome": "Cooperação com o Exército Brasileiro - Hospital de Guarnição - São Gabriel da Cachoeira - AM",
+   "emp": "336649"
+  },
+  {
+   "cod": "1799",
+   "nome": "No Município de Marechal Deodoro - AL",
+   "emp": "1500000"
+  },
+  {
+   "cod": "0195",
+   "nome": "No Município de Eirunepé - AM",
+   "emp": "1500000"
+  },
+  {
+   "cod": "3775",
+   "nome": "No Município de Paulicéia - SP",
+   "emp": "0"
+  },
+  {
+   "cod": "2341",
+   "nome": "No Município de Wenceslau Guimarães - BA",
+   "emp": "1000000"
+  },
+  {
+   "cod": "2554",
+   "nome": "No Município de Coromandel - MG",
+   "emp": "200774"
+  },
+  {
+   "cod": "5483",
+   "nome": "No Município de Cocalzinho de Goiás - GO",
+   "emp": "200000"
+  },
+  {
+   "cod": "5401",
+   "nome": "No Município de Sinop - MT",
+   "emp": "0"
+  },
+  {
+   "cod": "5445",
+   "nome": "No Município de Aurilândia - GO",
+   "emp": "250000"
+  },
+  {
+   "cod": "1476",
+   "nome": "No Município de Patos - PB",
+   "emp": "700000"
+  },
+  {
+   "cod": "0026",
+   "nome": "No Estado de Pernambuco",
+   "emp": "3668575652"
+  },
+  {
+   "cod": "5002",
+   "nome": "No Município de Paraíso do Sul - RS",
+   "emp": "99992"
+  },
+  {
+   "cod": "1009",
+   "nome": "No Município de Aurora - CE",
+   "emp": "963000"
+  },
+  {
+   "cod": "0204",
+   "nome": "No Município de Itapiranga - AM",
+   "emp": "300000"
+  },
+  {
+   "cod": "5202",
+   "nome": "No Município de Anastácio - MS",
+   "emp": "1000000"
+  },
+  {
+   "cod": "2073",
+   "nome": "No Município de Ibicaraí - BA",
+   "emp": "1967292"
+  },
+  {
+   "cod": "1757",
+   "nome": "No Município de Belo Monte - AL",
+   "emp": "520774"
+  },
+  {
+   "cod": "1137",
+   "nome": "No Município de Quiterianópolis - CE",
+   "emp": "2611171"
+  },
+  {
+   "cod": "5314",
+   "nome": "No Município de Cuiabá - MT",
+   "emp": "6592945"
+  },
+  {
+   "cod": "3216",
+   "nome": "No Município de Conceição do Castelo - ES",
+   "emp": "1525130"
+  },
+  {
+   "cod": "4059",
+   "nome": "No Município de Cafezal do Sul - PR",
+   "emp": "61886"
+  },
+  {
+   "cod": "0262",
+   "nome": "No Município de Augusto Corrêa - PA",
+   "emp": "2250000"
+  },
+  {
+   "cod": "0102",
+   "nome": "No Município de Cabixi - RO",
+   "emp": "0"
+  },
+  {
+   "cod": "0125",
+   "nome": "No Município de Alto Alegre dos Parecis - RO",
+   "emp": "0"
+  },
+  {
+   "cod": "4194",
+   "nome": "No Município de Laranjal - PR",
+   "emp": "0"
+  },
+  {
+   "cod": "9056",
+   "nome": "Hospital Metropolitano - Macapá - AP",
+   "emp": "16999585"
+  },
+  {
+   "cod": "3632",
+   "nome": "No Município de Itariri - SP",
+   "emp": "196440"
+  },
+  {
+   "cod": "9108",
+   "nome": "Aquisição de Equipamentos para Hospital Municipal - Andrelândia - MG",
+   "emp": "399890"
+  },
+  {
+   "cod": "5649",
+   "nome": "No Município de Três Ranchos - GO",
+   "emp": "200000"
+  },
+  {
+   "cod": "5561",
+   "nome": "No Município de Mineiros - GO",
+   "emp": "1950000"
+  },
+  {
+   "cod": "4950",
+   "nome": "No Município de Marques de Souza - RS",
+   "emp": "300000"
+  },
+  {
+   "cod": "1600",
+   "nome": "No Município de Camaragibe - PE",
+   "emp": "100000"
+  },
+  {
+   "cod": "0104",
+   "nome": "No Município de Cerejeiras - RO",
+   "emp": "898441"
+  },
+  {
+   "cod": "1380",
+   "nome": "No Município de Caaporã - PB",
+   "emp": "663000"
+  },
+  {
+   "cod": "4584",
+   "nome": "No Município de Orleans - SC",
+   "emp": "600000"
+  },
+  {
+   "cod": "1094",
+   "nome": "No Município de Maranguape - CE",
+   "emp": "4863921"
+  },
+  {
+   "cod": "0123",
+   "nome": "No Município de Nova Mamoré - RO",
+   "emp": "300000"
+  },
+  {
+   "cod": "0658",
+   "nome": "No Município de Maracaçumé - MA",
+   "emp": "1947934"
+  },
+  {
+   "cod": "1715",
+   "nome": "No Município de São Joaquim do Monte - PE",
+   "emp": "300000"
+  },
+  {
+   "cod": "9028",
+   "nome": "Aquisição de Equipamentos - Irmandade da Santa Casa de Misericórdia - Porto Alegre - RS",
+   "emp": "500000"
+  },
+  {
+   "cod": "1612",
+   "nome": "No Município de Chã de Alegria - PE",
+   "emp": "400000"
+  },
+  {
+   "cod": "3306",
+   "nome": "No Município de Itaperuna - RJ",
+   "emp": "1095290"
+  },
+  {
+   "cod": "0730",
+   "nome": "No Município de São João do Soter - MA",
+   "emp": "150000"
+  },
+  {
+   "cod": "3344",
+   "nome": "No Município de São Francisco de Itabapoana - RJ",
+   "emp": "200000"
+  },
+  {
+   "cod": "5587",
+   "nome": "No Município de Ouro Verde de Goiás - GO",
+   "emp": "150000"
+  },
+  {
+   "cod": "3304",
+   "nome": "No Município de Italva - RJ",
+   "emp": "1000000"
+  },
+  {
+   "cod": "1518",
+   "nome": "No Município de São Bento - PB",
+   "emp": "1451371"
+  },
+  {
+   "cod": "3290",
+   "nome": "No Município de Campos dos Goytacazes - RJ",
+   "emp": "8000050"
+  },
+  {
+   "cod": "4487",
+   "nome": "No Município de Curitibanos - SC",
+   "emp": "250000"
+  },
+  {
+   "cod": "2408",
+   "nome": "No Município de Belo Horizonte - MG",
+   "emp": "1845625"
+  },
+  {
+   "cod": "4411",
+   "nome": "No Município de Abelardo Luz - SC",
+   "emp": "300000"
+  },
+  {
+   "cod": "3211",
+   "nome": "No Município de Cachoeiro de Itapemirim - ES",
+   "emp": "2924474"
+  },
+  {
+   "cod": "0229",
+   "nome": "No Município de Tabatinga - AM",
+   "emp": "600000"
+  },
+  {
+   "cod": "3742",
+   "nome": "No Município de Nova Luzitânia - SP",
+   "emp": "0"
+  },
+  {
+   "cod": "5433",
+   "nome": "No Município de Anápolis - GO",
+   "emp": "1649950"
+  },
+  {
+   "cod": "0721",
+   "nome": "No Município de São Bernardo - MA",
+   "emp": "154039"
+  },
+  {
+   "cod": "0543",
+   "nome": "No Município de Tocantínia - TO",
+   "emp": "0"
+  },
+  {
+   "cod": "4087",
+   "nome": "No Município de Cidade Gaúcha - PR",
+   "emp": "440000"
+  },
+  {
+   "cod": "0174",
+   "nome": "No Município de Alvarães - AM",
+   "emp": "500000"
+  },
+  {
+   "cod": "5183",
+   "nome": "No Município de Veranópolis - RS",
+   "emp": "200000"
+  },
+  {
+   "cod": "3924",
+   "nome": "No Município de São Lourenço da Serra - SP",
+   "emp": "197663"
+  },
+  {
+   "cod": "4395",
+   "nome": "No Município de Turvo - PR",
+   "emp": "300000"
+  },
+  {
+   "cod": "8774",
+   "nome": "Associação Beneficente Jesus, José e Maria (Hospital e Maternidade Jesus, José e Maria) - Guarulhos - SP",
+   "emp": "200000"
+  },
+  {
+   "cod": "0419",
+   "nome": "No Município de Araguacema - TO",
+   "emp": "300000"
+  },
+  {
+   "cod": "2119",
+   "nome": "No Município de Itapetinga - BA",
+   "emp": "500000"
+  },
+  {
+   "cod": "0834",
+   "nome": "No Município de Currais - PI",
+   "emp": "500000"
+  },
+  {
+   "cod": "0437",
+   "nome": "No Município de Buriti do Tocantins - TO",
+   "emp": "400000"
+  },
+  {
+   "cod": "5370",
+   "nome": "No Município de Pontes e Lacerda - MT",
+   "emp": "610387"
+  },
+  {
+   "cod": "4380",
+   "nome": "No Município de Tapejara - PR",
+   "emp": "1200000"
+  },
+  {
+   "cod": "3313",
+   "nome": "No Município de Mangaratiba - RJ",
+   "emp": "1420774"
+  },
+  {
+   "cod": "2335",
+   "nome": "No Município de Varzedo - BA",
+   "emp": "228976"
+  },
+  {
+   "cod": "2273",
+   "nome": "No Município de Santa Teresinha - BA",
+   "emp": "426102"
+  },
+  {
+   "cod": "7564",
+   "nome": "Hospital Infantil Pequeno Príncipe - No Município de Curitiba - PR",
+   "emp": "294000"
+  },
+  {
+   "cod": "3365",
+   "nome": "No Município de Volta Redonda - RJ",
+   "emp": "783750"
+  },
+  {
+   "cod": "5146",
+   "nome": "No Município de Tavares - RS",
+   "emp": "232268"
+  },
+  {
+   "cod": "0278",
+   "nome": "No Município de Breves - PA",
+   "emp": "5317587"
+  },
+  {
+   "cod": "4066",
+   "nome": "No Município de Campina Grande do Sul - PR",
+   "emp": "0"
+  },
+  {
+   "cod": "1081",
+   "nome": "No Município de Jaguaretama - CE",
+   "emp": "620000"
+  },
+  {
+   "cod": "1120",
+   "nome": "No Município de Palhano - CE",
+   "emp": "0"
+  },
+  {
+   "cod": "1495",
+   "nome": "No Município de Queimadas - PB",
+   "emp": "2000000"
+  },
+  {
+   "cod": "9130",
+   "nome": "Associação de Pais e Amigos Excepcionais (APAE) - Barroso - MG",
+   "emp": "200000"
+  },
+  {
+   "cod": "3686",
+   "nome": "No Município de Mairiporã - SP",
+   "emp": "300000"
+  },
+  {
+   "cod": "0575",
+   "nome": "No Município de Barreirinhas - MA",
+   "emp": "2699770"
+  },
+  {
+   "cod": "5594",
+   "nome": "No Município de Panamá - GO",
+   "emp": "150000"
+  },
+  {
+   "cod": "3789",
+   "nome": "No Município de Peruíbe - SP",
+   "emp": "1100000"
+  },
+  {
+   "cod": "4039",
+   "nome": "No Município de Bandeirantes - PR",
+   "emp": "700000"
+  },
+  {
+   "cod": "2779",
+   "nome": "No Município de Lavras - MG",
+   "emp": "10000000"
+  },
+  {
+   "cod": "0200",
+   "nome": "No Município de Ipixuna - AM",
+   "emp": "300000"
+  },
+  {
+   "cod": "2185",
+   "nome": "No Município de Monte Santo - BA",
+   "emp": "250000"
+  },
+  {
+   "cod": "3373",
+   "nome": "No Município de Agudos - SP",
+   "emp": "1000000"
+  },
+  {
+   "cod": "3515",
+   "nome": "No Município de Cubatão - SP",
+   "emp": "1500000"
+  },
+  {
+   "cod": "3263",
+   "nome": "No Município de São Mateus - ES",
+   "emp": "405000"
+  }
+ ]
+}

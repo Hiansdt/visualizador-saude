@@ -1,0 +1,331 @@
+[
+ {
+  "proc": "010.929/2000-1",
+  "acordao": "ACÓRDÃO 704/2001 ATA 41/2001 - PRIMEIRA CÂMARA",
+  "data_sessao": "13/11/2001",
+  "entidade": "Entidade: Município de Janaúba/MG",
+  "uf": "MG",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    130053.6,
+    1995
+   ]
+  ]
+ },
+ {
+  "proc": "015.195/2000-6",
+  "acordao": "ACÓRDÃO 685/2001 ATA 40/2001 - PRIMEIRA CÂMARA",
+  "data_sessao": "06/11/2001",
+  "entidade": "Entidade: Município de Bandeira/MG",
+  "uf": "MG",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    16553.16,
+    1996
+   ]
+  ]
+ },
+ {
+  "proc": "017.514/2000-9",
+  "acordao": "ACÓRDÃO 636/2001 ATA 40/2001 - SEGUNDA CÂMARA",
+  "data_sessao": "30/10/2001",
+  "entidade": "Prefeitura Municipal de Araguacema/TO",
+  "uf": "TO",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    210663.22,
+    1994
+   ],
+   [
+    482.94,
+    1994
+   ],
+   [
+    962.58,
+    1994
+   ],
+   [
+    396.29,
+    1994
+   ],
+   [
+    468.17,
+    1995
+   ]
+  ]
+ },
+ {
+  "proc": "524.016/1995-0",
+  "acordao": "ACÓRDÃO 626/2001 ATA 39/2001 - SEGUNDA CÂMARA",
+  "data_sessao": "25/10/2001",
+  "entidade": "Prefeitura Municipal de Abreu e Lima/PE",
+  "uf": "PE",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "700.411/1995-0",
+  "acordao": "ACÓRDÃO 623/2001 ATA 39/2001 - SEGUNDA CÂMARA",
+  "data_sessao": "25/10/2001",
+  "entidade": "Instituto Nacional de Assistência Médica da Previdência Social - INAMPS",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "013.049/2000-9",
+  "acordao": "ACÓRDÃO 609/2001 ATA 34/2001 - PRIMEIRA CÂMARA",
+  "data_sessao": "25/09/2001",
+  "entidade": "Unidade: Prefeitura Municipal de Jussara/GO",
+  "uf": "GO",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "017.512/2000-4",
+  "acordao": "ACÓRDÃO 534/2001 ATA 33/2001 - SEGUNDA CÂMARA",
+  "data_sessao": "13/09/2001",
+  "entidade": "Prefeitura Municipal de Colinas do Tocantins/TO",
+  "uf": "TO",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "013.721/2000-6",
+  "acordao": "ACÓRDÃO 562/2001 ATA 31/2001 - PRIMEIRA CÂMARA",
+  "data_sessao": "04/09/2001",
+  "entidade": "Unidade: Prefeitura Municipal de Baião-PA",
+  "uf": "PA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "017.504/2000-2",
+  "acordao": "ACÓRDÃO 487/2001 ATA 31/2001 - SEGUNDA CÂMARA",
+  "data_sessao": "30/08/2001",
+  "entidade": "Clínica São Sebastião (Tocantins)",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": []
+ },
+ {
+  "proc": "017.266/2000-9",
+  "acordao": "ACÓRDÃO 486/2001 ATA 31/2001 - SEGUNDA CÂMARA",
+  "data_sessao": "30/08/2001",
+  "entidade": "Hospital e Maternidade São Luiz de Itacajá/TO",
+  "uf": "TO",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "016.922/2000-8",
+  "acordao": "ACÓRDÃO 477/2001 ATA 27/2001 - PRIMEIRA CÂMARA",
+  "data_sessao": "07/08/2001",
+  "entidade": "Entidade: Maternidade Josefa Costa Cavalcante",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    1562939.82,
+    1994
+   ]
+  ]
+ },
+ {
+  "proc": "015.416/2000-9",
+  "acordao": "ACÓRDÃO 405/2001 ATA 22/2001 - PRIMEIRA CÂMARA",
+  "data_sessao": "03/07/2001",
+  "entidade": "Entidade: Município de São Sebastião do Maranhão/MG",
+  "uf": "MG",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "375.058/1997-4",
+  "acordao": "ACÓRDÃO 373/2001 ATA 22/2001 - SEGUNDA CÂMARA",
+  "data_sessao": "28/06/2001",
+  "entidade": "Entidade: Prefeitura Municipal de Carangola/MG",
+  "uf": "MG",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    600000.0,
+    1988
+   ]
+  ]
+ },
+ {
+  "proc": "014.374/2000-2",
+  "acordao": "ACÓRDÃO 370/2001 ATA 22/2001 - SEGUNDA CÂMARA",
+  "data_sessao": "28/06/2001",
+  "entidade": "Entidade: Prefeitura Municipal de Craíbas/AL",
+  "uf": "AL",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "015.124/2000-4",
+  "acordao": "ACÓRDÃO 371/2001 ATA 22/2001 - SEGUNDA CÂMARA",
+  "data_sessao": "28/06/2001",
+  "entidade": "Entidade: Prefeitura Municipal de Almas/TO",
+  "uf": "TO",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "500.248/1997-4",
+  "acordao": "ACÓRDÃO 354/2001 ATA 21/2001 - SEGUNDA CÂMARA",
+  "data_sessao": "21/06/2001",
+  "entidade": "Entidade: Prefeitura Municipal de Pombos/PE",
+  "uf": "PE",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "015.120/2000-5",
+  "acordao": "ACÓRDÃO 312/2001 ATA 18/2001 - SEGUNDA CÂMARA",
+  "data_sessao": "24/05/2001",
+  "entidade": "Entidade: Prefeitura Municipal de Nova Olinda-TO",
+  "uf": "TO",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "015.150/2000-4",
+  "acordao": "ACÓRDÃO 291/2001 ATA 17/2001 - SEGUNDA CÂMARA",
+  "data_sessao": "17/05/2001",
+  "entidade": "Entidade: Prefeitura Municipal de Santa Fé do Araguaia/TO",
+  "uf": "TO",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "016.906/2000-4",
+  "acordao": "ACÓRDÃO 288/2001 ATA 14/2001 - PRIMEIRA CÂMARA",
+  "data_sessao": "08/05/2001",
+  "entidade": "Unidade: Prefeitura Municipal de Curionópolis - PA",
+  "uf": "PA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    50000.0,
+    1995
+   ]
+  ]
+ },
+ {
+  "proc": "008.939/1999-3",
+  "acordao": "ACÓRDÃO 245/2001 ATA 14/2001 - SEGUNDA CÂMARA",
+  "data_sessao": "26/04/2001",
+  "entidade": "Entidade: Prefeitura Municipal de São João do Rio do Peixe/PB",
+  "uf": "PB",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    108000.0,
+    1996
+   ]
+  ]
+ },
+ {
+  "proc": "012.227/1999-4",
+  "acordao": "ACÓRDÃO 263/2001 ATA 13/2001 - PRIMEIRA CÂMARA",
+  "data_sessao": "24/04/2001",
+  "entidade": "Unidade: Prefeitura Municipal de Maracanã - PA",
+  "uf": "PA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "750.206/1997-7",
+  "acordao": "ACÓRDÃO 221/2001 ATA 13/2001 - SEGUNDA CÂMARA",
+  "data_sessao": "19/04/2001",
+  "entidade": "Entidade: Secretaria de Estado da Saúde/RO",
+  "uf": "RO",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "250.563/1997-5",
+  "acordao": "ACÓRDÃO 215/2001 ATA 10/2001 - PRIMEIRA CÂMARA",
+  "data_sessao": "03/04/2001",
+  "entidade": "Órgão de Origem: Prefeitura Municipal de Santo Estêvão/BA",
+  "uf": "BA",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    9242400.0,
+    1990
+   ],
+   [
+    30000000.0,
+    1991
+   ],
+   [
+    30000000.0,
+    1991
+   ]
+  ]
+ },
+ {
+  "proc": "014.724/2000-2",
+  "acordao": "ACÓRDÃO 175/2001 ATA 10/2001 - SEGUNDA CÂMARA",
+  "data_sessao": "22/03/2001",
+  "entidade": "Entidade: Município de São Mateus do Maranhão",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "575.031/1996-4",
+  "acordao": "ACÓRDÃO 45/2001 ATA 09/2001 - PLENÁRIO",
+  "data_sessao": "21/03/2001",
+  "entidade": "Entidade: Posto Aconchego do Velho Ltda/RJ e Fundação Nacional de Saúde/RJ",
+  "uf": "RJ",
+  "origem": "Funasa",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": []
+ },
+ {
+  "proc": "675.122/1998-8",
+  "acordao": "ACÓRDÃO 65/2001 ATA 06/2001 - SEGUNDA CÂMARA",
+  "data_sessao": "22/02/2001",
+  "entidade": "Entidade: Prefeitura Municipal de Tobias Barreto - SE",
+  "uf": "SE",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    12375000.0,
+    1994
+   ]
+  ]
+ }
+]

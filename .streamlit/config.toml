@@ -1,0 +1,9 @@
+[theme]
+# Claro fixo: projetor + paleta validada para fundo claro. O tema escuro de
+# saude_br/ui/theme.py entra sozinho se esta linha for removida.
+base = "light"
+# Azul da paleta (slot 1); o vermelho padrão do Streamlit lê como "queda".
+primaryColor = "#2a78d6"
+
+[server]
+headless = true

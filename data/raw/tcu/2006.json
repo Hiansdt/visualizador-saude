@@ -1,0 +1,1816 @@
+[
+ {
+  "proc": "020.520/2004-0",
+  "acordao": "ACÓRDÃO 3566/2006 ATA 45/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "05/12/2006",
+  "entidade": "Unidade: Secretaria de Saúde do Estado de Tocantins",
+  "uf": null,
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    4488250000.0,
+    1993
+   ]
+  ]
+ },
+ {
+  "proc": "005.190/2006-5",
+  "acordao": "ACÓRDÃO 3547/2006 ATA 45/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "05/12/2006",
+  "entidade": "Órgão: Prefeitura Municipal de Buriti Alegre/GO",
+  "uf": "GO",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    18216.0,
+    1999
+   ]
+  ]
+ },
+ {
+  "proc": "019.158/2005-1",
+  "acordao": "ACÓRDÃO 3562/2006 ATA 45/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "05/12/2006",
+  "entidade": "Entidade: Município de Pedro Velho/RN",
+  "uf": "RN",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    6156000.0,
+    1994
+   ],
+   [
+    4128550.0,
+    1994
+   ]
+  ]
+ },
+ {
+  "proc": "013.974/2004-3",
+  "acordao": "ACÓRDÃO 3518/2006 ATA 45/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "05/12/2006",
+  "entidade": "Entidade: Município de Careiro/AM",
+  "uf": "AM",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    27966.0,
+    1996
+   ]
+  ]
+ },
+ {
+  "proc": "011.762/2004-2",
+  "acordao": "ACÓRDÃO 3340/2006 ATA 43/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "21/11/2006",
+  "entidade": "Unidade: Prefeitura Municipal de Riversul (SP)",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": []
+ },
+ {
+  "proc": "012.270/2004-1",
+  "acordao": "ACÓRDÃO 3329/2006 ATA 43/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "21/11/2006",
+  "entidade": "Entidade: Prefeitura Municipal de Touros/RN",
+  "uf": "RN",
+  "origem": "Funasa",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": [
+   [
+    17309.0,
+    1995
+   ],
+   [
+    -136.58,
+    1995
+   ]
+  ]
+ },
+ {
+  "proc": "006.239/2002-0",
+  "acordao": "ACÓRDÃO 2105/2006 ATA 46/2006 - PLENÁRIO",
+  "data_sessao": "14/11/2006",
+  "entidade": "Entidade: Fundação Nacional de Saúde - Escritório no Estado de Sergipe - Funasa/SE",
+  "uf": "SE",
+  "origem": "Funasa",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": []
+ },
+ {
+  "proc": "004.563/2004-9",
+  "acordao": "ACÓRDÃO 3135/2006 ATA 40/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "31/10/2006",
+  "entidade": "Entidade: Fundo Nacional de Saúde (FNS)",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": []
+ },
+ {
+  "proc": "017.215/2000-0",
+  "acordao": "ACÓRDÃO 3041/2006 ATA 40/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "31/10/2006",
+  "entidade": "Entidade: Município de São João do Meriti/RJ",
+  "uf": "RJ",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    61001.1,
+    1996
+   ]
+  ]
+ },
+ {
+  "proc": "000.386/2002-8",
+  "acordao": "ACÓRDÃO 2994/2006 ATA 39/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "24/10/2006",
+  "entidade": "Município de Godofredo Viana/MA",
+  "uf": "MA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    132724.65,
+    1995
+   ],
+   [
+    113654.02,
+    1995
+   ]
+  ]
+ },
+ {
+  "proc": "004.484/2003-5",
+  "acordao": "ACÓRDÃO 2995/2006 ATA 39/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "24/10/2006",
+  "entidade": "Município de São Sebastião do Tocantins/TO",
+  "uf": "TO",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    35000.0,
+    2000
+   ]
+  ]
+ },
+ {
+  "proc": "013.101/2004-3",
+  "acordao": "ACÓRDÃO 2936/2006 ATA 38/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "17/10/2006",
+  "entidade": "Entidade: Hospital Estadual de São Sebastião do Tocantins/TO",
+  "uf": "TO",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    1114162.25,
+    1994
+   ],
+   [
+    2671565.65,
+    1994
+   ],
+   [
+    13374399.16,
+    1994
+   ],
+   [
+    2320607.22,
+    1994
+   ],
+   [
+    5821.9,
+    1994
+   ],
+   [
+    4512.95,
+    1994
+   ],
+   [
+    1990.4,
+    1994
+   ],
+   [
+    1898.02,
+    1994
+   ],
+   [
+    1803.48,
+    1994
+   ]
+  ]
+ },
+ {
+  "proc": "003.906/2002-3",
+  "acordao": "ACÓRDÃO 2803/2006 ATA 36/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "03/10/2006",
+  "entidade": "Órgão: Prefeitura Municipal de Esperantina/PI",
+  "uf": "PI",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "016.536/2001-0",
+  "acordao": "ACÓRDÃO 2802/2006 ATA 36/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "03/10/2006",
+  "entidade": "Entidade: Fundação Nacional de Saúde - Funasa",
+  "uf": null,
+  "origem": "Funasa",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": [
+   [
+    68.72,
+    1997
+   ],
+   [
+    1133.88,
+    1997
+   ],
+   [
+    360.46,
+    1997
+   ],
+   [
+    137.44,
+    1997
+   ],
+   [
+    360.46,
+    1997
+   ],
+   [
+    82.47,
+    1997
+   ]
+  ]
+ },
+ {
+  "proc": "021.481/2003-7",
+  "acordao": "ACÓRDÃO 2751/2006 ATA 35/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "26/09/2006",
+  "entidade": "Entidade: Município de São João da Serra/PI",
+  "uf": "PI",
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": [
+   [
+    14231250.0,
+    1994
+   ]
+  ]
+ },
+ {
+  "proc": "017.104/2003-5",
+  "acordao": "ACÓRDÃO 2707/2006 ATA 35/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "26/09/2006",
+  "entidade": "Entidade: Município de Uruaçu/GO",
+  "uf": "GO",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    20018.57,
+    1998
+   ]
+  ]
+ },
+ {
+  "proc": "019.719/2004-8",
+  "acordao": "ACÓRDÃO 2753/2006 ATA 35/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "26/09/2006",
+  "entidade": "Entidade: Município de São João da Serra - PI",
+  "uf": "PI",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    29090.91,
+    1994
+   ]
+  ]
+ },
+ {
+  "proc": "011.099/2003-6",
+  "acordao": "ACÓRDÃO 2665/2006 ATA 34/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "19/09/2006",
+  "entidade": "Entidade: Secretaria de Estado da Saúde do Amapá",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": [
+   [
+    550705.26,
+    1996
+   ]
+  ]
+ },
+ {
+  "proc": "012.734/2004-2",
+  "acordao": "ACÓRDÃO 2574/2006 ATA 33/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "12/09/2006",
+  "entidade": "Entidade: Município de Cipó/BA",
+  "uf": "BA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    1000.0,
+    1998
+   ],
+   [
+    11456.3,
+    1998
+   ],
+   [
+    5000.0,
+    1999
+   ],
+   [
+    970.0,
+    2000
+   ]
+  ]
+ },
+ {
+  "proc": "013.218/2004-6",
+  "acordao": "ACÓRDÃO 2418/2006 ATA 31/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "29/08/2006",
+  "entidade": "Entidade: Município de Itapemirim/ES",
+  "uf": "ES",
+  "origem": "Funasa",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": [
+   [
+    3525.74,
+    2000
+   ],
+   [
+    620.03,
+    2001
+   ],
+   [
+    257.3,
+    2001
+   ],
+   [
+    19088.07,
+    2001
+   ],
+   [
+    590.35,
+    2001
+   ],
+   [
+    18897.32,
+    2001
+   ],
+   [
+    16292.97,
+    2001
+   ],
+   [
+    10681.44,
+    2002
+   ],
+   [
+    6405.39,
+    2002
+   ],
+   [
+    11457.12,
+    2002
+   ],
+   [
+    6272.04,
+    2002
+   ]
+  ]
+ },
+ {
+  "proc": "001.356/2001-5",
+  "acordao": "ACÓRDÃO 2414/2006 ATA 31/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "29/08/2006",
+  "entidade": "Entidade: Hospital Santa Terezinha S/C Ltda., CNPJ 75.424.713/0001-81",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    1954.48,
+    1995
+   ],
+   [
+    7373.72,
+    1995
+   ],
+   [
+    3953.38,
+    1995
+   ],
+   [
+    2462.35,
+    1995
+   ],
+   [
+    1532.49,
+    1995
+   ]
+  ]
+ },
+ {
+  "proc": "015.788/2002-0",
+  "acordao": "ACÓRDÃO 2432/2006 ATA 31/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "29/08/2006",
+  "entidade": "Entidade: Município de Macapá/AP",
+  "uf": "AP",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    27368.64,
+    1998
+   ]
+  ]
+ },
+ {
+  "proc": "020.170/2003-2",
+  "acordao": "ACÓRDÃO 2354/2006 ATA 30/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "22/08/2006",
+  "entidade": "Entidade: Município de Junco do Maranhão/MA",
+  "uf": "MA",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "015.646/2004-1",
+  "acordao": "ACÓRDÃO 2282/2006 ATA 29/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "15/08/2006",
+  "entidade": "Entidade: Fundo Nacional de Saúde/ Ministério da Saúde. Responsáveis: Sergio Tufik, CPF nº XXX.725.478-XX e Associação Fundo de Incentivo à Psicofarmacologia - AFIP/SP, CNPJ nº 47.673.793/0001-73",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": [
+   [
+    30250.0,
+    1995
+   ]
+  ]
+ },
+ {
+  "proc": "010.581/2005-0",
+  "acordao": "ACÓRDÃO 2258/2006 ATA 29/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "15/08/2006",
+  "entidade": "Entidade: Município de Carmópolis/SE",
+  "uf": "SE",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    -29489.68,
+    2000
+   ],
+   [
+    28636.5,
+    2000
+   ],
+   [
+    28636.5,
+    2000
+   ]
+  ]
+ },
+ {
+  "proc": "002.924/2003-5",
+  "acordao": "ACÓRDÃO 2281/2006 ATA 29/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "15/08/2006",
+  "entidade": "Entidade: Município de Queluz/SP",
+  "uf": "SP",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    48000.0,
+    1999
+   ]
+  ]
+ },
+ {
+  "proc": "001.068/2003-6",
+  "acordao": "ACÓRDÃO 2209/2006 ATA 28/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "08/08/2006",
+  "entidade": "Entidade: Município de Santa Terezinha do Tocantins/TO",
+  "uf": "TO",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    11340.0,
+    1998
+   ]
+  ]
+ },
+ {
+  "proc": "000.976/2003-2",
+  "acordao": "ACÓRDÃO 2197/2006 ATA 28/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "08/08/2006",
+  "entidade": "Entidade: Prefeitura Municipal de Custódia/PE",
+  "uf": "PE",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    41558.04,
+    1999
+   ],
+   [
+    300.0,
+    1999
+   ],
+   [
+    2361.61,
+    2003
+   ]
+  ]
+ },
+ {
+  "proc": "006.303/2006-5",
+  "acordao": "ACÓRDÃO 1976/2006 ATA 26/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "25/07/2006",
+  "entidade": "Unidade: Prefeitura de Batalha/AL",
+  "uf": "AL",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "014.538/2004-0",
+  "acordao": "ACÓRDÃO 1903/2006 ATA 25/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "18/07/2006",
+  "entidade": "Entidade: Município de Pedra Branca do Amapari/AP",
+  "uf": "AP",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    39000.0,
+    1998
+   ]
+  ]
+ },
+ {
+  "proc": "002.541/2004-2",
+  "acordao": "ACÓRDÃO 1889/2006 ATA 25/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "18/07/2006",
+  "entidade": "Unidade: Prefeitura de Parambú/CE",
+  "uf": "CE",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    50000.0,
+    2000
+   ],
+   [
+    100000.0,
+    2000
+   ]
+  ]
+ },
+ {
+  "proc": "015.697/2002-4",
+  "acordao": "ACÓRDÃO 1881/2006 ATA 24/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "11/07/2006",
+  "entidade": "Entidade: Prefeitura Municipal de Sampaio/TO",
+  "uf": "TO",
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": []
+ },
+ {
+  "proc": "016.134/2000-5",
+  "acordao": "ACÓRDÃO 1767/2006 ATA 23/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "04/07/2006",
+  "entidade": "Unidade: Prefeitura Municipal de São Francisco do Maranhão/MA",
+  "uf": "MA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    985.0,
+    1997
+   ]
+  ]
+ },
+ {
+  "proc": "004.499/2005-4",
+  "acordao": "ACÓRDÃO 1813/2006 ATA 23/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "04/07/2006",
+  "entidade": "Entidade: Prefeitura Municipal de Porto Alegre do Norte/MT",
+  "uf": "MT",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "004.856/2004-0",
+  "acordao": "ACÓRDÃO 1773/2006 ATA 23/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "04/07/2006",
+  "entidade": "Entidade: Município de Cidade Ocidental/GO",
+  "uf": "GO",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    6412.0,
+    1996
+   ]
+  ]
+ },
+ {
+  "proc": "019.130/2003-4",
+  "acordao": "ACÓRDÃO 1711/2006 ATA 22/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "28/06/2006",
+  "entidade": "Unidade: Prefeitura Municipal de Laranjal - PR",
+  "uf": "PR",
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": [
+   [
+    33750.0,
+    2000
+   ]
+  ]
+ },
+ {
+  "proc": "013.500/2001-3",
+  "acordao": "ACÓRDÃO 1709/2006 ATA 22/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "28/06/2006",
+  "entidade": "Entidade: Município de Tabocas do Brejo Velho/BA",
+  "uf": "BA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    18539.28,
+    1996
+   ],
+   [
+    18539.28,
+    1997
+   ]
+  ]
+ },
+ {
+  "proc": "019.206/2004-2",
+  "acordao": "ACÓRDÃO 1667/2006 ATA 21/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "20/06/2006",
+  "entidade": "Entidade: Fundação Oswaldo Ramos/SP",
+  "uf": "SP",
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": [
+   [
+    5379.5,
+    2000
+   ],
+   [
+    3424.84,
+    2000
+   ],
+   [
+    8411.9,
+    2000
+   ],
+   [
+    13888.5,
+    2000
+   ],
+   [
+    16957.68,
+    2000
+   ],
+   [
+    49908.23,
+    2000
+   ],
+   [
+    18214.27,
+    2001
+   ],
+   [
+    14408.63,
+    2001
+   ],
+   [
+    43834.08,
+    2001
+   ],
+   [
+    5704.57,
+    2001
+   ],
+   [
+    1940.45,
+    2001
+   ],
+   [
+    25423.31,
+    2001
+   ],
+   [
+    6899.92,
+    2001
+   ],
+   [
+    1189.88,
+    2001
+   ]
+  ]
+ },
+ {
+  "proc": "019.748/2004-0",
+  "acordao": "ACÓRDÃO 1585/2006 ATA 20/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "13/06/2006",
+  "entidade": "Entidade: Prefeitura Municipal de Almino Afonso - RN",
+  "uf": "RN",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    43400.0,
+    2000
+   ],
+   [
+    86800.0,
+    2000
+   ]
+  ]
+ },
+ {
+  "proc": "020.091/2003-7",
+  "acordao": "ACÓRDÃO 1467/2006 ATA 20/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "13/06/2006",
+  "entidade": "Entidade: Município de Guanambi/BA",
+  "uf": "BA",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    81008.91,
+    1998
+   ],
+   [
+    81008.91,
+    1998
+   ],
+   [
+    81008.91,
+    1998
+   ],
+   [
+    81008.91,
+    1998
+   ]
+  ]
+ },
+ {
+  "proc": "002.123/2004-2",
+  "acordao": "ACÓRDÃO 1463/2006 ATA 20/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "13/06/2006",
+  "entidade": "ÓRGÃO: Prefeitura Municipal de Bela Vista do Piauí/PI",
+  "uf": "PI",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    22518.0,
+    1999
+   ]
+  ]
+ },
+ {
+  "proc": "006.525/2005-5",
+  "acordao": "ACÓRDÃO 1579/2006 ATA 20/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "13/06/2006",
+  "entidade": "Entidade: Hospital Geral de Charqueadas",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    6163562.0,
+    1992
+   ],
+   [
+    2546500.0,
+    1992
+   ],
+   [
+    1261.91,
+    2001
+   ]
+  ]
+ },
+ {
+  "proc": "004.428/2005-2",
+  "acordao": "ACÓRDÃO 1500/2006 ATA 19/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "06/06/2006",
+  "entidade": "Entidade: Município de Ipanguaçu/RN",
+  "uf": "RN",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    18485.0,
+    1998
+   ],
+   [
+    23380.0,
+    1999
+   ]
+  ]
+ },
+ {
+  "proc": "004.550/2003-2",
+  "acordao": "ACÓRDÃO 1357/2006 ATA 19/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "06/06/2006",
+  "entidade": "Entidade: Município de Coronel João Sá/BA",
+  "uf": "BA",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    540.0,
+    2000
+   ],
+   [
+    290.0,
+    2000
+   ],
+   [
+    250.0,
+    2000
+   ],
+   [
+    120.0,
+    2000
+   ],
+   [
+    297.0,
+    2000
+   ],
+   [
+    125.0,
+    2000
+   ],
+   [
+    420.0,
+    2000
+   ],
+   [
+    112.5,
+    2000
+   ],
+   [
+    225.0,
+    2000
+   ],
+   [
+    1120.0,
+    2000
+   ],
+   [
+    600.0,
+    2000
+   ],
+   [
+    200.0,
+    2000
+   ],
+   [
+    70.0,
+    2000
+   ],
+   [
+    650.0,
+    2000
+   ],
+   [
+    380.0,
+    2000
+   ],
+   [
+    270.0,
+    2000
+   ],
+   [
+    159.0,
+    2000
+   ],
+   [
+    60.0,
+    2000
+   ],
+   [
+    31.35,
+    2000
+   ]
+  ]
+ },
+ {
+  "proc": "020.037/2003-2",
+  "acordao": "ACÓRDÃO 1421/2006 ATA 18/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "30/05/2006",
+  "entidade": "Entidade: Município de Pirajuí/SP",
+  "uf": "SP",
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": []
+ },
+ {
+  "proc": "010.264/2003-7",
+  "acordao": "ACÓRDÃO 1420/2006 ATA 18/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "30/05/2006",
+  "entidade": "Entidade: Município de Duartina/SP",
+  "uf": "SP",
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": [
+   [
+    45000.0,
+    2000
+   ]
+  ]
+ },
+ {
+  "proc": "020.509/2003-5",
+  "acordao": "ACÓRDÃO 1422/2006 ATA 18/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "30/05/2006",
+  "entidade": "Entidade: Município de Duartina/SP",
+  "uf": "SP",
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": [
+   [
+    40000.0,
+    1998
+   ],
+   [
+    40000.0,
+    1998
+   ]
+  ]
+ },
+ {
+  "proc": "010.381/2003-3",
+  "acordao": "ACÓRDÃO 1412/2006 ATA 18/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "30/05/2006",
+  "entidade": "Entidade: Núcleo Estadual de Saúde no Estado do Paraná - Fundo Nacional de Saúde",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    24193.48,
+    1989
+   ],
+   [
+    80.86,
+    1989
+   ],
+   [
+    1279.92,
+    1989
+   ],
+   [
+    192711.57,
+    1990
+   ]
+  ]
+ },
+ {
+  "proc": "011.493/2002-6",
+  "acordao": "ACÓRDÃO 1321/2006 ATA 17/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "23/05/2006",
+  "entidade": "Entidade: Município de João Pessoa/PB",
+  "uf": "PB",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    12373673.7,
+    1994
+   ],
+   [
+    2434247.95,
+    1994
+   ],
+   [
+    413784.96,
+    1994
+   ]
+  ]
+ },
+ {
+  "proc": "008.338/2004-3",
+  "acordao": "ACÓRDÃO 1258/2006 ATA 16/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "16/05/2006",
+  "entidade": "Entidade: Prefeitura Municipal de Extremoz/RN",
+  "uf": "RN",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    20350.0,
+    1995
+   ]
+  ]
+ },
+ {
+  "proc": "001.970/2004-1",
+  "acordao": "ACÓRDÃO 1270/2006 ATA 16/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "16/05/2006",
+  "entidade": "Entidade: Município de Guaçuí/ES",
+  "uf": "ES",
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": [
+   [
+    8000.0,
+    2001
+   ],
+   [
+    10477.99,
+    2001
+   ],
+   [
+    10811.14,
+    2001
+   ],
+   [
+    8972.25,
+    2001
+   ],
+   [
+    10477.99,
+    2001
+   ],
+   [
+    10187.59,
+    2001
+   ],
+   [
+    11166.44,
+    2001
+   ],
+   [
+    9510.29,
+    2001
+   ],
+   [
+    10865.35,
+    2001
+   ],
+   [
+    4671.26,
+    2001
+   ],
+   [
+    3849.47,
+    2002
+   ],
+   [
+    3173.1,
+    2002
+   ],
+   [
+    3026.43,
+    2002
+   ],
+   [
+    3026.43,
+    2002
+   ]
+  ]
+ },
+ {
+  "proc": "750.206/1997-7",
+  "acordao": "ACÓRDÃO 1193/2006 ATA 15/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "09/05/2006",
+  "entidade": "Entidade: Secretaria de Saúde do Estado de Rondônia",
+  "uf": null,
+  "origem": "Funasa",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": [
+   [
+    8353080.0,
+    1994
+   ],
+   [
+    109090.0,
+    1994
+   ],
+   [
+    79789.43,
+    1995
+   ]
+  ]
+ },
+ {
+  "proc": "014.006/2002-2",
+  "acordao": "ACÓRDÃO 1113/2006 ATA 15/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "09/05/2006",
+  "entidade": "Entidade: Município de Mirador/MA",
+  "uf": "MA",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    25792.0,
+    1997
+   ],
+   [
+    25792.0,
+    1997
+   ]
+  ]
+ },
+ {
+  "proc": "013.174/2003-1",
+  "acordao": "ACÓRDÃO 1108/2006 ATA 15/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "09/05/2006",
+  "entidade": "Entidade: Prefeitura Municipal de São José do Piauí (PI)",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    8391.7,
+    1998
+   ]
+  ]
+ },
+ {
+  "proc": "005.725/2002-7",
+  "acordao": "ACÓRDÃO 635/2006 ATA 17/2006 - PLENÁRIO",
+  "data_sessao": "03/05/2006",
+  "entidade": "Unidade: Coordenação Regional da Fundação Nacional de Saúde em Sergipe (Funasa/SE)",
+  "uf": null,
+  "origem": "Funasa",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": []
+ },
+ {
+  "proc": "002.152/2003-6",
+  "acordao": "ACÓRDÃO 1114/2006 ATA 14/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "02/05/2006",
+  "entidade": "Entidade: Município de Itapemirim/ES",
+  "uf": "ES",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    1570.3,
+    1996
+   ],
+   [
+    1699.9,
+    1996
+   ],
+   [
+    1598.42,
+    1996
+   ],
+   [
+    1598.38,
+    1996
+   ],
+   [
+    1118.33,
+    1996
+   ],
+   [
+    1689.8,
+    1996
+   ],
+   [
+    1493.0,
+    1996
+   ],
+   [
+    1676.0,
+    1996
+   ],
+   [
+    1768.0,
+    1996
+   ],
+   [
+    1748.0,
+    1996
+   ],
+   [
+    1758.1,
+    1996
+   ],
+   [
+    3378.08,
+    1996
+   ]
+  ]
+ },
+ {
+  "proc": "019.718/2004-0",
+  "acordao": "ACÓRDÃO 1041/2006 ATA 14/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "02/05/2006",
+  "entidade": "Entidade: Prefeitura Municipal de Luzilândia (PI)",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": [
+   [
+    10000000.0,
+    1994
+   ]
+  ]
+ },
+ {
+  "proc": "022.559/2005-2",
+  "acordao": "ACÓRDÃO 1033/2006 ATA 13/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "25/04/2006",
+  "entidade": "Entidade: Prefeitura Municipal de Santa Filomena/PI",
+  "uf": "PI",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    40500.0,
+    2000
+   ],
+   [
+    40500.0,
+    2000
+   ]
+  ]
+ },
+ {
+  "proc": "022.558/2005-5",
+  "acordao": "ACÓRDÃO 1032/2006 ATA 13/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "25/04/2006",
+  "entidade": "Entidade: Prefeitura Municipal de Paes Landim/PI",
+  "uf": "PI",
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": [
+   [
+    56000.0,
+    2002
+   ]
+  ]
+ },
+ {
+  "proc": "000.756/2006-3",
+  "acordao": "ACÓRDÃO 1035/2006 ATA 13/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "25/04/2006",
+  "entidade": "Entidade: Prefeitura Municipal de Colônia do Piauí/PI",
+  "uf": "PI",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    22168.08,
+    1998
+   ]
+  ]
+ },
+ {
+  "proc": "019.328/2004-5",
+  "acordao": "ACÓRDÃO 865/2006 ATA 11/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "11/04/2006",
+  "entidade": "Entidade: Município de Dueré/TO",
+  "uf": "TO",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    8721.44,
+    1995
+   ]
+  ]
+ },
+ {
+  "proc": "019.566/2004-7",
+  "acordao": "ACÓRDÃO 796/2006 ATA 10/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "04/04/2006",
+  "entidade": "Entidade: Prefeitura Municipal de Umarizal/RN",
+  "uf": "RN",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    9855.0,
+    2000
+   ]
+  ]
+ },
+ {
+  "proc": "004.633/2004-5",
+  "acordao": "ACÓRDÃO 781/2006 ATA 10/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "04/04/2006",
+  "entidade": "ENTIDADE: Município de Monte Negro/RO",
+  "uf": "RO",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "012.605/2002-9",
+  "acordao": "ACÓRDÃO 400/2006 ATA 12/2006 - PLENÁRIO",
+  "data_sessao": "29/03/2006",
+  "entidade": "Órgão: Prefeitura Municipal de Jauru/MT",
+  "uf": "MT",
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": [
+   [
+    11076.74,
+    1996
+   ]
+  ]
+ },
+ {
+  "proc": "000.786/2005-4",
+  "acordao": "ACÓRDÃO 715/2006 ATA 09/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "28/03/2006",
+  "entidade": "Entidade: Município de Ibiara/PB",
+  "uf": "PB",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    40000.0,
+    2000
+   ]
+  ]
+ },
+ {
+  "proc": "019.640/2003-8",
+  "acordao": "ACÓRDÃO 668/2006 ATA 09/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "28/03/2006",
+  "entidade": "Entidade: Município de Sampaio/TO",
+  "uf": "TO",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    10924.8,
+    1998
+   ],
+   [
+    50000.0,
+    1998
+   ],
+   [
+    50000.0,
+    1998
+   ]
+  ]
+ },
+ {
+  "proc": "005.055/2003-6",
+  "acordao": "ACÓRDÃO 667/2006 ATA 09/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "28/03/2006",
+  "entidade": "Entidade: Município de Palmeiras do Tocantins/TO",
+  "uf": "TO",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    14004.65,
+    1998
+   ]
+  ]
+ },
+ {
+  "proc": "003.870/2004-5",
+  "acordao": "ACÓRDÃO 638/2006 ATA 08/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "21/03/2006",
+  "entidade": "Entidade: Município de Sítio Novo do Tocantins/TO",
+  "uf": "TO",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    31500.44,
+    1995
+   ]
+  ]
+ },
+ {
+  "proc": "001.111/2003-9",
+  "acordao": "ACÓRDÃO 613/2006 ATA 08/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "21/03/2006",
+  "entidade": "Entidade: Município de Teodoro Sampaio/SP",
+  "uf": "SP",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    40000.0,
+    1999
+   ]
+  ]
+ },
+ {
+  "proc": "019.521/2003-7",
+  "acordao": "ACÓRDÃO 615/2006 ATA 08/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "21/03/2006",
+  "entidade": "Entidade: Fundo Nacional de Saúde - FNS",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    32685.2,
+    2000
+   ]
+  ]
+ },
+ {
+  "proc": "007.822/2004-6",
+  "acordao": "ACÓRDÃO 562/2006 ATA 07/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "14/03/2006",
+  "entidade": "Entidade: Município de Sampaio/TO",
+  "uf": "TO",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    30000.0,
+    2000
+   ]
+  ]
+ },
+ {
+  "proc": "700.054/1998-7",
+  "acordao": "ACÓRDÃO 453/2006 ATA 06/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "07/03/2006",
+  "entidade": "Entidade: Prefeitura Municipal de Cardoso (SP)",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    10078678.0,
+    1993
+   ],
+   [
+    12425993.0,
+    1993
+   ],
+   [
+    15944082.0,
+    1993
+   ],
+   [
+    20060544.0,
+    1993
+   ],
+   [
+    26496166.0,
+    1993
+   ],
+   [
+    34376808.0,
+    1993
+   ],
+   [
+    39987.0,
+    1993
+   ],
+   [
+    51717.0,
+    1993
+   ],
+   [
+    67423.0,
+    1993
+   ],
+   [
+    1637.62,
+    1994
+   ]
+  ]
+ },
+ {
+  "proc": "017.670/2000-3",
+  "acordao": "ACÓRDÃO 451/2006 ATA 06/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "07/03/2006",
+  "entidade": "Unidade: Escritório de Representação do Ministério da Saúde no Estado da Bahia",
+  "uf": null,
+  "origem": "Ministério da Saúde",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "003.227/2002-5",
+  "acordao": "ACÓRDÃO 468/2006 ATA 06/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "07/03/2006",
+  "entidade": "Entidade: Município de Caxias/MA",
+  "uf": "MA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "016.961/2001-4",
+  "acordao": "ACÓRDÃO 467/2006 ATA 06/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "07/03/2006",
+  "entidade": "Entidade: Município de Jandaíra/BA",
+  "uf": "BA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    191948.62,
+    1995
+   ],
+   [
+    14612.4,
+    1996
+   ]
+  ]
+ },
+ {
+  "proc": "005.299/2003-1",
+  "acordao": "ACÓRDÃO 469/2006 ATA 06/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "07/03/2006",
+  "entidade": "Entidade: Município de Campos Lindos/TO",
+  "uf": "TO",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    13600.0,
+    1998
+   ]
+  ]
+ },
+ {
+  "proc": "004.600/2004-4",
+  "acordao": "ACÓRDÃO 459/2006 ATA 06/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "07/03/2006",
+  "entidade": "Unidade: Prefeitura Municipal de Caxias/MA",
+  "uf": "MA",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    320.87,
+    1998
+   ],
+   [
+    6563.74,
+    1998
+   ],
+   [
+    1900.0,
+    1998
+   ],
+   [
+    494.0,
+    1998
+   ]
+  ]
+ },
+ {
+  "proc": "000.865/2001-7",
+  "acordao": "ACÓRDÃO 466/2006 ATA 06/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "07/03/2006",
+  "entidade": "Entidade: Município de Paço do Lumiar/MA",
+  "uf": "MA",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    12425.0,
+    1996
+   ]
+  ]
+ },
+ {
+  "proc": "001.108/2003-3",
+  "acordao": "ACÓRDÃO 455/2006 ATA 06/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "07/03/2006",
+  "entidade": "Unidade: Município de Estância Turística de Ibitinga/SP",
+  "uf": "SP",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    7047.26,
+    1998
+   ]
+  ]
+ },
+ {
+  "proc": "002.098/2004-8",
+  "acordao": "ACÓRDÃO 374/2006 ATA 05/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "21/02/2006",
+  "entidade": "Entidade: Prefeitura Municipal de Nova Cruz/RN",
+  "uf": "RN",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    75435.18,
+    1996
+   ]
+  ]
+ },
+ {
+  "proc": "011.761/2004-5",
+  "acordao": "ACÓRDÃO 380/2006 ATA 05/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "21/02/2006",
+  "entidade": "Unidade: Município de Urânia / SP",
+  "uf": "SP",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    45.63,
+    1998
+   ],
+   [
+    15182.8,
+    1998
+   ],
+   [
+    1421.3,
+    2000
+   ],
+   [
+    17026.0,
+    1999
+   ]
+  ]
+ },
+ {
+  "proc": "002.947/2004-8",
+  "acordao": "ACÓRDÃO 349/2006 ATA 05/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "21/02/2006",
+  "entidade": "Entidade: Fundo Nacional de Saúde (FNS/MS)",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    27925.56,
+    1996
+   ]
+  ]
+ },
+ {
+  "proc": "019.302/2004-9",
+  "acordao": "ACÓRDÃO 375/2006 ATA 05/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "21/02/2006",
+  "entidade": "Entidade: Prefeitura Municipal de Barcelona/RN",
+  "uf": "RN",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    16000.0,
+    1996
+   ]
+  ]
+ },
+ {
+  "proc": "004.582/2003-6",
+  "acordao": "ACÓRDÃO 342/2006 ATA 05/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "21/02/2006",
+  "entidade": "Entidade: Prefeitura Municipal de Mascote/BA",
+  "uf": "BA",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "000.073/2005-8",
+  "acordao": "ACÓRDÃO 276/2006 ATA 04/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "14/02/2006",
+  "entidade": "Órgão: Prefeitura Municipal de Araguainha/MT",
+  "uf": "MT",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    140000.0,
+    1996
+   ]
+  ]
+ },
+ {
+  "proc": "000.820/2001-5",
+  "acordao": "ACÓRDÃO 212/2006 ATA 03/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "07/02/2006",
+  "entidade": "Entidade: Hospital e Maternidade Dr. Leônidas Lima da Silva, CNPJ 10.429.942/0001-43",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    5300812.56,
+    1994
+   ]
+  ]
+ },
+ {
+  "proc": "011.320/2005-9",
+  "acordao": "ACÓRDÃO 65/2006 ATA 02/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "31/01/2006",
+  "entidade": "ENTIDADE: Município de Magda/SP",
+  "uf": "SP",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    6080.68,
+    1998
+   ],
+   [
+    1574.29,
+    1999
+   ]
+  ]
+ },
+ {
+  "proc": "005.126/2004-8",
+  "acordao": "ACÓRDÃO 146/2006 ATA 02/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "31/01/2006",
+  "entidade": "Entidade: Município de Sucupira/TO",
+  "uf": "TO",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    50000.0,
+    2000
+   ]
+  ]
+ },
+ {
+  "proc": "000.037/2005-1",
+  "acordao": "ACÓRDÃO 147/2006 ATA 02/2006 - PRIMEIRA CÂMARA",
+  "data_sessao": "31/01/2006",
+  "entidade": "Entidade: Município de Marechal Thaumaturgo/AC",
+  "uf": "AC",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    16524.95,
+    1998
+   ],
+   [
+    13024.29,
+    1998
+   ]
+  ]
+ },
+ {
+  "proc": "002.190/2001-0",
+  "acordao": "ACÓRDÃO 31/2006 ATA 01/2006 - SEGUNDA CÂMARA",
+  "data_sessao": "24/01/2006",
+  "entidade": "Entidade: Prefeitura Municipal de Itabaiana/SE",
+  "uf": "SE",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "003.729/2005-1",
+  "acordao": "ACÓRDÃO 8/2006 ATA 01/2006 - PLENÁRIO",
+  "data_sessao": "18/01/2006",
+  "entidade": "Entidade: Município de Lagoa de Velhos/RN",
+  "uf": "RN",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    16000.0,
+    1996
+   ]
+  ]
+ }
+]

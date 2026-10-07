@@ -1,0 +1,418 @@
+[
+ {
+  "indicator": {
+   "id": "NY.GDP.MKTP.CN",
+   "value": "GDP (current LCU)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2025",
+  "value": 12738565613900,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 0
+ },
+ {
+  "indicator": {
+   "id": "NY.GDP.MKTP.CN",
+   "value": "GDP (current LCU)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2024",
+  "value": 11779250581600,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 0
+ },
+ {
+  "indicator": {
+   "id": "NY.GDP.MKTP.CN",
+   "value": "GDP (current LCU)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2023",
+  "value": 10943344667900,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 0
+ },
+ {
+  "indicator": {
+   "id": "NY.GDP.MKTP.CN",
+   "value": "GDP (current LCU)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2022",
+  "value": 10079676679200,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 0
+ },
+ {
+  "indicator": {
+   "id": "NY.GDP.MKTP.CN",
+   "value": "GDP (current LCU)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2021",
+  "value": 9012141999300,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 0
+ },
+ {
+  "indicator": {
+   "id": "NY.GDP.MKTP.CN",
+   "value": "GDP (current LCU)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2020",
+  "value": 7609597000600,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 0
+ },
+ {
+  "indicator": {
+   "id": "NY.GDP.MKTP.CN",
+   "value": "GDP (current LCU)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2019",
+  "value": 7389130999500,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 0
+ },
+ {
+  "indicator": {
+   "id": "NY.GDP.MKTP.CN",
+   "value": "GDP (current LCU)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2018",
+  "value": 7004140999900,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 0
+ },
+ {
+  "indicator": {
+   "id": "NY.GDP.MKTP.CN",
+   "value": "GDP (current LCU)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2017",
+  "value": 6585479000100,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 0
+ },
+ {
+  "indicator": {
+   "id": "NY.GDP.MKTP.CN",
+   "value": "GDP (current LCU)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2016",
+  "value": 6269328000700,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 0
+ },
+ {
+  "indicator": {
+   "id": "NY.GDP.MKTP.CN",
+   "value": "GDP (current LCU)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2015",
+  "value": 5995786999700,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 0
+ },
+ {
+  "indicator": {
+   "id": "NY.GDP.MKTP.CN",
+   "value": "GDP (current LCU)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2014",
+  "value": 5778953000000,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 0
+ },
+ {
+  "indicator": {
+   "id": "NY.GDP.MKTP.CN",
+   "value": "GDP (current LCU)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2013",
+  "value": 5331618999600,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 0
+ },
+ {
+  "indicator": {
+   "id": "NY.GDP.MKTP.CN",
+   "value": "GDP (current LCU)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2012",
+  "value": 4814759999600,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 0
+ },
+ {
+  "indicator": {
+   "id": "NY.GDP.MKTP.CN",
+   "value": "GDP (current LCU)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2011",
+  "value": 4376381999900,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 0
+ },
+ {
+  "indicator": {
+   "id": "NY.GDP.MKTP.CN",
+   "value": "GDP (current LCU)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2010",
+  "value": 3885846999800,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 0
+ },
+ {
+  "indicator": {
+   "id": "NY.GDP.MKTP.CN",
+   "value": "GDP (current LCU)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2009",
+  "value": 3333039355200,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 0
+ },
+ {
+  "indicator": {
+   "id": "NY.GDP.MKTP.CN",
+   "value": "GDP (current LCU)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2008",
+  "value": 3109803088900,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 0
+ },
+ {
+  "indicator": {
+   "id": "NY.GDP.MKTP.CN",
+   "value": "GDP (current LCU)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2007",
+  "value": 2720262937600,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 0
+ },
+ {
+  "indicator": {
+   "id": "NY.GDP.MKTP.CN",
+   "value": "GDP (current LCU)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2006",
+  "value": 2409449921500,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 0
+ },
+ {
+  "indicator": {
+   "id": "NY.GDP.MKTP.CN",
+   "value": "GDP (current LCU)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2005",
+  "value": 2170584503500,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 0
+ },
+ {
+  "indicator": {
+   "id": "NY.GDP.MKTP.CN",
+   "value": "GDP (current LCU)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2004",
+  "value": 1957751213000,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 0
+ },
+ {
+  "indicator": {
+   "id": "NY.GDP.MKTP.CN",
+   "value": "GDP (current LCU)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2003",
+  "value": 1717950396400,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 0
+ },
+ {
+  "indicator": {
+   "id": "NY.GDP.MKTP.CN",
+   "value": "GDP (current LCU)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2002",
+  "value": 1488787255200,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 0
+ },
+ {
+  "indicator": {
+   "id": "NY.GDP.MKTP.CN",
+   "value": "GDP (current LCU)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2001",
+  "value": 1315755467800,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 0
+ },
+ {
+  "indicator": {
+   "id": "NY.GDP.MKTP.CN",
+   "value": "GDP (current LCU)"
+  },
+  "country": {
+   "id": "BR",
+   "value": "Brazil"
+  },
+  "countryiso3code": "BRA",
+  "date": "2000",
+  "value": 1199092070900,
+  "unit": "",
+  "obs_status": "",
+  "decimal": 0
+ }
+]

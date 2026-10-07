@@ -1,0 +1,736 @@
+[
+ {
+  "proc": "000.850/2001-4",
+  "acordao": "ACÓRDÃO 853/2002 ATA 43/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "03/12/2002",
+  "entidade": "Entidade: Município de Monção/MA",
+  "uf": "MA",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "012.029/2002-8",
+  "acordao": "ACÓRDÃO 854/2002 ATA 43/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "03/12/2002",
+  "entidade": "Entidade: Município de Calçoene/AP",
+  "uf": "AP",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "016.955/2001-7",
+  "acordao": "ACÓRDÃO 819/2002 ATA 42/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "26/11/2002",
+  "entidade": "Entidade: Município de Governador Mangabeira/BA",
+  "uf": "BA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "004.797/2002-1",
+  "acordao": "ACÓRDÃO 565/2002 ATA 44/2002 - SEGUNDA CÂMARA",
+  "data_sessao": "21/11/2002",
+  "entidade": "ENTIDADE: União Beneficente dos Trabalhadores de Moreno/PE",
+  "uf": "PE",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "009.482/2000-9",
+  "acordao": "ACÓRDÃO 783/2002 ATA 41/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "19/11/2002",
+  "entidade": "UNIDADE: Prefeitura de Canto do Buriti/PI",
+  "uf": "PI",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "775.100/1996-0",
+  "acordao": "ACÓRDÃO 544/2002 ATA 43/2002 - SEGUNDA CÂMARA",
+  "data_sessao": "14/11/2002",
+  "entidade": "Unidade: Coordenadoria Regional da Fundação Nacional de Saúde no Amapá - CORAP/FUNASA",
+  "uf": null,
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "000.803/2001-4",
+  "acordao": "ACÓRDÃO 769/2002 ATA 40/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "12/11/2002",
+  "entidade": "Entidade: Município de Pindaré-Mirim/MA",
+  "uf": "MA",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    177625.0,
+    1996
+   ]
+  ]
+ },
+ {
+  "proc": "017.063/2001-4",
+  "acordao": "ACÓRDÃO 765/2002 ATA 40/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "12/11/2002",
+  "entidade": "Entidade: Prefeitura Municipal de Japurá/AM",
+  "uf": "AM",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    47300.0,
+    1998
+   ]
+  ]
+ },
+ {
+  "proc": "017.116/2000-1",
+  "acordao": "ACÓRDÃO 755/2002 ATA 40/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "12/11/2002",
+  "entidade": "Entidade: Instituto Nacional de Assistência Médica da Previdência Social - INAMPS (extinto)",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": []
+ },
+ {
+  "proc": "000.516/2001-6",
+  "acordao": "ACÓRDÃO 756/2002 ATA 40/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "12/11/2002",
+  "entidade": "Entidade: Hospital e Maternidade Nossa Senhora Aparecida -Palestina de Goiás/GO",
+  "uf": "GO",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "012.912/2000-3",
+  "acordao": "ACÓRDÃO 718/2002 ATA 38/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "29/10/2002",
+  "entidade": "UNIDADE: Fundo Nacional de Saúde",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "375.088/1996-2",
+  "acordao": "ACÓRDÃO 671/2002 ATA 36/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "15/10/2002",
+  "entidade": "Unidade: Prefeitura Municipal de Janaúba/MG",
+  "uf": "MG",
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": []
+ },
+ {
+  "proc": "002.136/2001-6",
+  "acordao": "ACÓRDÃO 637/2002 ATA 35/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "08/10/2002",
+  "entidade": "Entidade: Fundação Nacional de Saúde - Funasa",
+  "uf": null,
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "010.496/2001-5",
+  "acordao": "ACÓRDÃO 621/2002 ATA 33/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "24/09/2002",
+  "entidade": "Entidade: Município de Santana/AP",
+  "uf": "AP",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    33839.62,
+    1996
+   ]
+  ]
+ },
+ {
+  "proc": "001.879/2002-5",
+  "acordao": "ACÓRDÃO 623/2002 ATA 33/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "24/09/2002",
+  "entidade": "Entidade: Município de Mazagão/AP",
+  "uf": "AP",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    35000.0,
+    1998
+   ],
+   [
+    35000.0,
+    1998
+   ],
+   [
+    34000.0,
+    1998
+   ],
+   [
+    968.25,
+    1999
+   ]
+  ]
+ },
+ {
+  "proc": "009.837/1997-3",
+  "acordao": "ACÓRDÃO 326/2002 ATA 33/2002 - PLENÁRIO",
+  "data_sessao": "11/09/2002",
+  "entidade": "Entidade: Município de Assis/SP",
+  "uf": "SP",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    4950000.0,
+    1994
+   ]
+  ]
+ },
+ {
+  "proc": "013.656/2000-6",
+  "acordao": "ACÓRDÃO 399/2002 ATA 32/2002 - SEGUNDA CÂMARA",
+  "data_sessao": "29/08/2002",
+  "entidade": "Entidade: Prefeitura Municipal de Brejo do Cruz/PB",
+  "uf": "PB",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    50814.21,
+    1995
+   ]
+  ]
+ },
+ {
+  "proc": "000.897/2001-0",
+  "acordao": "ACÓRDÃO 527/2002 ATA 27/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "13/08/2002",
+  "entidade": "Entidade: Município de Itapecuru-Mirim/MA",
+  "uf": "MA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    1000.0,
+    1995
+   ],
+   [
+    270.0,
+    1995
+   ]
+  ]
+ },
+ {
+  "proc": "003.983/2001-4",
+  "acordao": "ACÓRDÃO 368/2002 ATA 29/2002 - SEGUNDA CÂMARA",
+  "data_sessao": "08/08/2002",
+  "entidade": "Entidade: Prefeitura Municipal de Bom Jesus - PB",
+  "uf": "PB",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "550.201/1997-1",
+  "acordao": "ACÓRDÃO 369/2002 ATA 29/2002 - SEGUNDA CÂMARA",
+  "data_sessao": "08/08/2002",
+  "entidade": "Entidade: Instituto Nacional de Assistência Médica da Previdência Social - INAMPS",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "003.978/2001-4",
+  "acordao": "ACÓRDÃO 367/2002 ATA 29/2002 - SEGUNDA CÂMARA",
+  "data_sessao": "08/08/2002",
+  "entidade": "Entidade: Prefeitura Municipal de Bom Jesus - PB",
+  "uf": "PB",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "003.280/1996-9",
+  "acordao": "ACÓRDÃO 363/2002 ATA 29/2002 - SEGUNDA CÂMARA",
+  "data_sessao": "08/08/2002",
+  "entidade": "Entidade: Prefeitura Municipal de Padre Bernardo/GO",
+  "uf": "GO",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "015.921/2001-4",
+  "acordao": "ACÓRDÃO 508/2002 ATA 26/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "06/08/2002",
+  "entidade": "Órgão: Prefeitura Municipal de São Braz do Piauí/PI",
+  "uf": "PI",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    13080.0,
+    1998
+   ]
+  ]
+ },
+ {
+  "proc": "016.822/2000-2",
+  "acordao": "ACÓRDÃO 499/2002 ATA 25/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "30/07/2002",
+  "entidade": "Unidade: Prefeitura Municipal de Aparecida de Goiânia - GO",
+  "uf": "GO",
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": []
+ },
+ {
+  "proc": "010.528/2001-0",
+  "acordao": "ACÓRDÃO 344/2002 ATA 27/2002 - SEGUNDA CÂMARA",
+  "data_sessao": "25/07/2002",
+  "entidade": "Entidade: Município de Ituberá/BA",
+  "uf": "BA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "004.297/2001-6",
+  "acordao": "ACÓRDÃO 328/2002 ATA 25/2002 - SEGUNDA CÂMARA",
+  "data_sessao": "11/07/2002",
+  "entidade": "Entidade: Município de Mazagão/AP",
+  "uf": "AP",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "005.129/2001-5",
+  "acordao": "ACÓRDÃO 329/2002 ATA 25/2002 - SEGUNDA CÂMARA",
+  "data_sessao": "11/07/2002",
+  "entidade": "Entidade: Prefeitura Municipal de Duque Bacelar/MA",
+  "uf": "MA",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    40000.0,
+    1998
+   ],
+   [
+    40000.0,
+    1998
+   ]
+  ]
+ },
+ {
+  "proc": "250.449/1997-8",
+  "acordao": "ACÓRDÃO 451/2002 ATA 22/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "09/07/2002",
+  "entidade": "Órgão: Prefeitura Municipal de Senhor do Bonfim/BA",
+  "uf": "BA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "013.374/2000-8",
+  "acordao": "ACÓRDÃO 430/2002 ATA 21/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "25/06/2002",
+  "entidade": "Órgão: Prefeitura Municipal de Juquiá/SP",
+  "uf": "SP",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "017.109/2000-7",
+  "acordao": "ACÓRDÃO 299/2002 ATA 22/2002 - SEGUNDA CÂMARA",
+  "data_sessao": "20/06/2002",
+  "entidade": "Entidade: Município de Ipixuna/AM",
+  "uf": "AM",
+  "origem": "Funasa",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": []
+ },
+ {
+  "proc": "200.149/1997-0",
+  "acordao": "ACÓRDÃO 276/2002 ATA 21/2002 - SEGUNDA CÂMARA",
+  "data_sessao": "13/06/2002",
+  "entidade": "Entidade: Hospital Regional de São Sebastião em Porto Calvo/AL",
+  "uf": "AL",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "017.120/2000-4",
+  "acordao": "ACÓRDÃO 262/2002 ATA 20/2002 - SEGUNDA CÂMARA",
+  "data_sessao": "06/06/2002",
+  "entidade": "Entidade: Município de Canutama/AM",
+  "uf": "AM",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "300.197/1997-7",
+  "acordao": "ACÓRDÃO 201/2002 ATA 17/2002 - PLENÁRIO",
+  "data_sessao": "29/05/2002",
+  "entidade": "UNIDADE: Prefeitura de São Gabriel da Palha/ES",
+  "uf": "ES",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "325.317/1997-6",
+  "acordao": "ACÓRDÃO 231/2002 ATA 17/2002 - SEGUNDA CÂMARA",
+  "data_sessao": "16/05/2002",
+  "entidade": "Entidade: Município de Aparecida de Goiânia/GO",
+  "uf": "GO",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "013.606/2000-4",
+  "acordao": "ACÓRDÃO 356/2002 ATA 15/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "14/05/2002",
+  "entidade": "Entidade: Município de Maripá de Minas/MG",
+  "uf": "MG",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    18181.81,
+    1994
+   ]
+  ]
+ },
+ {
+  "proc": "375.235/1997-3",
+  "acordao": "ACÓRDÃO 219/2002 ATA 16/2002 - SEGUNDA CÂMARA",
+  "data_sessao": "09/05/2002",
+  "entidade": "Entidade: Prefeitura de Pocrane/MG",
+  "uf": "MG",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    36363.63,
+    1994
+   ]
+  ]
+ },
+ {
+  "proc": "700.355/1995-2",
+  "acordao": "ACÓRDÃO 220/2002 ATA 16/2002 - SEGUNDA CÂMARA",
+  "data_sessao": "09/05/2002",
+  "entidade": "Entidade : Instituto Nacional de Assistência Médica da Previdência Social - INAMPS (extinto)",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": []
+ },
+ {
+  "proc": "013.332/1999-6",
+  "acordao": "ACÓRDÃO 329/2002 ATA 14/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "07/05/2002",
+  "entidade": "ENTIDADE: Coordenação Regional da Fundação Nacional de Saúde no Estado do Rio Grande do Norte (Funasa/CRRN)",
+  "uf": null,
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "017.062/2000-9",
+  "acordao": "ACÓRDÃO 331/2002 ATA 14/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "07/05/2002",
+  "entidade": "UNIDADE: Prefeitura de Tibau do Sul/RN",
+  "uf": "RN",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "011.530/1999-5",
+  "acordao": "ACÓRDÃO 328/2002 ATA 14/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "07/05/2002",
+  "entidade": "ENTIDADE: Coordenação Regional da Fundação Nacional de Saúde no Estado do Rio Grande do Norte (Funasa/CRRN)",
+  "uf": null,
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "014.465/2000-9",
+  "acordao": "ACÓRDÃO 314/2002 ATA 13/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "30/04/2002",
+  "entidade": "Unidade: Prefeitura Municipal de Nova Iguaçu de Goiás - GO",
+  "uf": "GO",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "003.674/1999-1",
+  "acordao": "ACÓRDÃO 315/2002 ATA 13/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "30/04/2002",
+  "entidade": "Prefeitura Municipal de São Bento do Trairi - RN",
+  "uf": "RN",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "002.835/2000-9",
+  "acordao": "ACÓRDÃO 194/2002 ATA 14/2002 - SEGUNDA CÂMARA",
+  "data_sessao": "25/04/2002",
+  "entidade": "Prefeitura Municipal de Olivença/AL",
+  "uf": "AL",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "003.825/1999-0",
+  "acordao": "ACÓRDÃO 285/2002 ATA 12/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "23/04/2002",
+  "entidade": "ENTIDADE: Fundo Nacional de Saúde-FNS/MS",
+  "uf": "MS",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "010.237/2000-5",
+  "acordao": "ACÓRDÃO 269/2002 ATA 11/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "16/04/2002",
+  "entidade": "Entidade: Prefeitura Municipal de Açailândia - MA",
+  "uf": "MA",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "399.012/1995-8",
+  "acordao": "ACÓRDÃO 246/2002 ATA 10/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "09/04/2002",
+  "entidade": "Unidade: Prefeitura Municipal de Ribeirão das Neves - MG",
+  "uf": "MG",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "005.132/2001-0",
+  "acordao": "ACÓRDÃO 225/2002 ATA 09/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "02/04/2002",
+  "entidade": "Entidade: Prefeitura Municipal de Cajari/MA",
+  "uf": "MA",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    90272.25,
+    1995
+   ]
+  ]
+ },
+ {
+  "proc": "001.538/2001-8",
+  "acordao": "ACÓRDÃO 186/2002 ATA 08/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "26/03/2002",
+  "entidade": "Entidade: Instituto Nacional de Assistência Médica da Previdência Social (INAMPS) - extinto",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "013.274/2001-0",
+  "acordao": "ACÓRDÃO 192/2002 ATA 08/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "26/03/2002",
+  "entidade": "Unidade: Prefeitura Municipal de Limoeiro do Norte/CE",
+  "uf": "CE",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "001.535/2001-6",
+  "acordao": "ACÓRDÃO 185/2002 ATA 08/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "26/03/2002",
+  "entidade": "Entidade: Instituto Nacional de Assistência Médica da Previdência Social (INAMPS) - extinto",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "001.678/2001-9",
+  "acordao": "ACÓRDÃO 187/2002 ATA 08/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "26/03/2002",
+  "entidade": "Entidade: Instituto Nacional de Assistência Médica da Previdência Social (INAMPS) - extinto",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "017.680/2000-0",
+  "acordao": "ACÓRDÃO 130/2002 ATA 10/2002 - SEGUNDA CÂMARA",
+  "data_sessao": "26/03/2002",
+  "entidade": "Prefeitura Municipal de Divinópolis/TO",
+  "uf": "TO",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "017.748/2000-8",
+  "acordao": "ACÓRDÃO 114/2002 ATA 09/2002 - SEGUNDA CÂMARA",
+  "data_sessao": "21/03/2002",
+  "entidade": "Federação Tocantinense das Associações de Moradores - FETOAM",
+  "uf": null,
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "001.677/2001-1",
+  "acordao": "ACÓRDÃO 160/2002 ATA 07/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "19/03/2002",
+  "entidade": "Entidade: Instituto Nacional de Assistência Médica da Previdência Social (INAMPS) - extinto",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "017.315/2000-5",
+  "acordao": "ACÓRDÃO 95/2002 ATA 08/2002 - SEGUNDA CÂMARA",
+  "data_sessao": "14/03/2002",
+  "entidade": "Prefeitura Municipal de Pilões/PB",
+  "uf": "PB",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "017.412/2000-9",
+  "acordao": "ACÓRDÃO 96/2002 ATA 08/2002 - SEGUNDA CÂMARA",
+  "data_sessao": "14/03/2002",
+  "entidade": "Prefeitura de Itatuba/PB",
+  "uf": "PB",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "017.369/2000-6",
+  "acordao": "ACÓRDÃO 135/2002 ATA 06/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "12/03/2002",
+  "entidade": "Unidade: Prefeitura Municipal de Altamira - PA",
+  "uf": "PA",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "017.423/2000-2",
+  "acordao": "ACÓRDÃO 122/2002 ATA 06/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "12/03/2002",
+  "entidade": "Unidade: Prefeitura Municipal de Sobral/CE",
+  "uf": "CE",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "004.086/2001-1",
+  "acordao": "ACÓRDÃO 142/2002 ATA 06/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "12/03/2002",
+  "entidade": "Entidade: Prefeitura Municipal de Novo Aripuanã - MA",
+  "uf": "MA",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    53400.0,
+    1995
+   ],
+   [
+    24000.0,
+    1995
+   ]
+  ]
+ },
+ {
+  "proc": "011.459/2000-8",
+  "acordao": "ACÓRDÃO 144/2002 ATA 06/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "12/03/2002",
+  "entidade": "Entidade: Prefeitura Municipal de Costa Rica/MS",
+  "uf": "MS",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    61918.34,
+    1994
+   ]
+  ]
+ },
+ {
+  "proc": "475.079/1998-1",
+  "acordao": "ACÓRDÃO 51/2002 ATA 03/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "19/02/2002",
+  "entidade": "Entidade: Prefeitura Municipal de Nova Palmeira - PB",
+  "uf": "PB",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "000.591/2000-2",
+  "acordao": "ACÓRDÃO 59/2002 ATA 03/2002 - PRIMEIRA CÂMARA",
+  "data_sessao": "19/02/2002",
+  "entidade": "Entidade: Prefeitura Municipal de Parazinho - RN",
+  "uf": "RN",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "500.044/1998-8",
+  "acordao": "ACÓRDÃO 15/2002 ATA 02/2002 - SEGUNDA CÂMARA",
+  "data_sessao": "31/01/2002",
+  "entidade": "Prefeitura Municipal de Abreu e Lima/PE",
+  "uf": "PE",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "400.035/1995-2",
+  "acordao": "ACÓRDÃO 8/2002 ATA 01/2002 - SEGUNDA CÂMARA",
+  "data_sessao": "24/01/2002",
+  "entidade": "Município de Paranaíba - MS",
+  "uf": "MS",
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": []
+ }
+]

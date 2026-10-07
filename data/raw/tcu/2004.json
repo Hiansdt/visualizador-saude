@@ -1,0 +1,1192 @@
+[
+ {
+  "proc": "007.762/2004-6",
+  "acordao": "ACÓRDÃO 3149/2004 ATA 42/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "07/12/2004",
+  "entidade": "Unidade: Prefeitura Municipal de Ubaporanga - MG",
+  "uf": "MG",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    80000.0,
+    2002
+   ]
+  ]
+ },
+ {
+  "proc": "010.242/2000-5",
+  "acordao": "ACÓRDÃO 3150/2004 ATA 42/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "07/12/2004",
+  "entidade": "Unidade: Prefeitura Municipal de Cidelândia/MA",
+  "uf": "MA",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    24499.99,
+    1998
+   ],
+   [
+    35000.0,
+    1999
+   ]
+  ]
+ },
+ {
+  "proc": "013.973/2002-0",
+  "acordao": "ACÓRDÃO 3153/2004 ATA 42/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "07/12/2004",
+  "entidade": "Unidade: Hospital Regional Alexandre Mamede Trovão - Município de Coroatá/MA",
+  "uf": "MA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    3027.82,
+    1994
+   ],
+   [
+    3281.77,
+    1994
+   ],
+   [
+    662.95,
+    1994
+   ],
+   [
+    566.45,
+    1994
+   ],
+   [
+    604.63,
+    1994
+   ],
+   [
+    206.14,
+    1995
+   ]
+  ]
+ },
+ {
+  "proc": "001.022/2004-5",
+  "acordao": "ACÓRDÃO 3025/2004 ATA 41/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "30/11/2004",
+  "entidade": "Entidade: Município de Itapirapuã/GO",
+  "uf": "GO",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    19692.0,
+    1994
+   ]
+  ]
+ },
+ {
+  "proc": "003.809/2002-0",
+  "acordao": "ACÓRDÃO 3023/2004 ATA 41/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "30/11/2004",
+  "entidade": "Entidade: Município de Pindobaçu/BA",
+  "uf": "BA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    78545.38,
+    1995
+   ],
+   [
+    14204.29,
+    1996
+   ]
+  ]
+ },
+ {
+  "proc": "017.827/2002-0",
+  "acordao": "ACÓRDÃO 2945/2004 ATA 40/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "23/11/2004",
+  "entidade": "Entidade: Hospital Nunes Freire/MA",
+  "uf": "MA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    10582.0,
+    1998
+   ]
+  ]
+ },
+ {
+  "proc": "017.427/2002-8",
+  "acordao": "ACÓRDÃO 2859/2004 ATA 39/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "16/11/2004",
+  "entidade": "Entidade: Município de Sítio do Quinto/BA",
+  "uf": "BA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    38403.72,
+    1996
+   ],
+   [
+    21801.96,
+    1996
+   ]
+  ]
+ },
+ {
+  "proc": "018.690/2003-5",
+  "acordao": "ACÓRDÃO 2777/2004 ATA 38/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "09/11/2004",
+  "entidade": "Unidade: Prefeitura Municipal de Tefé - AM",
+  "uf": "AM",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    60000.0,
+    2000
+   ],
+   [
+    60000.0,
+    2000
+   ],
+   [
+    60000.0,
+    2000
+   ]
+  ]
+ },
+ {
+  "proc": "018.986/2003-9",
+  "acordao": "ACÓRDÃO 2787/2004 ATA 38/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "09/11/2004",
+  "entidade": "Entidade: Município de Buriti do Tocantins/TO",
+  "uf": "TO",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    40000.0,
+    2000
+   ]
+  ]
+ },
+ {
+  "proc": "016.215/2002-1",
+  "acordao": "ACÓRDÃO 2558/2004 ATA 35/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "05/10/2004",
+  "entidade": "Unidade: Prefeitura Municipal de Manga/MG",
+  "uf": "MG",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    40457.21,
+    1996
+   ]
+  ]
+ },
+ {
+  "proc": "002.027/2002-0",
+  "acordao": "ACÓRDÃO 2559/2004 ATA 35/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "05/10/2004",
+  "entidade": "Entidade: Município de Nova Redenção/BA",
+  "uf": "BA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    143192.22,
+    1994
+   ]
+  ]
+ },
+ {
+  "proc": "003.013/2003-7",
+  "acordao": "ACÓRDÃO 1844/2004 ATA 36/2004 - SEGUNDA CÂMARA",
+  "data_sessao": "23/09/2004",
+  "entidade": "ENTIDADE: Município de Carnaíba/PB",
+  "uf": "PB",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    180700.0,
+    1999
+   ]
+  ]
+ },
+ {
+  "proc": "019.504/2003-6",
+  "acordao": "ACÓRDÃO 2334/2004 ATA 32/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "14/09/2004",
+  "entidade": "Entidade: Município de Pirinópolis/GO",
+  "uf": "GO",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    16038.5,
+    1997
+   ]
+  ]
+ },
+ {
+  "proc": "002.183/2002-4",
+  "acordao": "ACÓRDÃO 1738/2004 ATA 34/2004 - SEGUNDA CÂMARA",
+  "data_sessao": "09/09/2004",
+  "entidade": "Entidade: Município de Cabrobó/PE",
+  "uf": "PE",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "001.539/2000-7",
+  "acordao": "ACÓRDÃO 2226/2004 ATA 31/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "31/08/2004",
+  "entidade": "Entidade: Prefeitura Municipal de Barcarena - PA",
+  "uf": "PA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    146664.0,
+    1996
+   ]
+  ]
+ },
+ {
+  "proc": "011.802/2002-3",
+  "acordao": "ACÓRDÃO 2234/2004 ATA 31/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "31/08/2004",
+  "entidade": "Entidade: Município de Oiapoque/AP",
+  "uf": "AP",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    66666.67,
+    1998
+   ],
+   [
+    66666.67,
+    1998
+   ],
+   [
+    66666.66,
+    1998
+   ]
+  ]
+ },
+ {
+  "proc": "010.412/2002-3",
+  "acordao": "ACÓRDÃO 2233/2004 ATA 31/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "31/08/2004",
+  "entidade": "Unidade: Prefeitura Municipal de Caratinga/MG",
+  "uf": "MG",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    30020553.35,
+    1992
+   ],
+   [
+    20112100.0,
+    1992
+   ],
+   [
+    2999966.0,
+    1992
+   ],
+   [
+    134571.02,
+    1992
+   ],
+   [
+    192000.0,
+    1992
+   ],
+   [
+    580152.98,
+    1992
+   ],
+   [
+    800000.0,
+    1992
+   ],
+   [
+    400000.0,
+    1992
+   ],
+   [
+    500000.0,
+    1992
+   ],
+   [
+    50000.0,
+    1992
+   ]
+  ]
+ },
+ {
+  "proc": "016.412/2002-0",
+  "acordao": "ACÓRDÃO 1560/2004 ATA 32/2004 - SEGUNDA CÂMARA",
+  "data_sessao": "26/08/2004",
+  "entidade": "Órgão: Ministério da Saúde",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    130207.73,
+    1996
+   ]
+  ]
+ },
+ {
+  "proc": "013.628/1999-2",
+  "acordao": "ACÓRDÃO 1235/2004 ATA 31/2004 - PLENÁRIO",
+  "data_sessao": "25/08/2004",
+  "entidade": "ENTIDADE: Município de Rosário do Catete/SE",
+  "uf": "SE",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    10892.5,
+    1997
+   ],
+   [
+    3600.0,
+    1997
+   ],
+   [
+    1364.78,
+    1998
+   ]
+  ]
+ },
+ {
+  "proc": "017.773/2002-7",
+  "acordao": "ACÓRDÃO 2166/2004 ATA 30/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "24/08/2004",
+  "entidade": "Entidade: Município de Cidelândia/MA",
+  "uf": "MA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    10945.0,
+    1998
+   ]
+  ]
+ },
+ {
+  "proc": "019.515/2003-0",
+  "acordao": "ACÓRDÃO 1499/2004 ATA 31/2004 - SEGUNDA CÂMARA",
+  "data_sessao": "19/08/2004",
+  "entidade": "ENTIDADE: Município de Paripueira/AL",
+  "uf": "AL",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "475.227/1996-4",
+  "acordao": "ACÓRDÃO 1069/2004 ATA 28/2004 - PLENÁRIO",
+  "data_sessao": "04/08/2004",
+  "entidade": "Entidade: Município de Itatuba/PB",
+  "uf": "PB",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "016.767/2001-7",
+  "acordao": "ACÓRDÃO 1892/2004 ATA 27/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "03/08/2004",
+  "entidade": "Unidade: Prefeitura Municipal de União dos Palmares/AL",
+  "uf": "AL",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    108229.96,
+    1995
+   ]
+  ]
+ },
+ {
+  "proc": "010.505/2003-2",
+  "acordao": "ACÓRDÃO 1885/2004 ATA 27/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "03/08/2004",
+  "entidade": "Unidade: Prefeitura Municipal de Nova Cantu - PR",
+  "uf": "PR",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    9034168.0,
+    1993
+   ],
+   [
+    11138233.0,
+    1993
+   ],
+   [
+    14103178.0,
+    1993
+   ],
+   [
+    17737459.0,
+    1993
+   ],
+   [
+    22348114.0,
+    1993
+   ],
+   [
+    28191146.0,
+    1993
+   ],
+   [
+    34413.0,
+    1993
+   ],
+   [
+    44258.0,
+    1993
+   ],
+   [
+    57700.0,
+    1993
+   ],
+   [
+    1245.48,
+    1994
+   ]
+  ]
+ },
+ {
+  "proc": "013.297/2000-7",
+  "acordao": "ACÓRDÃO 1891/2004 ATA 27/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "03/08/2004",
+  "entidade": "Unidade: Prefeitura Municipal de Cariacica/ES",
+  "uf": "ES",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    20000.0,
+    1997
+   ]
+  ]
+ },
+ {
+  "proc": "015.101/2001-8",
+  "acordao": "ACÓRDÃO 1317/2004 ATA 28/2004 - SEGUNDA CÂMARA",
+  "data_sessao": "29/07/2004",
+  "entidade": "Entidade: Município de Cutias do Araguari/AP",
+  "uf": "AP",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "004.563/2003-0",
+  "acordao": "ACÓRDÃO 1318/2004 ATA 28/2004 - SEGUNDA CÂMARA",
+  "data_sessao": "29/07/2004",
+  "entidade": "Entidade: Clínica de Olhos de Anápolis Ltda",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    22834.28,
+    1997
+   ],
+   [
+    21829.78,
+    1997
+   ]
+  ]
+ },
+ {
+  "proc": "001.323/2003-0",
+  "acordao": "ACÓRDÃO 1764/2004 ATA 25/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "20/07/2004",
+  "entidade": "Unidade: Prefeitura Municipal de Peixoto de Azevedo - MT",
+  "uf": "MT",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "005.088/1999-2",
+  "acordao": "ACÓRDÃO 1291/2004 ATA 27/2004 - SEGUNDA CÂMARA",
+  "data_sessao": "20/07/2004",
+  "entidade": "Entidade: Prefeitura Municipal de Juru/PB",
+  "uf": "PB",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    10110.0,
+    1996
+   ],
+   [
+    114.0,
+    1996
+   ],
+   [
+    998.38,
+    1996
+   ],
+   [
+    842.61,
+    1996
+   ],
+   [
+    31001.0,
+    1996
+   ],
+   [
+    12510.0,
+    1996
+   ],
+   [
+    10516.8,
+    1996
+   ],
+   [
+    8685.25,
+    1996
+   ],
+   [
+    8970.38,
+    1996
+   ]
+  ]
+ },
+ {
+  "proc": "019.630/2003-1",
+  "acordao": "ACÓRDÃO 1273/2004 ATA 26/2004 - SEGUNDA CÂMARA",
+  "data_sessao": "15/07/2004",
+  "entidade": "ENTIDADE: Município de Cruz do Espírito Santo",
+  "uf": null,
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "300.361/1996-3",
+  "acordao": "ACÓRDÃO 1228/2004 ATA 25/2004 - SEGUNDA CÂMARA",
+  "data_sessao": "08/07/2004",
+  "entidade": "Entidade: Prefeitura Municipal de Conceição da Barra/ES",
+  "uf": "ES",
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": []
+ },
+ {
+  "proc": "010.282/2003-5",
+  "acordao": "ACÓRDÃO 1230/2004 ATA 25/2004 - SEGUNDA CÂMARA",
+  "data_sessao": "08/07/2004",
+  "entidade": "Entidade: Hosp. Geral Prof. Ib Gatto Falcão Maceio/AL",
+  "uf": "AL",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    604.09,
+    1995
+   ],
+   [
+    4303.56,
+    1995
+   ],
+   [
+    2156.5,
+    1995
+   ],
+   [
+    264.9,
+    1995
+   ],
+   [
+    1730.0,
+    1995
+   ],
+   [
+    2350.28,
+    1996
+   ],
+   [
+    1483.09,
+    1996
+   ],
+   [
+    2324.36,
+    1996
+   ],
+   [
+    1610.63,
+    1996
+   ],
+   [
+    4118.2,
+    1996
+   ],
+   [
+    4138.4,
+    1996
+   ],
+   [
+    3164.9,
+    1996
+   ],
+   [
+    4061.6,
+    1996
+   ],
+   [
+    1590.0,
+    1996
+   ],
+   [
+    5746.0,
+    1996
+   ],
+   [
+    4956.6,
+    1997
+   ],
+   [
+    1906.86,
+    1997
+   ],
+   [
+    2800.0,
+    1997
+   ],
+   [
+    1933.86,
+    1997
+   ],
+   [
+    3000.0,
+    1997
+   ],
+   [
+    4000.0,
+    1997
+   ],
+   [
+    597.21,
+    1997
+   ],
+   [
+    601.69,
+    1997
+   ],
+   [
+    2874.0,
+    1997
+   ],
+   [
+    5004.0,
+    1997
+   ],
+   [
+    544.04,
+    1998
+   ],
+   [
+    470.68,
+    1998
+   ],
+   [
+    1329.0,
+    1998
+   ],
+   [
+    1953.4,
+    1998
+   ],
+   [
+    2060.44,
+    1998
+   ],
+   [
+    2588.45,
+    1999
+   ]
+  ]
+ },
+ {
+  "proc": "009.554/2002-6",
+  "acordao": "ACÓRDÃO 1613/2004 ATA 23/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "06/07/2004",
+  "entidade": "Unidade: Prefeitura Municipal de Campo Novo de Rondônia - RO",
+  "uf": "RO",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    16934000.0,
+    1994
+   ]
+  ]
+ },
+ {
+  "proc": "012.781/2002-6",
+  "acordao": "ACÓRDÃO 1603/2004 ATA 23/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "06/07/2004",
+  "entidade": "Entidade: Prefeitura Municipal de Ponte Branca/MT",
+  "uf": "MT",
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": []
+ },
+ {
+  "proc": "011.545/2002-4",
+  "acordao": "ACÓRDÃO 1544/2004 ATA 22/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "29/06/2004",
+  "entidade": "Unidade: Prefeitura Municipal de Campina Grande/PB",
+  "uf": "PB",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    958437.76,
+    1993
+   ]
+  ]
+ },
+ {
+  "proc": "017.831/2002-2",
+  "acordao": "ACÓRDÃO 1455/2004 ATA 20/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "15/06/2004",
+  "entidade": "Entidade: Empresa Mater Clínica Ltda",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "011.801/2002-6",
+  "acordao": "ACÓRDÃO 1428/2004 ATA 19/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "08/06/2004",
+  "entidade": "Entidade: Município de Cutias do Araguari/AP",
+  "uf": "AP",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    36000.0,
+    2000
+   ]
+  ]
+ },
+ {
+  "proc": "012.719/2003-8",
+  "acordao": "ACÓRDÃO 1385/2004 ATA 18/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "01/06/2004",
+  "entidade": "Entidade: Município de Pirenópolis/GO",
+  "uf": "GO",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    18168.57,
+    1999
+   ]
+  ]
+ },
+ {
+  "proc": "011.415/2002-0",
+  "acordao": "ACÓRDÃO 1323/2004 ATA 17/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "25/05/2004",
+  "entidade": "Entidade: Município de Pedra Branca de Amapari/AP",
+  "uf": "AP",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "018.359/2002-0",
+  "acordao": "ACÓRDÃO 1324/2004 ATA 17/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "25/05/2004",
+  "entidade": "Entidade: Município de Eunápolis/BA",
+  "uf": "BA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "011.396/2002-2",
+  "acordao": "ACÓRDÃO 1213/2004 ATA 16/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "18/05/2004",
+  "entidade": "Órgão: Prefeitura Municipal de Palmeira DOeste/SP",
+  "uf": "SP",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "018.194/2002-9",
+  "acordao": "ACÓRDÃO 1221/2004 ATA 16/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "18/05/2004",
+  "entidade": "Entidade: Município de Mucuri/BA",
+  "uf": "BA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    46404.0,
+    1998
+   ],
+   [
+    48618.0,
+    1999
+   ]
+  ]
+ },
+ {
+  "proc": "016.039/2002-2",
+  "acordao": "ACÓRDÃO 1136/2004 ATA 15/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "11/05/2004",
+  "entidade": "Entidade: Município de Araci/BA",
+  "uf": "BA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    84842.64,
+    1996
+   ]
+  ]
+ },
+ {
+  "proc": "018.380/2002-4",
+  "acordao": "ACÓRDÃO 1046/2004 ATA 14/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "04/05/2004",
+  "entidade": "Entidade: Município de Seabra/BA",
+  "uf": "BA",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "004.201/2002-3",
+  "acordao": "ACÓRDÃO 651/2004 ATA 15/2004 - SEGUNDA CÂMARA",
+  "data_sessao": "29/04/2004",
+  "entidade": "Entidade: Instituto Nacional de Assistência Médica da Previdência Social - INAMPS (extinto)",
+  "uf": null,
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": []
+ },
+ {
+  "proc": "012.606/2002-6",
+  "acordao": "ACÓRDÃO 894/2004 ATA 13/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "27/04/2004",
+  "entidade": "Órgão: Prefeitura Municipal de Rio Branco/MT",
+  "uf": "MT",
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": []
+ },
+ {
+  "proc": "011.204/2003-3",
+  "acordao": "ACÓRDÃO 602/2004 ATA 14/2004 - SEGUNDA CÂMARA",
+  "data_sessao": "22/04/2004",
+  "entidade": "Entidade: Município de Nazaré/PI",
+  "uf": "PI",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "013.077/2001-1",
+  "acordao": "ACÓRDÃO 600/2004 ATA 14/2004 - SEGUNDA CÂMARA",
+  "data_sessao": "22/04/2004",
+  "entidade": "Entidade: Município de Nazaré da Mata/PE",
+  "uf": "PE",
+  "origem": "Funasa",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": []
+ },
+ {
+  "proc": "011.663/2002-8",
+  "acordao": "ACÓRDÃO 759/2004 ATA 11/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "13/04/2004",
+  "entidade": "Entidade: Hospital de Caridade de Carazinho - RS",
+  "uf": "RS",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    883151.43,
+    1991
+   ]
+  ]
+ },
+ {
+  "proc": "004.762/2003-4",
+  "acordao": "ACÓRDÃO 486/2004 ATA 11/2004 - SEGUNDA CÂMARA",
+  "data_sessao": "01/04/2004",
+  "entidade": "ENTIDADE: Prefeitura Municipal de Baixa Grande do Ribeiro/PI",
+  "uf": "PI",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "015.150/2000-4",
+  "acordao": "ACÓRDÃO 478/2004 ATA 11/2004 - SEGUNDA CÂMARA",
+  "data_sessao": "01/04/2004",
+  "entidade": "Entidade: Prefeitura Municipal de Santa Fé do Araguaia/TO",
+  "uf": "TO",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    2712.61,
+    1995
+   ],
+   [
+    10847.52,
+    1996
+   ]
+  ]
+ },
+ {
+  "proc": "018.193/2002-1",
+  "acordao": "ACÓRDÃO 607/2004 ATA 09/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "30/03/2004",
+  "entidade": "Entidade: Município de Guaratinga/BA",
+  "uf": "BA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "012.789/2002-4",
+  "acordao": "ACÓRDÃO 600/2004 ATA 09/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "30/03/2004",
+  "entidade": "Órgão: Prefeitura Municipal de Nobres/MT",
+  "uf": "MT",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "004.206/2001-1",
+  "acordao": "ACÓRDÃO 599/2004 ATA 09/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "30/03/2004",
+  "entidade": "Órgão: Fundação Nacional de Saúde (Funasa)",
+  "uf": null,
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    9016.0,
+    1994
+   ]
+  ]
+ },
+ {
+  "proc": "017.777/2002-6",
+  "acordao": "ACÓRDÃO 547/2004 ATA 08/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "23/03/2004",
+  "entidade": "Entidade: Município de São Domingos do Azeitão/MA",
+  "uf": "MA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "005.950/2003-9",
+  "acordao": "ACÓRDÃO 372/2004 ATA 09/2004 - SEGUNDA CÂMARA",
+  "data_sessao": "18/03/2004",
+  "entidade": "Entidade: Município de Juru/PB",
+  "uf": "PB",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "000.403/2003-9",
+  "acordao": "ACÓRDÃO 371/2004 ATA 09/2004 - SEGUNDA CÂMARA",
+  "data_sessao": "18/03/2004",
+  "entidade": "Entidade: Prefeitura Municipal de Jaicós (PI)",
+  "uf": null,
+  "origem": "Funasa",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": [
+   [
+    90000.0,
+    2000
+   ]
+  ]
+ },
+ {
+  "proc": "012.787/2002-0",
+  "acordao": "ACÓRDÃO 462/2004 ATA 07/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "16/03/2004",
+  "entidade": "Órgão: Prefeitura Municipal de Barão de Melgaço/MT",
+  "uf": "MT",
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": [
+   [
+    8139.46,
+    1996
+   ]
+  ]
+ },
+ {
+  "proc": "004.579/2003-0",
+  "acordao": "ACÓRDÃO 304/2004 ATA 08/2004 - SEGUNDA CÂMARA",
+  "data_sessao": "11/03/2004",
+  "entidade": "Unidade: Prefeitura Municipal de Itaparica/BA",
+  "uf": "BA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    37666.0,
+    1998
+   ]
+  ]
+ },
+ {
+  "proc": "004.919/2002-6",
+  "acordao": "ACÓRDÃO 321/2004 ATA 05/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "02/03/2004",
+  "entidade": "Entidade: Município de Euclides da Cunha/BA",
+  "uf": "BA",
+  "origem": "Funasa",
+  "categoria": "Outras irregularidades",
+  "debitos": [
+   [
+    16000.0,
+    1998
+   ]
+  ]
+ },
+ {
+  "proc": "013.503/2000-7",
+  "acordao": "ACÓRDÃO 318/2004 ATA 05/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "02/03/2004",
+  "entidade": "Entidade: Prefeitura Municipal de Presidente Juscelino/MA",
+  "uf": "MA",
+  "origem": "FNS",
+  "categoria": "Outras irregularidades",
+  "debitos": []
+ },
+ {
+  "proc": "018.159/2002-0",
+  "acordao": "ACÓRDÃO 132/2004 ATA 04/2004 - SEGUNDA CÂMARA",
+  "data_sessao": "12/02/2004",
+  "entidade": "ENTIDADE: Município de Exu/PE",
+  "uf": "PE",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "011.919/2002-6",
+  "acordao": "ACÓRDÃO 91/2004 ATA 03/2004 - SEGUNDA CÂMARA",
+  "data_sessao": "05/02/2004",
+  "entidade": "Entidade: Prefeitura Municipal de Ponta de Pedras/PA",
+  "uf": "PA",
+  "origem": "FNS",
+  "categoria": "Indícios de desvio ou fraude",
+  "debitos": [
+   [
+    29289.55,
+    1996
+   ]
+  ]
+ },
+ {
+  "proc": "000.413/2002-7",
+  "acordao": "ACÓRDÃO 99/2004 ATA 02/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "03/02/2004",
+  "entidade": "Entidade: Município de Igarapé do Meio/MA",
+  "uf": "MA",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "000.427/2002-2",
+  "acordao": "ACÓRDÃO 101/2004 ATA 02/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "03/02/2004",
+  "entidade": "Entidade: Município de Bacuri/MA",
+  "uf": "MA",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    34779.13,
+    1996
+   ],
+   [
+    34779.13,
+    1997
+   ],
+   [
+    1479.07,
+    1998
+   ]
+  ]
+ },
+ {
+  "proc": "018.276/2002-6",
+  "acordao": "ACÓRDÃO 104/2004 ATA 02/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "03/02/2004",
+  "entidade": "Entidade: Município de Araci/BA",
+  "uf": "BA",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": []
+ },
+ {
+  "proc": "018.751/2002-4",
+  "acordao": "ACÓRDÃO 93/2004 ATA 02/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "03/02/2004",
+  "entidade": "Unidade: Prefeitura Municipal de Arapuã/PR",
+  "uf": "PR",
+  "origem": "FNS",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    24000.0,
+    2000
+   ]
+  ]
+ },
+ {
+  "proc": "000.928/2001-9",
+  "acordao": "ACÓRDÃO 34/2004 ATA 01/2004 - PRIMEIRA CÂMARA",
+  "data_sessao": "27/01/2004",
+  "entidade": "Entidade: Município de Igarapé do Meio/MA",
+  "uf": "MA",
+  "origem": "Funasa",
+  "categoria": "Omissão ou não comprovação",
+  "debitos": [
+   [
+    38000.0,
+    1997
+   ]
+  ]
+ }
+]
