@@ -36,3 +36,10 @@ def test_timeline(tema, group):
 def test_map(tema, layers, ano, recorte):
     for layer in layers:
         run_page("views/mapa.py", tema=tema, ano=ano, mapa_recorte=recorte, **{f"mapa_{tema}": layer})
+
+
+def test_conclusions():
+    at = run_page("views/conclusoes.py")
+    text = " ".join(m.value for m in at.markdown)
+    assert "R\\$ 560" in text and "R\\$ 2.081" in text and "73%" in text  # 2002, 2025, pior ano de cortes
+    assert "Ipeadata" in text

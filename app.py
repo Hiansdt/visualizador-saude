@@ -10,6 +10,7 @@ st.set_page_config(page_title="Gastos e cortes municipais em saúde", page_icon=
 PAGES = [
     st.Page("views/linha_do_tempo.py", title="Linha do tempo", icon=":material/show_chart:", default=True),
     st.Page("views/mapa.py", title="Mapa", icon=":material/map:"),
+    st.Page("views/conclusoes.py", title="Conclusões", icon=":material/fact_check:"),
 ]
 
 page = st.navigation(PAGES)
