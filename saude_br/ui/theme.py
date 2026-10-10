@@ -30,7 +30,7 @@ DARK = {
 SEQUENTIAL = ["#cde2fb", "#9ec5f4", "#6da7ec", "#3987e5", "#256abf", "#184f95", "#0d366b"]
 NEG, POS = "#d03b3b", "#2a78d6"
 # Sem barra de ferramentas: atrapalha na projeção e cobre rótulos.
-PLOTLY_CONFIG = {"displayModeBar": False}
+PLOTLY_CONFIG = {"displayModeBar": False, "scrollZoom": False}
 
 
 def is_dark() -> bool:

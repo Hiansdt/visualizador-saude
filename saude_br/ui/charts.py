@@ -75,7 +75,10 @@ def uf_map(df: pd.DataFrame, geojson: dict, col: str, label: str, unit: str, dec
                       tickfont_color=p["muted"], len=0.8,
                       ticksuffix="%" if unit == "%" else "", tickprefix="R$ " if unit == "R$" else ""),
     ))
-    fig.update_geos(fitbounds="locations", visible=False, bgcolor="rgba(0,0,0,0)")
+    # Recorte fixo no Brasil continental: com fitbounds o quadro mantém a proporção 2:1 do
+    # mundo e o país fica com metade da altura disponível. Ilhas oceânicas ficam de fora.
+    fig.update_geos(lonaxis_range=[-74.5, -34.3], lataxis_range=[-34.2, 5.6], visible=False,
+                    bgcolor="rgba(0,0,0,0)")
     fig = style(fig, height=520, legend=False)
     fig.update_layout(margin=dict(l=0, r=0, t=0, b=0))
     return fig

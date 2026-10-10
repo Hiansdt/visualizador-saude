@@ -46,18 +46,10 @@ Em média, 1 em cada 3 municípios corta o gasto real a cada ano; em 2015 foram 
      com as 7 medidas para Brasil ou UF.
 5. AppTest em todas as combinações; conferir no Chrome; commit.
 
-## Apresentação — 16 min, 4 pessoas × 4 min
+## Apresentação
 
-| # | Parte | Medidas | Tela | Frase-chave |
-|---|---|---|---|---|
-| 1 | **Gastos: nível** — pergunta, dados (~129 mil linhas), inflação, por habitante, nota sobre desvios | média, mediana, moda | Linha do tempo (Gastos → "Média, mediana e moda") + Mapa → histograma 2025 | "Em 2002 a média era R$ 560; em 2025, R$ 2.081, quase 4 vezes mais, já descontada a inflação. Mas a mediana (R$ 1.869) fica abaixo da média em todos os 24 anos: a maioria dos municípios gasta menos que a média." |
-| 2 | **Gastos: desigualdade** | amplitude, variância, desvio padrão, CV (pop. × amostral) | Linha do tempo (DP, depois CV) + Mapa (média por UF) | "O desvio padrão triplicou (R$ 311 → R$ 898), mas como a média quase quadruplicou, o CV caiu de 55,4% para 43,2%: em termos relativos, os municípios ficaram menos desiguais. Com ~5.400 municípios, a variância amostral é só 0,02% maior que a populacional." |
-| 3 | **Cortes: quantos e quando** | média, mediana e moda da variação anual; % de municípios com corte | Linha do tempo (Cortes → "% de municípios com corte") + histograma de 2015 | "Em média, 1 em cada 3 municípios corta o gasto real a cada ano. Em 2015 foram 73%: a variação mediana foi de −6,8%. Em 2020, com o dinheiro da Covid, só 9% cortaram." |
-| 4 | **Cortes: onde** + conclusão | amplitude, desvio padrão e CV da variação | Mapa (Cortes, 2015, % com corte) | "Em 2015, 95% dos municípios do Acre cortaram, contra 45% no Paraná. O CV da variação passa de 300%: com média perto de zero, o CV deixa de ser útil." + conclusão |
-
-Cada pessoa: ~30 s para apresentar as medidas (o que são e a fórmula), ~2 min no gráfico, ~1 min de
-interpretação, ~30 s passando para a próxima parte. O passo a passo de cada ano está no expander da
-linha do tempo, se alguém perguntar como foi calculado.
+Roteiro completo (cliques, falas, tempos e perguntas prováveis) no documento compartilhado do grupo:
+https://claude.ai/code/artifact/99e12624-cfbf-4152-a27c-792b39ff107b
 
 ## Riscos
 
