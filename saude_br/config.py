@@ -6,6 +6,8 @@ ROOT = Path(__file__).resolve().parent.parent
 RAW_DIR = ROOT / "data" / "raw"
 PROCESSED_DIR = ROOT / "data" / "processed"
 
-FIRST_YEAR = 2000  # primeiro exercício disponível no SIOP
-LAST_YEAR = 2026  # exercício corrente: valores parciais (acumulado no ano)
-BASE_YEAR = 2025  # reais constantes do último ano fechado
+# Em 2002 os municípios passam à classificação funcional atual (Portaria 42/1999)
+# e o gasto com saúde salta de nível: a série começa ali para ser comparável.
+FIRST_YEAR = 2002
+LAST_YEAR = 2025  # último ano fechado
+BASE_YEAR = 2025  # reais constantes

@@ -1,11 +1,5 @@
-"""UFs, regiões e a leitura do localizador (subtítulo) do orçamento.
+"""UFs, regiões e a malha do mapa."""
 
-O código do localizador NÃO é o código IBGE da UF (ex.: 0054 = MS, que no
-IBGE é 50). Por isso a UF é lida do texto do localizador.
-"""
-
-import re
-import unicodedata
 
 REGIONS = {1: "Norte", 2: "Nordeste", 3: "Sudeste", 4: "Sul", 5: "Centro-Oeste"}
 
@@ -29,41 +23,6 @@ UF_SIGLA = {cod: sigla for cod, sigla, _ in UFS}
 
 def region_of(cod_uf: int) -> int:
     return cod_uf // 10
-
-
-def _norm(text: str) -> str:
-    text = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode()
-    return " ".join(text.lower().split())
-
-
-# Nomes mais longos primeiro: "Mato Grosso do Sul" antes de "Mato Grosso".
-_STATE_PATTERNS = [
-    (cod, re.compile(r"estado d[aeo]s? " + re.escape(_norm(nome)) + r"\b"))
-    for cod, _, nome in sorted(UFS, key=lambda u: -len(u[2]))
-    if cod != 53
-]
-_SIGLA_SUFFIX = re.compile(r"-\s*([A-Z]{2})\b")
-_REGION_PATTERNS = [
-    (cod, re.compile(r"regiao " + re.escape(_norm(nome)).replace(r"\-", "[- ]") + r"\b"))
-    for cod, nome in REGIONS.items()
-]
-
-
-def classify_localizador(label: str) -> tuple[str, int | None]:
-    """Devolve ("uf", cod_uf), ("regiao", cod_regiao) ou ("nao_regionalizado", None)."""
-    norm = _norm(label)
-    for cod, pattern in _STATE_PATTERNS:
-        if pattern.search(norm):
-            return "uf", cod
-    if "distrito federal" in norm:
-        return "uf", 53
-    for sigla in _SIGLA_SUFFIX.findall(label):
-        if sigla in UF_BY_SIGLA:
-            return "uf", UF_BY_SIGLA[sigla]
-    for cod, pattern in _REGION_PATTERNS:
-        if pattern.search(norm):
-            return "regiao", cod
-    return "nao_regionalizado", None
 
 
 def _signed_area(ring) -> float:

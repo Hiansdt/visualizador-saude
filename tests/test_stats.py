@@ -40,3 +40,13 @@ def test_cv_reading():
     assert cv_reading(10) == "baixa dispersão"
     assert cv_reading(20) == "média dispersão"
     assert cv_reading(40) == "alta dispersão"
+
+
+def test_modal_class_hand_example():
+    # n = 10 → k = ceil(1 + 3,322·1) = 5 classes de largura (10 − 0) / 5 = 2:
+    # [0,2): 1 · [2,4): 2 · [4,6): 4 · [6,8): 2 · [8,10]: 1 → classe modal [4, 6)
+    # Czuber: 4 + 2 · (4 − 2) / ((4 − 2) + (4 − 2)) = 5
+    from saude_br.domain.stats import modal_class
+    m = modal_class([0, 2, 3, 4, 4.5, 5, 5.5, 6, 7, 10])
+    assert (m.k, m.largura, m.inferior, m.superior, m.frequencia) == (5, 2.0, 4.0, 6.0, 4)
+    assert m.czuber == pytest.approx(5.0)

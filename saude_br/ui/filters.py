@@ -1,52 +1,33 @@
-"""Filtros globais na barra lateral, compartilhados por todas as páginas."""
+"""Filtros globais na barra lateral, compartilhados pelas duas páginas."""
 
 from dataclasses import dataclass
 
-import pandas as pd
 import streamlit as st
 
-from saude_br.config import BASE_YEAR, FIRST_YEAR, LAST_YEAR
-from saude_br.domain.metrics import DEFAULT_METRIC, METRICS, Metric
+from saude_br.config import FIRST_YEAR, LAST_YEAR
+from saude_br.domain.temas import TEMAS, Tema
 
 
 @dataclass(frozen=True)
 class Filters:
-    start: int
-    end: int
-    metric: Metric
-    sem_covid: bool
-
-    def years(self, df: pd.DataFrame) -> pd.DataFrame:
-        return df[df["ano"].between(self.start, self.end)]
-
-    def closed(self, df: pd.DataFrame) -> pd.DataFrame:
-        """Só anos fechados: o ano corrente (parcial) distorce variações."""
-        return df[df["ano"].between(self.start, min(self.end, LAST_YEAR - 1))]
-
-    @property
-    def column(self) -> str:
-        return self.metric.col(self.sem_covid)
+    tema: Tema
+    ano: int
 
 
 def render_sidebar() -> None:
     with st.sidebar:
-        st.slider("Período", FIRST_YEAR, LAST_YEAR, value=(FIRST_YEAR, BASE_YEAR), key="periodo",
-                  help=f"{LAST_YEAR} ainda está em andamento: valores parciais.")
-        st.selectbox("Métrica", list(METRICS), index=list(METRICS).index(DEFAULT_METRIC),
-                     format_func=lambda k: METRICS[k].label, key="metrica")
-        st.caption(METRICS[st.session_state["metrica"]].help)
-        st.toggle("Descontar gasto emergencial Covid", key="sem_covid",
-                  help="Remove a ação 21C0 (Enfrentamento da Covid-19), R$ 42 bi em 2020 e "
-                       "R$ 20 bi em 2021. Sem isso, 2022 parece um corte enorme.")
+        st.segmented_control("Tema", list(TEMAS), default="Gastos", key="tema")
+        tema = TEMAS[st.session_state.get("tema") or "Gastos"]
+        st.caption(tema.explicacao)
+        st.session_state.setdefault("ano", LAST_YEAR)
+        # Mesmo intervalo nos dois temas: mudar o intervalo recria o slider e perde o ano escolhido.
+        st.slider("Ano", FIRST_YEAR, LAST_YEAR, key="ano")
+        if tema.key == "Cortes" and st.session_state["ano"] == FIRST_YEAR:
+            st.caption(f"Cortes comparam com o ano anterior: {FIRST_YEAR} não tem variação, mostrando {FIRST_YEAR + 1}.")
 
 
 def get_filters() -> Filters:
-    start, end = st.session_state.get("periodo", (FIRST_YEAR, BASE_YEAR))
-    if end - start < 1:  # comparações precisam de pelo menos dois anos
-        start, end = (end - 1, end) if end > FIRST_YEAR else (start, start + 1)
-    return Filters(
-        start=start,
-        end=end,
-        metric=METRICS[st.session_state.get("metrica", DEFAULT_METRIC)],
-        sem_covid=st.session_state.get("sem_covid", False),
-    )
+    tema = TEMAS[st.session_state.get("tema") or "Gastos"]
+    ano = st.session_state.get("ano", LAST_YEAR)
+    # Cortes comparam com o ano anterior: o primeiro ano não tem variação.
+    return Filters(tema=tema, ano=max(ano, FIRST_YEAR + 1) if tema.key == "Cortes" else ano)

@@ -3,8 +3,6 @@
 from saude_br.sources.base import Source
 from saude_br.sources.bcb import Bcb
 from saude_br.sources.ibge import Ibge
-from saude_br.sources.siop import Siop
-from saude_br.sources.tcu import Tcu
-from saude_br.sources.worldbank import WorldBank
+from saude_br.sources.ipea import Ipea
 
-SOURCES: dict[str, Source] = {s.key: s for s in (Siop(), Bcb(), WorldBank(), Ibge(), Tcu())}
+SOURCES: dict[str, Source] = {s.key: s for s in (Ipea(), Bcb(), Ibge())}

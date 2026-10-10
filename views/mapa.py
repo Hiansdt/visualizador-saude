@@ -1,81 +1,77 @@
+import pandas as pd
 import streamlit as st
 
-from saude_br.config import BASE_YEAR, LAST_YEAR
+from saude_br.domain.geography import UF_NAME
+from saude_br.domain.stats import cv_reading, modal_class, summarize
 from saude_br.ui import charts
-from saude_br.ui.theme import PLOTLY_CONFIG
-from saude_br.ui.data import geojson, table
+from saude_br.ui.data import by_uf, geojson, valid
 from saude_br.ui.filters import get_filters
+from saude_br.ui.fmt import br, md, value
+from saude_br.ui.theme import PLOTLY_CONFIG
 
 f = get_filters()
+t = f.tema
 
-st.title("Para onde vai o dinheiro")
-
-c1, c2, c3 = st.columns(3)
-nivel = c1.segmented_control("Nível", ["Estados", "Regiões"], default="Estados", key="mapa_nivel")
-modo = c2.segmented_control("Mostrar", ["Valor no ano", "Variação no período"], default="Valor no ano", key="mapa_modo")
-medida = c3.segmented_control("Medida", ["Por habitante", "Total"], default="Por habitante", key="mapa_medida")
-nivel, modo, medida = nivel or "Estados", modo or "Valor no ano", medida or "Por habitante"
-
-col = "real_per_capita" if medida == "Por habitante" else "empenhado_real"
-level = "uf" if nivel == "Estados" else "regiao"
-df = table(level).rename(columns={"cod_uf" if level == "uf" else "cod_regiao": "cod"})
-cobertura = table("regionalizacao").set_index("ano")
-
-
-def fmt(v: float) -> str:
-    return (f"R$ {v:,.0f}" if medida == "Por habitante" else f"R$ {v / 1e9:,.2f} bi").replace(",", ".")
-
-
-if modo == "Valor no ano":
-    ano = st.slider("Ano", f.start, f.end, value=f.end)
-    if ano == LAST_YEAR:
-        st.warning(f"{LAST_YEAR} está em andamento: valores parciais, acumulados até a data da coleta.")
-    view = df[df["ano"] == ano].copy()
-    view["texto"] = view[col].map(fmt)
-    # DF concentra a folha e a sede do Ministério: fica fora da escala para não apagar o resto.
-    others = view[view["cod"] != 53][col] if level == "uf" else view[col]
-    rng = (others.min(), others.max())
-    fig = charts.choropleth(view, geojson(level), col, ["nome", "texto"], range_=rng)
-    value_label = f"{medida} (R$ de {BASE_YEAR})"
-    pct = cobertura.loc[ano, "pct_regionalizado"]
-    note_year = f"em {ano}"
+# O que pintar no mapa: rótulo -> (coluna de by_uf, unidade, divergente?)
+if t.key == "Gastos":
+    LAYERS = {"Média por habitante": ("media", "R$", False), "Mediana por habitante": ("mediana", "R$", False),
+              "CV entre os municípios": ("cv", "%", False)}
 else:
-    end = min(f.end, LAST_YEAR - 1)  # variação só entre anos fechados
-    if end <= f.start:
-        st.info("Escolha um período com pelo menos dois anos fechados.")
-        st.stop()
-    a, b = df[df["ano"] == f.start], df[df["ano"] == end]
-    view = a[["cod", "nome", col]].merge(b[["cod", col]], on="cod", suffixes=("_a", "_b"))
-    view["var"] = 100 * (view[f"{col}_b"] / view[f"{col}_a"] - 1)
-    view["texto"] = [f"{v:+.1f}% ({fmt(x)} → {fmt(y)})".replace(".", ",", 1)
-                     for v, x, y in zip(view["var"], view[f"{col}_a"], view[f"{col}_b"])]
-    lim = view.loc[view["cod"] != 53, "var"].abs().max() if level == "uf" else view["var"].abs().max()
-    fig = charts.choropleth(view, geojson(level), "var", ["nome", "texto"], diverging=True, range_=(-lim, lim))
-    col, value_label = "var", f"Variação real {f.start}→{end} (%)"
-    pct = cobertura.loc[[f.start, end], "pct_regionalizado"].min()
-    note_year = f"em {f.start}/{end}"
+    LAYERS = {"% de municípios com corte": ("pct_corte", "%", False), "Variação mediana": ("mediana", "%", True),
+              "CV entre os municípios": ("cv", "%", False)}
 
-left, right = st.columns([3, 2])
+st.title(f"{t.key} por estado em {f.ano}")
+st.caption(f"{t.variavel}. Troque o tema e o ano na barra lateral.")
+
+layer = st.segmented_control("Pintar o mapa por", list(LAYERS), default=list(LAYERS)[0], key=f"mapa_{t.key}") \
+    or list(LAYERS)[0]
+col, unit, diverging = LAYERS[layer]
+uf = by_uf(t.key, f.ano)
+
+left, right = st.columns([5, 4])
 with left:
-    st.plotly_chart(fig, width="stretch", config=PLOTLY_CONFIG)
-with right:
-    ranked = view.sort_values(col, ascending=False)
-    scale = 1e9 if col == "empenhado_real" else 1
-    ranked["valor"] = ranked[col] / scale
-    unit = " bi" if scale == 1e9 else ""
-    if modo == "Valor no ano":
-        column = st.column_config.ProgressColumn(
-            value_label + unit, format="%.2f" if scale == 1e9 else "%.0f",
-            min_value=0.0, max_value=float(ranked["valor"].max()))
-    else:
-        column = st.column_config.NumberColumn(value_label, format="%+.1f%%")
-    st.dataframe(ranked[["nome", "valor"]], hide_index=True, width="stretch", height=560,
-                 column_config={"nome": st.column_config.TextColumn(nivel), "valor": column})
+    st.plotly_chart(charts.uf_map(uf, geojson(), col, layer, unit, 1, diverging), width="stretch",
+                    config=PLOTLY_CONFIG)
+    top, bottom = uf.nlargest(1, col).iloc[0], uf.nsmallest(1, col).iloc[0]
+    d = 0 if unit == "R$" else 1
+    st.markdown(md(f"Maior: **{UF_NAME[top['cod_uf']]}** ({value(top[col], unit, d)}). "
+                   f"Menor: **{UF_NAME[bottom['cod_uf']]}** ({value(bottom[col], unit, d)})."))
 
-st.caption(
-    f"Só {pct:.0f}% do gasto federal em saúde {note_year} tem localizador de estado ou região; "
-    "o restante é \"Nacional\" e não aparece no mapa. O localizador indica onde o gasto foi "
-    "programado, não necessariamente quem foi atendido. O Distrito Federal concentra a folha e a "
-    "sede do Ministério da Saúde, por isso fica fora da escala de cores (aparece saturado) no modo por estado. "
-    "O desconto da Covid não se aplica ao mapa."
-)
+with right:
+    scopes = ["Brasil"] + [f"{UF_NAME[c]} ({u})" for c, u in sorted(zip(uf["cod_uf"], uf["uf"]), key=lambda p: p[1])]
+    scope = st.selectbox("Recorte do histograma e das medidas", scopes, key="mapa_recorte")
+    data = valid(t.key).query("ano == @f.ano")
+    if scope != "Brasil":
+        data = data[data["uf"] == scope[-3:-1]]
+    x = data[t.column]
+    s = summarize(x.tolist(), t.decimals)
+    m = modal_class(x.tolist())
+    st.plotly_chart(charts.histogram(x, m, s.media, s.mediana, t.unit, 0 if t.unit == "R$" else 1),
+                    width="stretch", config=PLOTLY_CONFIG)
+    out = int((x > x.quantile(0.99)).sum())
+    fine = pd.cut(x[x <= x.quantile(0.99)], 40).value_counts().idxmax()
+    st.caption(md(f"Faixa azul: classe modal pelas {m.k} classes de Sturges, onde está a moda de Czuber. "
+                  f"Nas barras finas o pico fica em ~{value(fine.mid, t.unit, 0 if t.unit == 'R$' else 1)}: "
+                  "com dados assimétricos, a moda por classes depende da largura escolhida. O gráfico vai até "
+                  f"o percentil 99 ({out} municípios acima dele ficam fora do desenho, não do cálculo)."))
+
+    def vv(z, d=t.decimals):
+        return value(z, t.unit, d)
+
+    u2 = "(R$)²" if t.unit == "R$" else "(p.p.)²"
+    rows = [
+        ("n (municípios)", br(s.n), ""),
+        ("Média", vv(s.media), ""),
+        ("Mediana", vv(s.mediana), ""),
+        ("Moda (Czuber)", vv(m.czuber), f"classe {vv(m.inferior, 0)} a {vv(m.superior, 0)}"),
+        ("Amplitude", vv(s.amplitude), f"{vv(s.minimo)} a {vv(s.maximo)}"),
+        (f"Variância {u2}", br(s.var_pop, 2), br(s.var_amostral, 2)),
+        ("Desvio padrão", vv(s.dp_pop), vv(s.dp_amostral)),
+        ("Coeficiente de variação", f"{br(s.cv_pop, 1)}%", f"{br(s.cv_amostral, 1)}% · {cv_reading(s.cv_amostral)}"),
+    ]
+    st.dataframe(pd.DataFrame(rows, columns=["Medida", "Valor (populacional)", "Amostral / detalhe"]),
+                 hide_index=True, width="stretch")
+
+st.caption("Gasto municipal (decisão de cada prefeitura) nas funções Saúde e Saneamento, corrigido pela inflação. "
+           "Fora da análise: municípios que não informaram gasto e valores abaixo de 0,2× ou acima de 10× a "
+           "mediana do ano.")

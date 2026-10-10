@@ -11,12 +11,7 @@ class Term:
     end: int
 
 
-# 2016 é atribuído a Temer (interino desde 12/05, efetivo em 31/08) e
-# marcado como ano dividido.
-# TODO(split-2016): split 2016 spending between Dilma (Jan 1 - May 11) and Temer (May 12 - Dec 31)
-# WHY: SIOP SPARQL is annual only; needs a monthly source such as Tesouro
-#      Transparente dataset "despesas-da-uniao-mensais-desde-2008".
-# DONE-WHEN: `uv run python -m saude_br.pipeline && grep -c '^2016,' data/processed/anual.csv` prints 2 (one row per president)
+# 2016 é atribuído a Temer (interino desde 12/05, efetivo em 31/08).
 TERMS = (
     Term("FHC 2", "FHC", 1999, 2002),
     Term("Lula 1", "Lula", 2003, 2006),

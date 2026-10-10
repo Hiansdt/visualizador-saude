@@ -1,39 +1,34 @@
-"""Regressão sobre data/processed/: números já conferidos à mão contra o RREO."""
+"""Regressão sobre data/processed/municipios.csv (números conferidos no planejamento)."""
 
 import pandas as pd
 import pytest
 
 from saude_br.config import PROCESSED_DIR
-from saude_br.domain.analysis import term_changes
+from saude_br.domain.stats import summarize
 
-anual = pd.read_csv(PROCESSED_DIR / "anual.csv")
-
-
-def test_matches_rreo():
-    # RREO Anexo 02 União, Saúde (inclui intra-orçamentárias): 162,89 + 1,80 bi
-    emp = anual.set_index("ano")["empenhado"]
-    assert emp[2020] / 1e9 == pytest.approx(164.69, abs=0.01)
+df = pd.read_csv(PROCESSED_DIR / "municipios.csv", dtype={"cod_ibge": str})
+ok = df[df["valido"]]
 
 
-@pytest.mark.parametrize("mandato, var_total", [
-    ("Lula 1", 0.121),
-    ("Bolsonaro", -0.008),
-    ("Lula 3", 0.336),
-])
-def test_term_changes_per_capita(mandato, var_total):
-    changes = term_changes(anual, "real_per_capita").set_index("mandato")
-    assert changes.loc[mandato, "var_total"] == pytest.approx(var_total, abs=0.001)
+def test_at_least_1000_rows_every_year():
+    assert (ok.groupby("ano").size() >= 1000).all()
+    assert (ok.dropna(subset=["variacao_real_pct"]).groupby("ano").size() >= 1000).all()
 
 
-def test_partial_year_excluded_from_terms():
-    changes = term_changes(anual, "real_per_capita").set_index("mandato")
-    assert changes.loc["Lula 3", "ano_fim"] == anual.loc[~anual["ano_parcial"], "ano"].max()
+def test_headline_numbers():
+    s02 = summarize(ok.loc[ok["ano"] == 2002, "gasto_real_pc"].tolist())
+    s25 = summarize(ok.loc[ok["ano"] == 2025, "gasto_real_pc"].tolist())
+    assert s02.media == pytest.approx(560, abs=1)
+    assert s25.media == pytest.approx(2081, abs=1)
+    assert s02.cv_pop == pytest.approx(55.4, abs=0.1)
+    assert s25.cv_pop == pytest.approx(43.2, abs=0.1)
 
 
-def test_breakdowns_sum_to_total():
-    total = anual.set_index("ano")["empenhado"]
-    reg = pd.read_csv(PROCESSED_DIR / "regionalizacao.csv").set_index("ano")["total"]
-    sub = pd.read_csv(PROCESSED_DIR / "subfuncao.csv").groupby("ano")["emp"].sum()
-    # Arredondamento do SIOP: alguns reais por ano em totais de bilhões.
-    assert ((reg - total).abs() / total).max() < 1e-8
-    assert ((sub - total).abs() / total).max() < 1e-8
+def test_worst_year_for_cuts_is_2015():
+    pct = ok.dropna(subset=["variacao_real_pct"]).groupby("ano")["corte"].mean()
+    assert pct.idxmax() == 2015 and pct.max() == pytest.approx(0.731, abs=0.002)
+
+
+def test_exclusions_are_small_and_labeled():
+    assert (~df["valido"]).mean() < 0.01
+    assert (df.loc[~df["valido"], "exclusao"] != "").all()

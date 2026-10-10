@@ -67,3 +67,52 @@ def cv_reading(cv: float | None) -> str:
     if cv <= 30:
         return "média dispersão"
     return "alta dispersão"
+
+
+@dataclass(frozen=True)
+class ModalClass:
+    k: int  # número de classes (Sturges)
+    largura: float
+    inferior: float
+    superior: float
+    frequencia: int
+    freq_anterior: int  # classe antes da modal (0 se não houver)
+    freq_posterior: int  # classe depois da modal (0 se não houver)
+    czuber: float  # moda estimada dentro da classe modal
+
+
+def modal_class(values: list[float]) -> ModalClass:
+    """Classe modal com k = 1 + 3,322·log10(n) classes (Sturges) e a moda de Czuber.
+
+    Czuber: Mo = Li + h · d1 / (d1 + d2), com d1 e d2 = diferença de frequência para a
+    classe anterior e a seguinte.
+    """
+    x = sorted(float(v) for v in values)
+    n = len(x)
+    k = max(1, math.ceil(1 + 3.322 * math.log10(n)))
+    lo, h = x[0], (x[-1] - x[0]) / k or 1.0
+    freq = [0] * k
+    for v in x:
+        freq[min(int((v - lo) / h), k - 1)] += 1
+    i = max(range(k), key=lambda j: freq[j])
+    before = freq[i - 1] if i > 0 else 0
+    after = freq[i + 1] if i < k - 1 else 0
+    d1, d2 = freq[i] - before, freq[i] - after
+    li = lo + i * h
+    return ModalClass(k=k, largura=h, inferior=li, superior=li + h, frequencia=freq[i],
+                      freq_anterior=before, freq_posterior=after,
+                      czuber=li + h * d1 / (d1 + d2) if d1 + d2 else li + h / 2)
+
+
+def measures(values: list[float], decimals: int = 2) -> dict:
+    """As medidas da disciplina numa linha de tabela (populacional e amostral)."""
+    s = summarize(values, decimals)
+    m = modal_class(values)
+    return {
+        "n": s.n, "Média": s.media, "Mediana": s.mediana, "Moda (Czuber)": m.czuber,
+        "Classe modal (início)": m.inferior, "Classe modal (fim)": m.superior,
+        "Mínimo": s.minimo, "Máximo": s.maximo, "Amplitude": s.amplitude,
+        "Variância pop.": s.var_pop, "Variância amostral": s.var_amostral,
+        "DP pop.": s.dp_pop, "DP amostral": s.dp_amostral,
+        "CV pop. (%)": s.cv_pop, "CV amostral (%)": s.cv_amostral,
+    }
