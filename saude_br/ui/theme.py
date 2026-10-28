@@ -34,6 +34,10 @@ PLOTLY_CONFIG = {"displayModeBar": False, "scrollZoom": False}
 
 
 def is_dark() -> bool:
+    # Tema fixo no config: st.context.theme vem "dark" na 1ª carga (preferência do SO) antes de assentar.
+    base = st.get_option("theme.base")
+    if base in ("light", "dark"):
+        return base == "dark"
     try:
         return st.context.theme.type == "dark"
     except AttributeError:

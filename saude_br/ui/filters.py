@@ -1,4 +1,4 @@
-"""Filtros globais na barra lateral, compartilhados pelas duas páginas."""
+"""Filtros globais no topo da página, compartilhados pelas páginas."""
 
 from dataclasses import dataclass
 
@@ -14,16 +14,18 @@ class Filters:
     ano: int
 
 
-def render_sidebar() -> None:
-    with st.sidebar:
+def render_filters() -> None:
+    c_tema, c_ano = st.columns([1, 2], gap="large")
+    with c_tema:
         st.segmented_control("Tema", list(TEMAS), default="Gastos", key="tema")
-        tema = TEMAS[st.session_state.get("tema") or "Gastos"]
-        st.caption(tema.explicacao)
-        st.session_state.setdefault("ano", LAST_YEAR)
+    tema = TEMAS[st.session_state.get("tema") or "Gastos"]
+    st.session_state.setdefault("ano", LAST_YEAR)
+    with c_ano:
         # Mesmo intervalo nos dois temas: mudar o intervalo recria o slider e perde o ano escolhido.
         st.slider("Ano", FIRST_YEAR, LAST_YEAR, key="ano")
-        if tema.key == "Cortes" and st.session_state["ano"] == FIRST_YEAR:
-            st.caption(f"Cortes comparam com o ano anterior: {FIRST_YEAR} não tem variação, mostrando {FIRST_YEAR + 1}.")
+    st.caption(tema.explicacao)
+    if tema.key == "Cortes" and st.session_state["ano"] == FIRST_YEAR:
+        st.caption(f"Cortes comparam com o ano anterior: {FIRST_YEAR} não tem variação, mostrando {FIRST_YEAR + 1}.")
 
 
 def get_filters() -> Filters:
